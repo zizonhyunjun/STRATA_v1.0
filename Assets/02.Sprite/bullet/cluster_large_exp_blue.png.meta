@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: ec3c4b65233878e4d95a2e14bc4d8791
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 272379789250679488
+    second: cluster_large_exp_blue_0
+  - first:
+      213: 2842452112936145456
+    second: cluster_large_exp_blue_1
+  - first:
+      213: 9151170639512576423
+    second: cluster_large_exp_blue_2
+  - first:
+      213: 3672692266706566518
+    second: cluster_large_exp_blue_3
+  - first:
+      213: -2206691250463052540
+    second: cluster_large_exp_blue_4
+  - first:
+      213: 8185089075785426629
+    second: cluster_large_exp_blue_5
+  - first:
+      213: 5808203865347831476
+    second: cluster_large_exp_blue_6
+  - first:
+      213: -669680629766668064
+    second: cluster_large_exp_blue_7
+  - first:
+      213: 1331360690234834880
+    second: cluster_large_exp_blue_8
+  - first:
+      213: 5459500609728070154
+    second: cluster_large_exp_blue_9
+  - first:
+      213: 9160048412768956307
+    second: cluster_large_exp_blue_10
+  - first:
+      213: 586055387840462240
+    second: cluster_large_exp_blue_11
+  - first:
+      213: 2209324623867314736
+    second: cluster_large_exp_blue_12
+  - first:
+      213: -313109657361651775
+    second: cluster_large_exp_blue_13
+  - first:
+      213: -6604926745133908687
+    second: cluster_large_exp_blue_14
+  - first:
+      213: 7542123697112925282
+    second: cluster_large_exp_blue_15
+  - first:
+      213: -5918952349034082170
+    second: cluster_large_exp_blue_16
+  - first:
+      213: 6414591372828728435
+    second: cluster_large_exp_blue_17
+  - first:
+      213: -5288599915042560553
+    second: cluster_large_exp_blue_18
+  - first:
+      213: 713495890348040105
+    second: cluster_large_exp_blue_19
+  - first:
+      213: -8898517114441237934
+    second: cluster_large_exp_blue_20
+  - first:
+      213: 4562643053921650274
+    second: cluster_large_exp_blue_21
+  - first:
+      213: -3573730812409655948
+    second: cluster_large_exp_blue_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c25846a9ffa7c300800000000000000
+      internalID: 272379789250679488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 404
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0321e92032b627720800000000000000
+      internalID: 2842452112936145456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 400
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a12f263d7ffe70800000000000000
+      internalID: 9151170639512576423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 400
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d7e56682608f230800000000000000
+      internalID: 3672692266706566518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 399
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40def2fcff14061e0800000000000000
+      internalID: -2206691250463052540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 270
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6ee11e527479170800000000000000
+      internalID: 8185089075785426629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 351
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6bb1174a2ea9050800000000000000
+      internalID: 5808203865347831476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 270
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e04ccde301d4b6f0800000000000000
+      internalID: -669680629766668064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 358
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfbd517e71f97210800000000000000
+      internalID: 1331360690234834880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 269
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02ceddf0ea04cb40800000000000000
+      internalID: 5459500609728070154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 273
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f6978df770f1f70800000000000000
+      internalID: 9160048412768956307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 308
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad3fea2546122800800000000000000
+      internalID: 586055387840462240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 146
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03282273a0919ae10800000000000000
+      internalID: 2209324623867314736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 235
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7e631fc6c97abf0800000000000000
+      internalID: -313109657361651775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 145
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13df0d4ae169654a0800000000000000
+      internalID: -6604926745133908687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c87aea810ba860800000000000000
+      internalID: 7542123697112925282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 144
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6801c51d238abdda0800000000000000
+      internalID: -5918952349034082170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 144
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cddbc1ed4350950800000000000000
+      internalID: 6414591372828728435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d52ab0c56e1b96b0800000000000000
+      internalID: -5288599915042560553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 93
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af55e46bb8d6e900800000000000000
+      internalID: 713495890348040105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 18
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25afefda4dd128480800000000000000
+      internalID: -8898517114441237934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 22
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26647e10fa3c15f30800000000000000
+      internalID: 4562643053921650274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cluster_large_exp_blue_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 22
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d4473b2ce876ec0800000000000000
+      internalID: -3573730812409655948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cluster_large_exp_blue_0: 272379789250679488
+      cluster_large_exp_blue_1: 2842452112936145456
+      cluster_large_exp_blue_10: 9160048412768956307
+      cluster_large_exp_blue_11: 586055387840462240
+      cluster_large_exp_blue_12: 2209324623867314736
+      cluster_large_exp_blue_13: -313109657361651775
+      cluster_large_exp_blue_14: -6604926745133908687
+      cluster_large_exp_blue_15: 7542123697112925282
+      cluster_large_exp_blue_16: -5918952349034082170
+      cluster_large_exp_blue_17: 6414591372828728435
+      cluster_large_exp_blue_18: -5288599915042560553
+      cluster_large_exp_blue_19: 713495890348040105
+      cluster_large_exp_blue_2: 9151170639512576423
+      cluster_large_exp_blue_20: -8898517114441237934
+      cluster_large_exp_blue_21: 4562643053921650274
+      cluster_large_exp_blue_22: -3573730812409655948
+      cluster_large_exp_blue_3: 3672692266706566518
+      cluster_large_exp_blue_4: -2206691250463052540
+      cluster_large_exp_blue_5: 8185089075785426629
+      cluster_large_exp_blue_6: 5808203865347831476
+      cluster_large_exp_blue_7: -669680629766668064
+      cluster_large_exp_blue_8: 1331360690234834880
+      cluster_large_exp_blue_9: 5459500609728070154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

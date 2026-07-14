@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: d47c4ad883d101b4283b26e15019ec7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4655819816971201708
+    second: effect_shieldLoop_0
+  - first:
+      213: 2875709539373471593
+    second: effect_shieldLoop_1
+  - first:
+      213: 426428343692736389
+    second: effect_shieldLoop_2
+  - first:
+      213: -8020722567534938229
+    second: effect_shieldLoop_3
+  - first:
+      213: -8390733233723255921
+    second: effect_shieldLoop_4
+  - first:
+      213: -3888799549811184827
+    second: effect_shieldLoop_5
+  - first:
+      213: 4394109811995848991
+    second: effect_shieldLoop_6
+  - first:
+      213: -3999801990048283329
+    second: effect_shieldLoop_7
+  - first:
+      213: 7601773566385306697
+    second: effect_shieldLoop_8
+  - first:
+      213: -8696806114471437815
+    second: effect_shieldLoop_9
+  - first:
+      213: 5582192974159678433
+    second: effect_shieldLoop_10
+  - first:
+      213: -6468690253187045719
+    second: effect_shieldLoop_11
+  - first:
+      213: 5680359578545469994
+    second: effect_shieldLoop_12
+  - first:
+      213: -2143214447345485569
+    second: effect_shieldLoop_13
+  - first:
+      213: -3485539034904148400
+    second: effect_shieldLoop_14
+  - first:
+      213: -5126710984427262261
+    second: effect_shieldLoop_15
+  - first:
+      213: -7468902360705312624
+    second: effect_shieldLoop_16
+  - first:
+      213: 4282547675775962467
+    second: effect_shieldLoop_17
+  - first:
+      213: -1104723527750838690
+    second: effect_shieldLoop_18
+  - first:
+      213: -1468384485904863856
+    second: effect_shieldLoop_19
+  - first:
+      213: -1338547384299901704
+    second: effect_shieldLoop_20
+  - first:
+      213: -5311240135736233433
+    second: effect_shieldLoop_21
+  - first:
+      213: 5253750780760854192
+    second: effect_shieldLoop_22
+  - first:
+      213: 1459830232486984158
+    second: effect_shieldLoop_23
+  - first:
+      213: 375398208801211445
+    second: effect_shieldLoop_24
+  - first:
+      213: -6497307229131427643
+    second: effect_shieldLoop_25
+  - first:
+      213: -6773228880313653841
+    second: effect_shieldLoop_26
+  - first:
+      213: 9198897863936934483
+    second: effect_shieldLoop_27
+  - first:
+      213: 6518310443003905359
+    second: effect_shieldLoop_28
+  - first:
+      213: -4489244108200615544
+    second: effect_shieldLoop_29
+  - first:
+      213: 861586368100950851
+    second: effect_shieldLoop_30
+  - first:
+      213: 16619763771144749
+    second: effect_shieldLoop_31
+  - first:
+      213: 1770320187929451748
+    second: effect_shieldLoop_32
+  - first:
+      213: -6931024732629402504
+    second: effect_shieldLoop_33
+  - first:
+      213: -8218870561289229890
+    second: effect_shieldLoop_34
+  - first:
+      213: 1589778080625427798
+    second: effect_shieldLoop_35
+  - first:
+      213: 5969495773503127662
+    second: effect_shieldLoop_36
+  - first:
+      213: -5147877512053307077
+    second: effect_shieldLoop_37
+  - first:
+      213: -6368493497470289065
+    second: effect_shieldLoop_38
+  - first:
+      213: 4771155640206248306
+    second: effect_shieldLoop_39
+  - first:
+      213: 6196430382268498348
+    second: effect_shieldLoop_40
+  - first:
+      213: 2069477264481340127
+    second: effect_shieldLoop_41
+  - first:
+      213: 8440429144675513191
+    second: effect_shieldLoop_42
+  - first:
+      213: 8922847990515094943
+    second: effect_shieldLoop_43
+  - first:
+      213: 5584347426772858299
+    second: effect_shieldLoop_44
+  - first:
+      213: 6278666781310964359
+    second: effect_shieldLoop_45
+  - first:
+      213: -5077583024042897735
+    second: effect_shieldLoop_46
+  - first:
+      213: -2400107803847449753
+    second: effect_shieldLoop_47
+  - first:
+      213: 7607507861953761457
+    second: effect_shieldLoop_48
+  - first:
+      213: -4772379543489154252
+    second: effect_shieldLoop_49
+  - first:
+      213: -3751852973480961642
+    second: effect_shieldLoop_50
+  - first:
+      213: -1922604404387831933
+    second: effect_shieldLoop_51
+  - first:
+      213: 9094142915300956284
+    second: effect_shieldLoop_52
+  - first:
+      213: 5945142183935466560
+    second: effect_shieldLoop_53
+  - first:
+      213: 3032025777801264006
+    second: effect_shieldLoop_54
+  - first:
+      213: 503153938778776506
+    second: effect_shieldLoop_55
+  - first:
+      213: 1117345417115448779
+    second: effect_shieldLoop_56
+  - first:
+      213: -2706383269655207064
+    second: effect_shieldLoop_57
+  - first:
+      213: -2289580296855547003
+    second: effect_shieldLoop_58
+  - first:
+      213: 8348531585572963888
+    second: effect_shieldLoop_59
+  - first:
+      213: -1982863286067445046
+    second: effect_shieldLoop_60
+  - first:
+      213: -914876603549934901
+    second: effect_shieldLoop_61
+  - first:
+      213: 7496799380838304013
+    second: effect_shieldLoop_62
+  - first:
+      213: 5259341442079663
+    second: effect_shieldLoop_63
+  - first:
+      213: 7152670492040539404
+    second: effect_shieldLoop_64
+  - first:
+      213: 6580773999122781761
+    second: effect_shieldLoop_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_shieldLoop_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 919
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45315374b84336fb0800000000000000
+      internalID: -4655819816971201708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967de83079298e720800000000000000
+      internalID: 2875709539373471593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 946
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587b6fbb15afae500800000000000000
+      internalID: 426428343692736389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 919
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87fe18025ba0b090800000000000000
+      internalID: -8020722567534938229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 915
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835cd674902e8b80800000000000000
+      internalID: -8390733233723255921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 911
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b2ec6c965380ac0800000000000000
+      internalID: -3888799549811184827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 944
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113210d7930bfc30800000000000000
+      internalID: 4394109811995848991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 931
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35854b2849dd78c0800000000000000
+      internalID: -3999801990048283329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 913
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cb95f58ccee7960800000000000000
+      internalID: 7601773566385306697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 783
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a1c72aaecbe4780800000000000000
+      internalID: -8696806114471437815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 863
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb087c2feee77d40800000000000000
+      internalID: 5582192974159678433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 780
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a621c0cc789a36a0800000000000000
+      internalID: -6468690253187045719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 780
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ab0bbd0f0b4de40800000000000000
+      internalID: 5680359578545469994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 859
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8bc7cb0d5c142e0800000000000000
+      internalID: -2143214447345485569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 782
+        width: 25
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056c7c507b0e0afc0800000000000000
+      internalID: -3485539034904148400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 847
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceae1ba5834ad8b0800000000000000
+      internalID: -5126710984427262261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 781
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0985518ffd0295890800000000000000
+      internalID: -7468902360705312624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 782
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d0d44db6aae6b30800000000000000
+      internalID: 4282547675775962467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 781
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e561569fdcb3ba0f0800000000000000
+      internalID: -1104723527750838690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 779
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d22f307104f9be0800000000000000
+      internalID: -1468384485904863856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 661
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fca6c3fe368c6de0800000000000000
+      internalID: -1338547384299901704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 652
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722f4a89c3faa46b0800000000000000
+      internalID: -5311240135736233433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 650
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be8ea1ef7219e840800000000000000
+      internalID: 5253750780760854192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 654
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed933c7acdb524410800000000000000
+      internalID: 1459830232486984158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 658
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5340ae49eaea53500800000000000000
+      internalID: 375398208801211445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_25
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 658
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c03b03df7de4d5a0800000000000000
+      internalID: -6497307229131427643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 535
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ec7e2838a002a0800000000000000
+      internalID: -6773228880313653841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 537
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3528f019edc09af70800000000000000
+      internalID: 9198897863936934483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 536
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4587faffc0b57a50800000000000000
+      internalID: 6518310443003905359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_29
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 569
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881efa4c44003b1c0800000000000000
+      internalID: -4489244108200615544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 565
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e9f5ac38f4fb00800000000000000
+      internalID: 861586368100950851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 531
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a74db469b0b3000800000000000000
+      internalID: 16619763771144749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 557
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecdc34d4d0719810800000000000000
+      internalID: 1770320187929451748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 558
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c7d225abd00df90800000000000000
+      internalID: -6931024732629402504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 527
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a07b15c4b0fd80800000000000000
+      internalID: -8218870561289229890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 529
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6558167cdb6001610800000000000000
+      internalID: 1589778080625427798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 532
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6089db37c8e7d250800000000000000
+      internalID: 5969495773503127662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 530
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3947da6da01f88b0800000000000000
+      internalID: -5147877512053307077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 405
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bf5e0e7e09e97a0800000000000000
+      internalID: -6368493497470289065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 399
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279489ea6cc863240800000000000000
+      internalID: 4771155640206248306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 398
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14d824a942ef550800000000000000
+      internalID: 6196430382268498348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 399
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda48248b9248bc10800000000000000
+      internalID: 2069477264481340127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 407
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763fc38769d622570800000000000000
+      internalID: 8440429144675513191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 428
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95d57bd8f254db70800000000000000
+      internalID: 8922847990515094943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 398
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5b923c5669f7d40800000000000000
+      internalID: 5584347426772858299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_45
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 428
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782d51bfb2e422750800000000000000
+      internalID: 6278666781310964359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 417
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be8e5e442dc889b0800000000000000
+      internalID: -5077583024042897735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 301
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a7013baa11bed0800000000000000
+      internalID: -2400107803847449753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 289
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0deb9181c439960800000000000000
+      internalID: 7607507861953761457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 282
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433fcf0271a15cdb0800000000000000
+      internalID: -4772379543489154252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_50
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 277
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6999c2a499dbeebc0800000000000000
+      internalID: -3751852973480961642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_51
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 274
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9cd80b798155e0800000000000000
+      internalID: -1922604404387831933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 90
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7816237cc2e43e70800000000000000
+      internalID: 9094142915300956284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_53
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 175
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd9ac4153618250800000000000000
+      internalID: 5945142183935466560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 143
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bfbab616be31a20800000000000000
+      internalID: 3032025777801264006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 151
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab36f3c67df8bf600800000000000000
+      internalID: 503153938778776506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 193
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5b396acbb918f00800000000000000
+      internalID: 1117345417115448779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_57
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 165
+        width: 75
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863242a51cef07ad0800000000000000
+      internalID: -2706383269655207064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 43
+        width: 88
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5831139c9d6c930e0800000000000000
+      internalID: -2289580296855547003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 64
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0368432ae31fbd370800000000000000
+      internalID: 8348531585572963888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac249c3d8547b74e0800000000000000
+      internalID: -1982863286067445046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_61
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 23
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca17188394bd43f0800000000000000
+      internalID: -914876603549934901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 29
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d094c3f215bf90860800000000000000
+      internalID: 7496799380838304013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_63
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 16
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab586ad75fa21000800000000000000
+      internalID: 5259341442079663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 48
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dae718ae3634360800000000000000
+      internalID: 7152670492040539404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_shieldLoop_65
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 53
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14617d4f51b935b50800000000000000
+      internalID: 6580773999122781761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_shieldLoop_0: -4655819816971201708
+      effect_shieldLoop_1: 2875709539373471593
+      effect_shieldLoop_10: 5582192974159678433
+      effect_shieldLoop_11: -6468690253187045719
+      effect_shieldLoop_12: 5680359578545469994
+      effect_shieldLoop_13: -2143214447345485569
+      effect_shieldLoop_14: -3485539034904148400
+      effect_shieldLoop_15: -5126710984427262261
+      effect_shieldLoop_16: -7468902360705312624
+      effect_shieldLoop_17: 4282547675775962467
+      effect_shieldLoop_18: -1104723527750838690
+      effect_shieldLoop_19: -1468384485904863856
+      effect_shieldLoop_2: 426428343692736389
+      effect_shieldLoop_20: -1338547384299901704
+      effect_shieldLoop_21: -5311240135736233433
+      effect_shieldLoop_22: 5253750780760854192
+      effect_shieldLoop_23: 1459830232486984158
+      effect_shieldLoop_24: 375398208801211445
+      effect_shieldLoop_25: -6497307229131427643
+      effect_shieldLoop_26: -6773228880313653841
+      effect_shieldLoop_27: 9198897863936934483
+      effect_shieldLoop_28: 6518310443003905359
+      effect_shieldLoop_29: -4489244108200615544
+      effect_shieldLoop_3: -8020722567534938229
+      effect_shieldLoop_30: 861586368100950851
+      effect_shieldLoop_31: 16619763771144749
+      effect_shieldLoop_32: 1770320187929451748
+      effect_shieldLoop_33: -6931024732629402504
+      effect_shieldLoop_34: -8218870561289229890
+      effect_shieldLoop_35: 1589778080625427798
+      effect_shieldLoop_36: 5969495773503127662
+      effect_shieldLoop_37: -5147877512053307077
+      effect_shieldLoop_38: -6368493497470289065
+      effect_shieldLoop_39: 4771155640206248306
+      effect_shieldLoop_4: -8390733233723255921
+      effect_shieldLoop_40: 6196430382268498348
+      effect_shieldLoop_41: 2069477264481340127
+      effect_shieldLoop_42: 8440429144675513191
+      effect_shieldLoop_43: 8922847990515094943
+      effect_shieldLoop_44: 5584347426772858299
+      effect_shieldLoop_45: 6278666781310964359
+      effect_shieldLoop_46: -5077583024042897735
+      effect_shieldLoop_47: -2400107803847449753
+      effect_shieldLoop_48: 7607507861953761457
+      effect_shieldLoop_49: -4772379543489154252
+      effect_shieldLoop_5: -3888799549811184827
+      effect_shieldLoop_50: -3751852973480961642
+      effect_shieldLoop_51: -1922604404387831933
+      effect_shieldLoop_52: 9094142915300956284
+      effect_shieldLoop_53: 5945142183935466560
+      effect_shieldLoop_54: 3032025777801264006
+      effect_shieldLoop_55: 503153938778776506
+      effect_shieldLoop_56: 1117345417115448779
+      effect_shieldLoop_57: -2706383269655207064
+      effect_shieldLoop_58: -2289580296855547003
+      effect_shieldLoop_59: 8348531585572963888
+      effect_shieldLoop_6: 4394109811995848991
+      effect_shieldLoop_60: -1982863286067445046
+      effect_shieldLoop_61: -914876603549934901
+      effect_shieldLoop_62: 7496799380838304013
+      effect_shieldLoop_63: 5259341442079663
+      effect_shieldLoop_64: 7152670492040539404
+      effect_shieldLoop_65: 6580773999122781761
+      effect_shieldLoop_7: -3999801990048283329
+      effect_shieldLoop_8: 7601773566385306697
+      effect_shieldLoop_9: -8696806114471437815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

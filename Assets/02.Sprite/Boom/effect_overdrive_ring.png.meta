@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 7821e06c7ea0b854e9cc9ff20ee24454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7989443915177169793
+    second: effect_overdrive_ring_0
+  - first:
+      213: -762275534024023273
+    second: effect_overdrive_ring_1
+  - first:
+      213: -7029040713638925748
+    second: effect_overdrive_ring_2
+  - first:
+      213: -7094102932008623127
+    second: effect_overdrive_ring_3
+  - first:
+      213: -5546500565373420694
+    second: effect_overdrive_ring_4
+  - first:
+      213: -7662420270715926080
+    second: effect_overdrive_ring_5
+  - first:
+      213: 9175883906603131536
+    second: effect_overdrive_ring_6
+  - first:
+      213: 6943270136681851046
+    second: effect_overdrive_ring_7
+  - first:
+      213: 2748986715896809243
+    second: effect_overdrive_ring_8
+  - first:
+      213: -7832356683784350691
+    second: effect_overdrive_ring_9
+  - first:
+      213: -6382916270155440666
+    second: effect_overdrive_ring_10
+  - first:
+      213: -7667720969948764754
+    second: effect_overdrive_ring_11
+  - first:
+      213: -896706323338742282
+    second: effect_overdrive_ring_12
+  - first:
+      213: 6480575338720981089
+    second: effect_overdrive_ring_13
+  - first:
+      213: -7538326631849819874
+    second: effect_overdrive_ring_14
+  - first:
+      213: -7022411084015824790
+    second: effect_overdrive_ring_15
+  - first:
+      213: 6041356091842200953
+    second: effect_overdrive_ring_16
+  - first:
+      213: 2988509677476399806
+    second: effect_overdrive_ring_17
+  - first:
+      213: -7912279856606181422
+    second: effect_overdrive_ring_18
+  - first:
+      213: -7564232571984127586
+    second: effect_overdrive_ring_19
+  - first:
+      213: 5641941437386481537
+    second: effect_overdrive_ring_20
+  - first:
+      213: -4946842849905884846
+    second: effect_overdrive_ring_21
+  - first:
+      213: 3060859370242219135
+    second: effect_overdrive_ring_22
+  - first:
+      213: -2572407557530825394
+    second: effect_overdrive_ring_23
+  - first:
+      213: -4909403666162558855
+    second: effect_overdrive_ring_24
+  - first:
+      213: -8595995514863723382
+    second: effect_overdrive_ring_25
+  - first:
+      213: -1213500781390152380
+    second: effect_overdrive_ring_26
+  - first:
+      213: -6676904634819023616
+    second: effect_overdrive_ring_27
+  - first:
+      213: -8134172018543410641
+    second: effect_overdrive_ring_28
+  - first:
+      213: 2263453778341108041
+    second: effect_overdrive_ring_29
+  - first:
+      213: 5311469576210925879
+    second: effect_overdrive_ring_30
+  - first:
+      213: 3800791357879970315
+    second: effect_overdrive_ring_31
+  - first:
+      213: -4521896572008599836
+    second: effect_overdrive_ring_32
+  - first:
+      213: 9080178147855478332
+    second: effect_overdrive_ring_33
+  - first:
+      213: 262655698183446336
+    second: effect_overdrive_ring_34
+  - first:
+      213: 8029797611562045972
+    second: effect_overdrive_ring_35
+  - first:
+      213: -6100583982441503386
+    second: effect_overdrive_ring_36
+  - first:
+      213: 6599763707939936639
+    second: effect_overdrive_ring_37
+  - first:
+      213: -6159757878761355950
+    second: effect_overdrive_ring_38
+  - first:
+      213: -1639162665165840619
+    second: effect_overdrive_ring_39
+  - first:
+      213: -2409893912076870153
+    second: effect_overdrive_ring_40
+  - first:
+      213: 732289194355333907
+    second: effect_overdrive_ring_41
+  - first:
+      213: 1801256756010506721
+    second: effect_overdrive_ring_42
+  - first:
+      213: 4641152449885873863
+    second: effect_overdrive_ring_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_overdrive_ring_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 791
+        width: 207
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839a0539e430ee60800000000000000
+      internalID: 7989443915177169793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 791
+        width: 206
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e685c07adb65f0800000000000000
+      internalID: -762275534024023273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 791
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a2bcf56b4d37e90800000000000000
+      internalID: -7029040713638925748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 963
+        width: 79
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3a19138feac8d90800000000000000
+      internalID: -7094102932008623127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 791
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bf9665f1fd603b0800000000000000
+      internalID: -5546500565373420694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 968
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9893c6c5d99a590800000000000000
+      internalID: -7662420270715926080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 535
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092ad411cc9475f70800000000000000
+      internalID: 9175883906603131536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 718
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8ef7cf6637b5060800000000000000
+      internalID: 6943270136681851046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 535
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b170c457adc562620800000000000000
+      internalID: 2748986715896809243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 735
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1490ecf711ed4390800000000000000
+      internalID: -7832356683784350691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_10
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 536
+        width: 204
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edd25e68735b67a0800000000000000
+      internalID: -6382916270155440666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 536
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5e3653768c69590800000000000000
+      internalID: -7667720969948764754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 280
+        width: 204
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f53c8199524e83f0800000000000000
+      internalID: -896706323338742282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 281
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160fe9c5fe0afe950800000000000000
+      internalID: 6480575338720981089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 311
+        width: 203
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1189bb3edb726790800000000000000
+      internalID: -7538326631849819874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 281
+        width: 185
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60987e43526b8e90800000000000000
+      internalID: -7022411084015824790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_16
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 321
+        width: 87
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97585e76b5537d350800000000000000
+      internalID: 6041356091842200953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_17
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 297
+        width: 113
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4cc5c7b1597920800000000000000
+      internalID: 2988509677476399806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_18
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 475
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d78287346fe13290800000000000000
+      internalID: -7912279856606181422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_19
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 408
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9952748d82760790800000000000000
+      internalID: -7564232571984127586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_20
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 288
+        width: 137
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f5af258d33c4e40800000000000000
+      internalID: 5641941437386481537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_21
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 281
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251cda333a8495bb0800000000000000
+      internalID: -4946842849905884846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 69
+        width: 73
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c96be416b5a7a20800000000000000
+      internalID: 3060859370242219135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 88
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d48d3a4f8fc4cd0800000000000000
+      internalID: -2572407557530825394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_24
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 162
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9785163706b4edbb0800000000000000
+      internalID: -4909403666162558855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 202
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c52bd6f93e4b880800000000000000
+      internalID: -8595995514863723382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_26
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 192
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44db49ef777c82fe0800000000000000
+      internalID: -1213500781390152380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 151
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00de3724c9ed653a0800000000000000
+      internalID: -6676904634819023616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_28
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 171
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224cc455ad9d1f80800000000000000
+      internalID: -8134172018543410641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_29
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 166
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94999871837696f10800000000000000
+      internalID: 2263453778341108041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739c85d207126b940800000000000000
+      internalID: 5311469576210925879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_31
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 171
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6fcf3a9f1fb430800000000000000
+      internalID: 3800791357879970315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 127
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeee5a960ffe31c0800000000000000
+      internalID: -4521896572008599836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ea038aae5430e70800000000000000
+      internalID: 9080178147855478332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 45
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd47447f325a300800000000000000
+      internalID: 262655698183446336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_35
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 50
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4129f6f42629f6f60800000000000000
+      internalID: 8029797611562045972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 50
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665e224b03f565ba0800000000000000
+      internalID: -6100583982441503386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_37
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 53
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7956451022179b50800000000000000
+      internalID: 6599763707939936639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_38
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 53
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255040658d4248aa0800000000000000
+      internalID: -6159757878761355950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_39
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 67
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f15bd9d368049e0800000000000000
+      internalID: -1639162665165840619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 27
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd184051465e8ed0800000000000000
+      internalID: -2409893912076870153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_41
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 43
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b1866742d992a00800000000000000
+      internalID: 732289194355333907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_42
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 43
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e95743e9795ff810800000000000000
+      internalID: 1801256756010506721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_ring_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 26
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6a1e3309fa86040800000000000000
+      internalID: 4641152449885873863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_overdrive_ring_0: 7989443915177169793
+      effect_overdrive_ring_1: -762275534024023273
+      effect_overdrive_ring_10: -6382916270155440666
+      effect_overdrive_ring_11: -7667720969948764754
+      effect_overdrive_ring_12: -896706323338742282
+      effect_overdrive_ring_13: 6480575338720981089
+      effect_overdrive_ring_14: -7538326631849819874
+      effect_overdrive_ring_15: -7022411084015824790
+      effect_overdrive_ring_16: 6041356091842200953
+      effect_overdrive_ring_17: 2988509677476399806
+      effect_overdrive_ring_18: -7912279856606181422
+      effect_overdrive_ring_19: -7564232571984127586
+      effect_overdrive_ring_2: -7029040713638925748
+      effect_overdrive_ring_20: 5641941437386481537
+      effect_overdrive_ring_21: -4946842849905884846
+      effect_overdrive_ring_22: 3060859370242219135
+      effect_overdrive_ring_23: -2572407557530825394
+      effect_overdrive_ring_24: -4909403666162558855
+      effect_overdrive_ring_25: -8595995514863723382
+      effect_overdrive_ring_26: -1213500781390152380
+      effect_overdrive_ring_27: -6676904634819023616
+      effect_overdrive_ring_28: -8134172018543410641
+      effect_overdrive_ring_29: 2263453778341108041
+      effect_overdrive_ring_3: -7094102932008623127
+      effect_overdrive_ring_30: 5311469576210925879
+      effect_overdrive_ring_31: 3800791357879970315
+      effect_overdrive_ring_32: -4521896572008599836
+      effect_overdrive_ring_33: 9080178147855478332
+      effect_overdrive_ring_34: 262655698183446336
+      effect_overdrive_ring_35: 8029797611562045972
+      effect_overdrive_ring_36: -6100583982441503386
+      effect_overdrive_ring_37: 6599763707939936639
+      effect_overdrive_ring_38: -6159757878761355950
+      effect_overdrive_ring_39: -1639162665165840619
+      effect_overdrive_ring_4: -5546500565373420694
+      effect_overdrive_ring_40: -2409893912076870153
+      effect_overdrive_ring_41: 732289194355333907
+      effect_overdrive_ring_42: 1801256756010506721
+      effect_overdrive_ring_43: 4641152449885873863
+      effect_overdrive_ring_5: -7662420270715926080
+      effect_overdrive_ring_6: 9175883906603131536
+      effect_overdrive_ring_7: 6943270136681851046
+      effect_overdrive_ring_8: 2748986715896809243
+      effect_overdrive_ring_9: -7832356683784350691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

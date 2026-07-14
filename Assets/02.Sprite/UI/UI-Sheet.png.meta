@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: e4a386ede8fb2b448ad614e2d055498e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3491606951004172564
+    second: UI-Sheet_0
+  - first:
+      213: -3805555814658317902
+    second: UI-Sheet_1
+  - first:
+      213: -7659719219588376922
+    second: UI-Sheet_2
+  - first:
+      213: 847938663019189637
+    second: UI-Sheet_3
+  - first:
+      213: 8025208106420794298
+    second: UI-Sheet_4
+  - first:
+      213: 6927871845243352718
+    second: UI-Sheet_5
+  - first:
+      213: 3962898519904498086
+    second: UI-Sheet_6
+  - first:
+      213: 215619929505255624
+    second: UI-Sheet_7
+  - first:
+      213: 74183493968198821
+    second: UI-Sheet_8
+  - first:
+      213: -1581019339966751291
+    second: UI-Sheet_9
+  - first:
+      213: 1268270390649459088
+    second: UI-Sheet_10
+  - first:
+      213: 7870247576851652271
+    second: UI-Sheet_11
+  - first:
+      213: -3366575344975593067
+    second: UI-Sheet_12
+  - first:
+      213: -2486938615278937964
+    second: UI-Sheet_13
+  - first:
+      213: 5447447369142568888
+    second: UI-Sheet_14
+  - first:
+      213: -3355569400566685186
+    second: UI-Sheet_15
+  - first:
+      213: 1294441003743506389
+    second: UI-Sheet_16
+  - first:
+      213: 4588401181230963986
+    second: UI-Sheet_17
+  - first:
+      213: 7391055285172780247
+    second: UI-Sheet_18
+  - first:
+      213: -6910319074129358441
+    second: UI-Sheet_19
+  - first:
+      213: -3024362442561061345
+    second: UI-Sheet_20
+  - first:
+      213: -783343476385621881
+    second: UI-Sheet_21
+  - first:
+      213: 4168526316993060236
+    second: UI-Sheet_22
+  - first:
+      213: 5631603608446631291
+    second: UI-Sheet_23
+  - first:
+      213: -7828998255842380022
+    second: UI-Sheet_24
+  - first:
+      213: 1964575871306632858
+    second: UI-Sheet_25
+  - first:
+      213: -4455814744589271937
+    second: UI-Sheet_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee8c163af15b8fc0800000000000000
+      internalID: -3491606951004172564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b16e563623ff2bc0800000000000000
+      internalID: -3805555814658317902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI-Sheet_0: -3491606951004172564
+      UI-Sheet_1: -3805555814658317902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

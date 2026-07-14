@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 8fb77bf2490e98b4db2905678f7473d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8051181850454495909
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_0
+  - first:
+      213: -806346762267515357
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_1
+  - first:
+      213: -7395275270298785643
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_2
+  - first:
+      213: -2497251760960669079
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_3
+  - first:
+      213: 6158867358002257859
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_4
+  - first:
+      213: -4788324937297989918
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_5
+  - first:
+      213: -5193688494161100253
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_6
+  - first:
+      213: 4023585216231533618
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_7
+  - first:
+      213: 8383306140042225843
+    second: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 225
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d669593c4744090800000000000000
+      internalID: -8051181850454495909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 227
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326224554e74fc4f0800000000000000
+      internalID: -806346762267515357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 226
+        width: 79
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5982c91d254be5990800000000000000
+      internalID: -7395275270298785643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 132
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a783121caf75dd0800000000000000
+      internalID: -2497251760960669079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 133
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf19742b31b87550800000000000000
+      internalID: 6158867358002257859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 132
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6533d6d37c8db0800000000000000
+      internalID: -4788324937297989918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228e77f4df4ce7b0800000000000000
+      internalID: -5193688494161100253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 30
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c6ef0bf65a6d730800000000000000
+      internalID: 4023585216231533618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 30
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b86198848c775470800000000000000
+      internalID: 8383306140042225843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_0: -8051181850454495909
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_1: -806346762267515357
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_2: -7395275270298785643
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_3: -2497251760960669079
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_4: 6158867358002257859
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_5: -4788324937297989918
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_6: -5193688494161100253
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_7: 4023585216231533618
+      pixellab-Use-the-uploaded-image-as-the--1783327131938-Photoroom_8: 8383306140042225843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

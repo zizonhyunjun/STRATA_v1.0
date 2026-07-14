@@ -1,0 +1,1874 @@
+fileFormatVersion: 2
+guid: 335f5ddf5fb77d94db012838b232c19b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8398752310339837156
+    second: bullet_blackhole_0
+  - first:
+      213: 8683123570601934251
+    second: bullet_blackhole_1
+  - first:
+      213: 8120505615364112325
+    second: bullet_blackhole_2
+  - first:
+      213: -4373148131518172457
+    second: bullet_blackhole_3
+  - first:
+      213: 3475341798266377132
+    second: bullet_blackhole_4
+  - first:
+      213: -3762210932298972047
+    second: bullet_blackhole_5
+  - first:
+      213: 5789821568163082767
+    second: bullet_blackhole_6
+  - first:
+      213: 620784645239308690
+    second: bullet_blackhole_7
+  - first:
+      213: 4358801292458002677
+    second: bullet_blackhole_8
+  - first:
+      213: 4973863907378235663
+    second: bullet_blackhole_9
+  - first:
+      213: 1071014698365594200
+    second: bullet_blackhole_10
+  - first:
+      213: 730770555436062100
+    second: bullet_blackhole_11
+  - first:
+      213: 7497054363297474990
+    second: bullet_blackhole_12
+  - first:
+      213: -30844893783540590
+    second: bullet_blackhole_13
+  - first:
+      213: -799617088811302172
+    second: bullet_blackhole_14
+  - first:
+      213: 250781328968079264
+    second: bullet_blackhole_15
+  - first:
+      213: -6481459976098040721
+    second: bullet_blackhole_16
+  - first:
+      213: 3504219812824935978
+    second: bullet_blackhole_17
+  - first:
+      213: 5963743866316901051
+    second: bullet_blackhole_18
+  - first:
+      213: -6050932286629309077
+    second: bullet_blackhole_19
+  - first:
+      213: 8393535037319893918
+    second: bullet_blackhole_20
+  - first:
+      213: -991466238297073781
+    second: bullet_blackhole_21
+  - first:
+      213: -2554331105374838583
+    second: bullet_blackhole_22
+  - first:
+      213: 7167578695108633458
+    second: bullet_blackhole_23
+  - first:
+      213: 4475151294923153853
+    second: bullet_blackhole_24
+  - first:
+      213: -229184388176244976
+    second: bullet_blackhole_25
+  - first:
+      213: -1434073896666353816
+    second: bullet_blackhole_26
+  - first:
+      213: 1877869535427929626
+    second: bullet_blackhole_27
+  - first:
+      213: 4066940139704179852
+    second: bullet_blackhole_28
+  - first:
+      213: 5191390076250308267
+    second: bullet_blackhole_29
+  - first:
+      213: 4440485405749363810
+    second: bullet_blackhole_30
+  - first:
+      213: -6951180674269430682
+    second: bullet_blackhole_31
+  - first:
+      213: -938756630636673835
+    second: bullet_blackhole_32
+  - first:
+      213: -914136640343677005
+    second: bullet_blackhole_33
+  - first:
+      213: -384768403223132523
+    second: bullet_blackhole_34
+  - first:
+      213: -1090127048260010914
+    second: bullet_blackhole_35
+  - first:
+      213: 6830512745756094061
+    second: bullet_blackhole_36
+  - first:
+      213: 2845140030436027310
+    second: bullet_blackhole_37
+  - first:
+      213: -4248180822639612833
+    second: bullet_blackhole_38
+  - first:
+      213: -9147944178594548699
+    second: bullet_blackhole_39
+  - first:
+      213: 447690453837934084
+    second: bullet_blackhole_40
+  - first:
+      213: 7884832793679607188
+    second: bullet_blackhole_41
+  - first:
+      213: -4855055063626256402
+    second: bullet_blackhole_42
+  - first:
+      213: -8812593748310638395
+    second: bullet_blackhole_43
+  - first:
+      213: 2326908884726651214
+    second: bullet_blackhole_44
+  - first:
+      213: -4261887663264632197
+    second: bullet_blackhole_45
+  - first:
+      213: 3793310868536386424
+    second: bullet_blackhole_46
+  - first:
+      213: -4017458025915740706
+    second: bullet_blackhole_47
+  - first:
+      213: -7533367065973030352
+    second: bullet_blackhole_48
+  - first:
+      213: -6278513540759304670
+    second: bullet_blackhole_49
+  - first:
+      213: -1269762997086398655
+    second: bullet_blackhole_50
+  - first:
+      213: -2508179485835451267
+    second: bullet_blackhole_51
+  - first:
+      213: 4350491660013361749
+    second: bullet_blackhole_52
+  - first:
+      213: -2346009949539055030
+    second: bullet_blackhole_53
+  - first:
+      213: -6911339077325154340
+    second: bullet_blackhole_54
+  - first:
+      213: 1141618168629038066
+    second: bullet_blackhole_55
+  - first:
+      213: 3724791854262787210
+    second: bullet_blackhole_56
+  - first:
+      213: -2322482843087567528
+    second: bullet_blackhole_57
+  - first:
+      213: -5864672313350555452
+    second: bullet_blackhole_58
+  - first:
+      213: 4664643587969913622
+    second: bullet_blackhole_59
+  - first:
+      213: 3513000306778115735
+    second: bullet_blackhole_60
+  - first:
+      213: -4901241646511985108
+    second: bullet_blackhole_61
+  - first:
+      213: 8382753852029922477
+    second: bullet_blackhole_62
+  - first:
+      213: -5492317168677659095
+    second: bullet_blackhole_63
+  - first:
+      213: -5552576026099432796
+    second: bullet_blackhole_64
+  - first:
+      213: 739499964753078308
+    second: bullet_blackhole_65
+  - first:
+      213: 3539152480164695384
+    second: bullet_blackhole_66
+  - first:
+      213: -9220084859264346824
+    second: bullet_blackhole_67
+  - first:
+      213: 8227676700411688547
+    second: bullet_blackhole_68
+  - first:
+      213: -833638067549191038
+    second: bullet_blackhole_69
+  - first:
+      213: 1226276903048665491
+    second: bullet_blackhole_70
+  - first:
+      213: 47433732438832940
+    second: bullet_blackhole_71
+  - first:
+      213: -2829461279279283335
+    second: bullet_blackhole_72
+  - first:
+      213: -8871051595768959901
+    second: bullet_blackhole_73
+  - first:
+      213: 8047807979254441643
+    second: bullet_blackhole_74
+  - first:
+      213: -8049043451022310226
+    second: bullet_blackhole_75
+  - first:
+      213: 5855662802068621494
+    second: bullet_blackhole_76
+  - first:
+      213: -3019259017126653128
+    second: bullet_blackhole_77
+  - first:
+      213: -8051671169871703578
+    second: bullet_blackhole_78
+  - first:
+      213: 1968634914794834088
+    second: bullet_blackhole_79
+  - first:
+      213: 5960355732835253638
+    second: bullet_blackhole_80
+  - first:
+      213: -8957569048354582833
+    second: bullet_blackhole_81
+  - first:
+      213: 4863508180771127485
+    second: bullet_blackhole_82
+  - first:
+      213: 4845949872359723692
+    second: bullet_blackhole_83
+  - first:
+      213: 3141245324666677837
+    second: bullet_blackhole_84
+  - first:
+      213: -6776777952771575132
+    second: bullet_blackhole_85
+  - first:
+      213: -5588285199927049282
+    second: bullet_blackhole_86
+  - first:
+      213: -2553835404491640934
+    second: bullet_blackhole_87
+  - first:
+      213: -397441569382791854
+    second: bullet_blackhole_88
+  - first:
+      213: 134292874312066490
+    second: bullet_blackhole_89
+  - first:
+      213: -7396601322806871523
+    second: bullet_blackhole_90
+  - first:
+      213: -5076814388809939362
+    second: bullet_blackhole_91
+  - first:
+      213: -2100512033668165238
+    second: bullet_blackhole_92
+  - first:
+      213: -3603050842912946956
+    second: bullet_blackhole_93
+  - first:
+      213: 3541524008918988798
+    second: bullet_blackhole_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bullet_blackhole_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e3b1b543a17b80800000000000000
+      internalID: -8398752310339837156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badbc8ed1e6a08870800000000000000
+      internalID: 8683123570601934251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfb75835d4d1b070800000000000000
+      internalID: 8120505615364112325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d232beb1f47f43c0800000000000000
+      internalID: -4373148131518172457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca31cbec3f4ea3030800000000000000
+      internalID: 3475341798266377132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1748a321711f9cbc0800000000000000
+      internalID: -3762210932298972047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02714b5a04995050800000000000000
+      internalID: 5789821568163082767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291818588587d9800800000000000000
+      internalID: 620784645239308690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8097b7ea29d7c30800000000000000
+      internalID: 4358801292458002677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f098a600fd6b60540800000000000000
+      internalID: 4973863907378235663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aad4591320dde00800000000000000
+      internalID: 1071014698365594200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495d419c2f7342a00800000000000000
+      internalID: 730770555436062100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9632ae833ea0860800000000000000
+      internalID: 7497054363297474990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb5e68bba629ff0800000000000000
+      internalID: -30844893783540590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e202198e7037e4f0800000000000000
+      internalID: -799617088811302172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7517d3a44fa7300800000000000000
+      internalID: 250781328968079264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b3c2fd7a3d06a0800000000000000
+      internalID: -6481459976098040721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ee0568a5d71a030800000000000000
+      internalID: 3504219812824935978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbacb3bf27973c250800000000000000
+      internalID: 5963743866316901051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65948ff425c60ca0800000000000000
+      internalID: -6050932286629309077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935f3545a3db7470800000000000000
+      internalID: 8393535037319893918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87928395ba9d32f0800000000000000
+      internalID: -991466238297073781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0e661a4613d8cd0800000000000000
+      internalID: -2554331105374838583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273ab9509da587360800000000000000
+      internalID: 7167578695108633458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db12602746eea1e30800000000000000
+      internalID: 4475151294923153853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f80b26306c1dcf0800000000000000
+      internalID: -229184388176244976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86faa879365291ce0800000000000000
+      internalID: -1434073896666353816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16a5b1a4688f0a10800000000000000
+      internalID: 1877869535427929626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c58dd628ca07830800000000000000
+      internalID: 4066940139704179852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae3369e4c58b0840800000000000000
+      internalID: 5191390076250308267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644ff723f5cf9d30800000000000000
+      internalID: 4440485405749363810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c3c947102788f90800000000000000
+      internalID: -6951180674269430682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4cb5471ddd8f2f0800000000000000
+      internalID: -938756630636673835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76524a1955053f0800000000000000
+      internalID: -914136640343677005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59647150d2709aaf0800000000000000
+      internalID: -384768403223132523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cba60b9371fd0f0800000000000000
+      internalID: -1090127048260010914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ee194172bdace50800000000000000
+      internalID: 6830512745756094061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab226298c7fb7720800000000000000
+      internalID: 2845140030436027310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c60f4bc0e6b05c0800000000000000
+      internalID: -4248180822639612833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f4c9cc39fb0180800000000000000
+      internalID: -9147944178594548699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ee7568814863600800000000000000
+      internalID: 447690453837934084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495bf9476ad8c6d60800000000000000
+      internalID: 7884832793679607188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef689f84216f9cb0800000000000000
+      internalID: -4855055063626256402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0cd125da063b580800000000000000
+      internalID: -8812593748310638395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4915da5d47da4020800000000000000
+      internalID: 2326908884726651214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72fd7e20cbbad4c0800000000000000
+      internalID: -4261887663264632197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736db9132c84a430800000000000000
+      internalID: 3793310868536386424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd0049f53f1f38c0800000000000000
+      internalID: -4017458025915740706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320d06219a147790800000000000000
+      internalID: -7533367065973030352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226cf8d133d3ed8a0800000000000000
+      internalID: -6278513540759304670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147dab91845e06ee0800000000000000
+      internalID: -1269762997086398655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742bd9eb08213dd0800000000000000
+      internalID: -2508179485835451267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a55696d1d006c30800000000000000
+      internalID: 4350491660013361749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a413e616c417fd0800000000000000
+      internalID: -2346009949539055030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd712cd1abdf510a0800000000000000
+      internalID: -6911339077325154340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb04420da7d7df00800000000000000
+      internalID: 1141618168629038066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c1a97e47e11b330800000000000000
+      internalID: 3724791854262787210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85583d4c822e4cfd0800000000000000
+      internalID: -2322482843087567528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8fba67a9f7c9ea0800000000000000
+      internalID: -5864672313350555452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61310c001a42cb040800000000000000
+      internalID: 4664643587969913622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e09559a2fa0c030800000000000000
+      internalID: 3513000306778115735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e6d4db0ba4bfbb0800000000000000
+      internalID: -4901241646511985108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dace7c5f636855470800000000000000
+      internalID: 8382753852029922477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blackhole_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e503772ae57c3b0800000000000000
+      internalID: -5492317168677659095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fdf8c946d6e82b945978de404f22a465
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bullet_blackhole_0: -8398752310339837156
+      bullet_blackhole_1: 8683123570601934251
+      bullet_blackhole_10: 1071014698365594200
+      bullet_blackhole_11: 730770555436062100
+      bullet_blackhole_12: 7497054363297474990
+      bullet_blackhole_13: -30844893783540590
+      bullet_blackhole_14: -799617088811302172
+      bullet_blackhole_15: 250781328968079264
+      bullet_blackhole_16: -6481459976098040721
+      bullet_blackhole_17: 3504219812824935978
+      bullet_blackhole_18: 5963743866316901051
+      bullet_blackhole_19: -6050932286629309077
+      bullet_blackhole_2: 8120505615364112325
+      bullet_blackhole_20: 8393535037319893918
+      bullet_blackhole_21: -991466238297073781
+      bullet_blackhole_22: -2554331105374838583
+      bullet_blackhole_23: 7167578695108633458
+      bullet_blackhole_24: 4475151294923153853
+      bullet_blackhole_25: -229184388176244976
+      bullet_blackhole_26: -1434073896666353816
+      bullet_blackhole_27: 1877869535427929626
+      bullet_blackhole_28: 4066940139704179852
+      bullet_blackhole_29: 5191390076250308267
+      bullet_blackhole_3: -4373148131518172457
+      bullet_blackhole_30: 4440485405749363810
+      bullet_blackhole_31: -6951180674269430682
+      bullet_blackhole_32: -938756630636673835
+      bullet_blackhole_33: -914136640343677005
+      bullet_blackhole_34: -384768403223132523
+      bullet_blackhole_35: -1090127048260010914
+      bullet_blackhole_36: 6830512745756094061
+      bullet_blackhole_37: 2845140030436027310
+      bullet_blackhole_38: -4248180822639612833
+      bullet_blackhole_39: -9147944178594548699
+      bullet_blackhole_4: 3475341798266377132
+      bullet_blackhole_40: 447690453837934084
+      bullet_blackhole_41: 7884832793679607188
+      bullet_blackhole_42: -4855055063626256402
+      bullet_blackhole_43: -8812593748310638395
+      bullet_blackhole_44: 2326908884726651214
+      bullet_blackhole_45: -4261887663264632197
+      bullet_blackhole_46: 3793310868536386424
+      bullet_blackhole_47: -4017458025915740706
+      bullet_blackhole_48: -7533367065973030352
+      bullet_blackhole_49: -6278513540759304670
+      bullet_blackhole_5: -3762210932298972047
+      bullet_blackhole_50: -1269762997086398655
+      bullet_blackhole_51: -2508179485835451267
+      bullet_blackhole_52: 4350491660013361749
+      bullet_blackhole_53: -2346009949539055030
+      bullet_blackhole_54: -6911339077325154340
+      bullet_blackhole_55: 1141618168629038066
+      bullet_blackhole_56: 3724791854262787210
+      bullet_blackhole_57: -2322482843087567528
+      bullet_blackhole_58: -5864672313350555452
+      bullet_blackhole_59: 4664643587969913622
+      bullet_blackhole_6: 5789821568163082767
+      bullet_blackhole_60: 3513000306778115735
+      bullet_blackhole_61: -4901241646511985108
+      bullet_blackhole_62: 8382753852029922477
+      bullet_blackhole_63: -5492317168677659095
+      bullet_blackhole_7: 620784645239308690
+      bullet_blackhole_8: 4358801292458002677
+      bullet_blackhole_9: 4973863907378235663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

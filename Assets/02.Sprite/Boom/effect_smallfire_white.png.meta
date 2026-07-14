@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: ca03886cdecd87b46a86a1e180bcdb0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7355159800192463677
+    second: effect_smallfire_white_0
+  - first:
+      213: -3634560952198610818
+    second: effect_smallfire_white_1
+  - first:
+      213: -4155528447506991295
+    second: effect_smallfire_white_2
+  - first:
+      213: -9063306811486070512
+    second: effect_smallfire_white_3
+  - first:
+      213: 8350738956215529703
+    second: effect_smallfire_white_4
+  - first:
+      213: -7607292303701563025
+    second: effect_smallfire_white_5
+  - first:
+      213: -9045681537530891119
+    second: effect_smallfire_white_6
+  - first:
+      213: 5595119179781364782
+    second: effect_smallfire_white_7
+  - first:
+      213: 5337584921481862972
+    second: effect_smallfire_white_8
+  - first:
+      213: 8453083779388148073
+    second: effect_smallfire_white_9
+  - first:
+      213: 6717315329497248354
+    second: effect_smallfire_white_10
+  - first:
+      213: 4640141513600854696
+    second: effect_smallfire_white_11
+  - first:
+      213: -3435085404300551132
+    second: effect_smallfire_white_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_smallfire_white_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 107
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc8b4b81293de990800000000000000
+      internalID: -7355159800192463677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 107
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7042b912127f8dc0800000000000000
+      internalID: -3634560952198610818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147b058d4e89456c0800000000000000
+      internalID: -4155528447506991295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199ef2797aa83280800000000000000
+      internalID: -9063306811486070512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e03e3926d8c3e370800000000000000
+      internalID: 8350738956215529703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 73
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f692e4774f77d6690800000000000000
+      internalID: -7607292303701563025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19479245198477280800000000000000
+      internalID: -9045681537530891119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cd7d2ff3bd5ad40800000000000000
+      internalID: 5595119179781364782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f5863d439e21a40800000000000000
+      internalID: 5337584921481862972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 41
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9690c0739e26f4570800000000000000
+      internalID: 8453083779388148073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 11
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26238fac3b2b83d50800000000000000
+      internalID: 6717315329497248354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae8b14f18156040800000000000000
+      internalID: 4640141513600854696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_smallfire_white_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c598f46002450d0800000000000000
+      internalID: -3435085404300551132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_smallfire_white_0: -7355159800192463677
+      effect_smallfire_white_1: -3634560952198610818
+      effect_smallfire_white_10: 6717315329497248354
+      effect_smallfire_white_11: 4640141513600854696
+      effect_smallfire_white_12: -3435085404300551132
+      effect_smallfire_white_2: -4155528447506991295
+      effect_smallfire_white_3: -9063306811486070512
+      effect_smallfire_white_4: 8350738956215529703
+      effect_smallfire_white_5: -7607292303701563025
+      effect_smallfire_white_6: -9045681537530891119
+      effect_smallfire_white_7: 5595119179781364782
+      effect_smallfire_white_8: 5337584921481862972
+      effect_smallfire_white_9: 8453083779388148073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

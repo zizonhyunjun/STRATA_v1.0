@@ -1,0 +1,4667 @@
+fileFormatVersion: 2
+guid: c7f3617e161dd284fa0bfb167a6ca550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6419585158431430719
+    second: effect_boss_die_0
+  - first:
+      213: 667634024954002667
+    second: effect_boss_die_1
+  - first:
+      213: -7694353298054655423
+    second: effect_boss_die_2
+  - first:
+      213: -1439767631977880315
+    second: effect_boss_die_3
+  - first:
+      213: 8371887869220114264
+    second: effect_boss_die_4
+  - first:
+      213: -8874915902437640386
+    second: effect_boss_die_5
+  - first:
+      213: 3018015421864314049
+    second: effect_boss_die_6
+  - first:
+      213: 3328639153499722974
+    second: effect_boss_die_7
+  - first:
+      213: 4825578267497707878
+    second: effect_boss_die_8
+  - first:
+      213: 8881083913625960879
+    second: effect_boss_die_9
+  - first:
+      213: 1565373378853822823
+    second: effect_boss_die_10
+  - first:
+      213: 8561838193394168075
+    second: effect_boss_die_11
+  - first:
+      213: 1380076511181247023
+    second: effect_boss_die_12
+  - first:
+      213: 2018198025697644736
+    second: effect_boss_die_13
+  - first:
+      213: 8024802179382686592
+    second: effect_boss_die_14
+  - first:
+      213: -9214531009231511818
+    second: effect_boss_die_15
+  - first:
+      213: 8217693732030286299
+    second: effect_boss_die_16
+  - first:
+      213: 5173197472610916344
+    second: effect_boss_die_17
+  - first:
+      213: 5913402871369813064
+    second: effect_boss_die_18
+  - first:
+      213: -5527755803779441440
+    second: effect_boss_die_19
+  - first:
+      213: -2524719014939677495
+    second: effect_boss_die_20
+  - first:
+      213: 205808807788187981
+    second: effect_boss_die_21
+  - first:
+      213: -6812533518534189414
+    second: effect_boss_die_22
+  - first:
+      213: 8977875873022849080
+    second: effect_boss_die_23
+  - first:
+      213: -6688589420025082708
+    second: effect_boss_die_24
+  - first:
+      213: 1304337697286167438
+    second: effect_boss_die_25
+  - first:
+      213: -2171137385816425669
+    second: effect_boss_die_26
+  - first:
+      213: 2046069040763778511
+    second: effect_boss_die_27
+  - first:
+      213: 5566541323967186847
+    second: effect_boss_die_28
+  - first:
+      213: -5410157026786464069
+    second: effect_boss_die_29
+  - first:
+      213: 1056351261813431640
+    second: effect_boss_die_30
+  - first:
+      213: 852440530155555801
+    second: effect_boss_die_31
+  - first:
+      213: 1043102581567591461
+    second: effect_boss_die_32
+  - first:
+      213: 5540715309917896542
+    second: effect_boss_die_33
+  - first:
+      213: 8683974785137986790
+    second: effect_boss_die_34
+  - first:
+      213: -6132507211990609695
+    second: effect_boss_die_35
+  - first:
+      213: -2927198121810378824
+    second: effect_boss_die_36
+  - first:
+      213: -531011299458437547
+    second: effect_boss_die_37
+  - first:
+      213: 6883986170540897224
+    second: effect_boss_die_38
+  - first:
+      213: -6437508702142002326
+    second: effect_boss_die_39
+  - first:
+      213: 7222525263087394443
+    second: effect_boss_die_40
+  - first:
+      213: -2802890145926968862
+    second: effect_boss_die_41
+  - first:
+      213: 496455579437894163
+    second: effect_boss_die_42
+  - first:
+      213: 1893299034220223676
+    second: effect_boss_die_43
+  - first:
+      213: 8815252382572050248
+    second: effect_boss_die_44
+  - first:
+      213: -3457366209431655060
+    second: effect_boss_die_45
+  - first:
+      213: -1502705950784140680
+    second: effect_boss_die_46
+  - first:
+      213: -5935249321529429131
+    second: effect_boss_die_47
+  - first:
+      213: -999411282337390378
+    second: effect_boss_die_48
+  - first:
+      213: 2220812205821965009
+    second: effect_boss_die_49
+  - first:
+      213: -5714324248246601363
+    second: effect_boss_die_50
+  - first:
+      213: 4243324006531888507
+    second: effect_boss_die_51
+  - first:
+      213: 2995892050477939467
+    second: effect_boss_die_52
+  - first:
+      213: -7568161670707813568
+    second: effect_boss_die_53
+  - first:
+      213: 6991054259794385541
+    second: effect_boss_die_54
+  - first:
+      213: 8589325711808706634
+    second: effect_boss_die_55
+  - first:
+      213: 4188656763489850157
+    second: effect_boss_die_56
+  - first:
+      213: 220548950776294288
+    second: effect_boss_die_57
+  - first:
+      213: -3768851678601086383
+    second: effect_boss_die_58
+  - first:
+      213: 8352950762754026141
+    second: effect_boss_die_59
+  - first:
+      213: -9167995877262323247
+    second: effect_boss_die_60
+  - first:
+      213: 2417054262721890735
+    second: effect_boss_die_61
+  - first:
+      213: 4959441934218271856
+    second: effect_boss_die_62
+  - first:
+      213: -4990372946376027097
+    second: effect_boss_die_63
+  - first:
+      213: -7871166437384613836
+    second: effect_boss_die_64
+  - first:
+      213: 297583170046295509
+    second: effect_boss_die_65
+  - first:
+      213: 4527335171677063302
+    second: effect_boss_die_66
+  - first:
+      213: -2640219052301019653
+    second: effect_boss_die_67
+  - first:
+      213: 1541560569580402242
+    second: effect_boss_die_68
+  - first:
+      213: 1898217798961646093
+    second: effect_boss_die_69
+  - first:
+      213: -2050521923138794695
+    second: effect_boss_die_70
+  - first:
+      213: 1996506255480953559
+    second: effect_boss_die_71
+  - first:
+      213: -5214345833461523007
+    second: effect_boss_die_72
+  - first:
+      213: 993101795597505315
+    second: effect_boss_die_73
+  - first:
+      213: 6538933261913561146
+    second: effect_boss_die_74
+  - first:
+      213: 2406501468139222376
+    second: effect_boss_die_75
+  - first:
+      213: 6070922245415400351
+    second: effect_boss_die_76
+  - first:
+      213: -521771523366447932
+    second: effect_boss_die_77
+  - first:
+      213: 1247177994025136463
+    second: effect_boss_die_78
+  - first:
+      213: 3860524076409956264
+    second: effect_boss_die_79
+  - first:
+      213: -262218863876757062
+    second: effect_boss_die_80
+  - first:
+      213: 524845588663449902
+    second: effect_boss_die_81
+  - first:
+      213: 4718763022722345243
+    second: effect_boss_die_82
+  - first:
+      213: 5121098410285985880
+    second: effect_boss_die_83
+  - first:
+      213: -337969132658496544
+    second: effect_boss_die_84
+  - first:
+      213: -7687042100364099852
+    second: effect_boss_die_85
+  - first:
+      213: -8999107682843361611
+    second: effect_boss_die_86
+  - first:
+      213: -7069469238241761812
+    second: effect_boss_die_87
+  - first:
+      213: 6910531993906523701
+    second: effect_boss_die_88
+  - first:
+      213: -1566824909004275936
+    second: effect_boss_die_89
+  - first:
+      213: -3949069728549282820
+    second: effect_boss_die_90
+  - first:
+      213: 4969295655311980791
+    second: effect_boss_die_91
+  - first:
+      213: 7473974156192935294
+    second: effect_boss_die_92
+  - first:
+      213: 8703258632838702488
+    second: effect_boss_die_93
+  - first:
+      213: -3057799560707442330
+    second: effect_boss_die_94
+  - first:
+      213: -1714604687460835519
+    second: effect_boss_die_95
+  - first:
+      213: -3010518352037401357
+    second: effect_boss_die_96
+  - first:
+      213: -8828883212503045167
+    second: effect_boss_die_97
+  - first:
+      213: -7246843047282063125
+    second: effect_boss_die_98
+  - first:
+      213: 8126696519308839667
+    second: effect_boss_die_99
+  - first:
+      213: -266119977503930590
+    second: effect_boss_die_100
+  - first:
+      213: -155143326152463372
+    second: effect_boss_die_101
+  - first:
+      213: 3430033843577634841
+    second: effect_boss_die_102
+  - first:
+      213: -2705382893302439717
+    second: effect_boss_die_103
+  - first:
+      213: 8556233065717894484
+    second: effect_boss_die_104
+  - first:
+      213: 5859125880899024072
+    second: effect_boss_die_105
+  - first:
+      213: -2162093547322643618
+    second: effect_boss_die_106
+  - first:
+      213: 59793724319411827
+    second: effect_boss_die_107
+  - first:
+      213: 821522297912311317
+    second: effect_boss_die_108
+  - first:
+      213: -1015559339997460037
+    second: effect_boss_die_109
+  - first:
+      213: -5242183061487061616
+    second: effect_boss_die_110
+  - first:
+      213: -4412306877721707429
+    second: effect_boss_die_111
+  - first:
+      213: 819825372312735590
+    second: effect_boss_die_112
+  - first:
+      213: 463717557690351166
+    second: effect_boss_die_113
+  - first:
+      213: -6582526191294829147
+    second: effect_boss_die_114
+  - first:
+      213: -3920857478567199476
+    second: effect_boss_die_115
+  - first:
+      213: 1818931465059205040
+    second: effect_boss_die_116
+  - first:
+      213: 3381186905053000874
+    second: effect_boss_die_117
+  - first:
+      213: -8551598041660584819
+    second: effect_boss_die_118
+  - first:
+      213: -8605064317944810116
+    second: effect_boss_die_119
+  - first:
+      213: -6862305012592564202
+    second: effect_boss_die_120
+  - first:
+      213: 3851558428311398416
+    second: effect_boss_die_121
+  - first:
+      213: 2350587361315837312
+    second: effect_boss_die_122
+  - first:
+      213: 1309151488944082993
+    second: effect_boss_die_123
+  - first:
+      213: -3487206994944691123
+    second: effect_boss_die_124
+  - first:
+      213: 1043394874614821038
+    second: effect_boss_die_125
+  - first:
+      213: -3636282775641366058
+    second: effect_boss_die_126
+  - first:
+      213: -5566452276197398979
+    second: effect_boss_die_127
+  - first:
+      213: -1596942233447568869
+    second: effect_boss_die_128
+  - first:
+      213: 4009383483788352258
+    second: effect_boss_die_129
+  - first:
+      213: -622936551786045277
+    second: effect_boss_die_130
+  - first:
+      213: -1909750922542497863
+    second: effect_boss_die_131
+  - first:
+      213: 5116595701455891578
+    second: effect_boss_die_132
+  - first:
+      213: -6864363101321524901
+    second: effect_boss_die_133
+  - first:
+      213: -5609640449796424221
+    second: effect_boss_die_134
+  - first:
+      213: 7710763366348145535
+    second: effect_boss_die_135
+  - first:
+      213: -5488315234606024725
+    second: effect_boss_die_136
+  - first:
+      213: -2859360381477629211
+    second: effect_boss_die_137
+  - first:
+      213: -1928117524599802079
+    second: effect_boss_die_138
+  - first:
+      213: -6181280833242990842
+    second: effect_boss_die_139
+  - first:
+      213: 223955026165859576
+    second: effect_boss_die_140
+  - first:
+      213: 5918996448243169959
+    second: effect_boss_die_141
+  - first:
+      213: -935093240251823215
+    second: effect_boss_die_142
+  - first:
+      213: -5079540752655922307
+    second: effect_boss_die_143
+  - first:
+      213: -5057065375861664847
+    second: effect_boss_die_144
+  - first:
+      213: -1305200381079242552
+    second: effect_boss_die_145
+  - first:
+      213: 8629206461894500887
+    second: effect_boss_die_146
+  - first:
+      213: -4471698912884395159
+    second: effect_boss_die_147
+  - first:
+      213: 7420501973187706834
+    second: effect_boss_die_148
+  - first:
+      213: -1187884131772319397
+    second: effect_boss_die_149
+  - first:
+      213: -6327094870608271478
+    second: effect_boss_die_150
+  - first:
+      213: 8670650295822525720
+    second: effect_boss_die_151
+  - first:
+      213: 2848837804737116898
+    second: effect_boss_die_152
+  - first:
+      213: -6258556257625807496
+    second: effect_boss_die_153
+  - first:
+      213: 4473455894398928838
+    second: effect_boss_die_154
+  - first:
+      213: -3581591138883758085
+    second: effect_boss_die_155
+  - first:
+      213: 3857937299203137718
+    second: effect_boss_die_156
+  - first:
+      213: -7629303327066657598
+    second: effect_boss_die_157
+  - first:
+      213: -3256902977396428565
+    second: effect_boss_die_158
+  - first:
+      213: -623269819308352805
+    second: effect_boss_die_159
+  - first:
+      213: -7535423998957189434
+    second: effect_boss_die_160
+  - first:
+      213: -1370211682002088663
+    second: effect_boss_die_161
+  - first:
+      213: 6167092295226828682
+    second: effect_boss_die_162
+  - first:
+      213: 7114752485200610913
+    second: effect_boss_die_163
+  - first:
+      213: -1262755695842043456
+    second: effect_boss_die_164
+  - first:
+      213: 5128663782490828255
+    second: effect_boss_die_165
+  - first:
+      213: -3530210873258239745
+    second: effect_boss_die_166
+  - first:
+      213: -2999746202252995635
+    second: effect_boss_die_167
+  - first:
+      213: -3443881571097830165
+    second: effect_boss_die_168
+  - first:
+      213: -8605290826215514203
+    second: effect_boss_die_169
+  - first:
+      213: 4098963564067366130
+    second: effect_boss_die_170
+  - first:
+      213: -4832578438337325822
+    second: effect_boss_die_171
+  - first:
+      213: -6685623363256295395
+    second: effect_boss_die_172
+  - first:
+      213: -5818069039956149719
+    second: effect_boss_die_173
+  - first:
+      213: -4866684651804492674
+    second: effect_boss_die_174
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_boss_die_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1848
+        width: 155
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38dcad60b2f61950800000000000000
+      internalID: 6419585158431430719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1850
+        width: 143
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becf851cb99e34900800000000000000
+      internalID: 667634024954002667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1843
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142d81d117a283590800000000000000
+      internalID: -7694353298054655423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_3
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1837
+        width: 170
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5056ad887fae40ce0800000000000000
+      internalID: -1439767631977880315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1575
+        width: 200
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f444039abee2470800000000000000
+      internalID: 8371887869220114264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1681
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e373dbf0207f5d480800000000000000
+      internalID: -8874915902437640386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1596
+        width: 180
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c48fda390522e920800000000000000
+      internalID: 3018015421864314049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_7
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1598
+        width: 190
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4dec99ca3b13e20800000000000000
+      internalID: 3328639153499722974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_8
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1596
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669bb060ed5e7f240800000000000000
+      internalID: 4825578267497707878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1590
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa18c14f3c2ff3b70800000000000000
+      internalID: 8881083913625960879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1333
+        width: 168
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7616f6b5bc259b510800000000000000
+      internalID: 1565373378853822823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1343
+        width: 154
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b1ad6972c1d670800000000000000
+      internalID: 8561838193394168075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1339
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2291d36644072310800000000000000
+      internalID: 1380076511181247023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1333
+        width: 182
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c05a185964120c10800000000000000
+      internalID: 2018198025697644736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1458
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083b2ee9013dd5f60800000000000000
+      internalID: 8024802179382686592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_15
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1455
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1fe62ed86f1080800000000000000
+      internalID: -9214531009231511818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1414
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd98e9af8ec1b0270800000000000000
+      internalID: 8217693732030286299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1421
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f71ceb41b3eac740800000000000000
+      internalID: 5173197472610916344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1395
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cc5c9b490a01250800000000000000
+      internalID: 5913402871369813064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1383
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec5f9e32677943b0800000000000000
+      internalID: -5527755803779441440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1350
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca8d4be6566fcd0800000000000000
+      internalID: -2524719014939677495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_21
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1333
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d419cdf250e2bd200800000000000000
+      internalID: 205808807788187981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1216
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ed357fbd40571a0800000000000000
+      internalID: -6812533518534189414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1213
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830b3192a82d79c70800000000000000
+      internalID: 8977875873022849080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_24
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1223
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac08f23c5b5d23a0800000000000000
+      internalID: -6688589420025082708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1222
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b94e99930f91210800000000000000
+      internalID: 1304337697286167438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1079
+        width: 186
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b77dffc029ed1e0800000000000000
+      internalID: -2171137385816425669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_27
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1227
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc536a8b3f8156c10800000000000000
+      internalID: 2046069040763778511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1226
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c89267d3504d40800000000000000
+      internalID: 5566541323967186847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_29
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1078
+        width: 189
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe2f4f29d24be4b0800000000000000
+      internalID: -5410157026786464069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_30
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1228
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ddc6630e9e8ae00800000000000000
+      internalID: 1056351261813431640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_31
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1211
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db4110552a74db00800000000000000
+      internalID: 852440530155555801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1075
+        width: 181
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52411a67548d97e00800000000000000
+      internalID: 1043102581567591461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1138
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7939e73394ec40800000000000000
+      internalID: 5540715309917896542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1073
+        width: 193
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec4992be0da38870800000000000000
+      internalID: 8683974785137986790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1153
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e057ce9e25f4eaa0800000000000000
+      internalID: -6132507211990609695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1074
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf3d4231d08067d0800000000000000
+      internalID: -2927198121810378824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_37
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1089
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eaf0c590871a8f0800000000000000
+      internalID: -531011299458437547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_38
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1074
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3bacdf2f4d88f50800000000000000
+      internalID: 6883986170540897224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_39
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1074
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b075a51ff59a6a0800000000000000
+      internalID: -6437508702142002326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_40
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1070
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8edb9fc5709b3460800000000000000
+      internalID: 7222525263087394443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_41
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1069
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9849b33422a19d0800000000000000
+      internalID: -2802890145926968862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_42
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 819
+        width: 193
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a082b18b3c3e600800000000000000
+      internalID: 496455579437894163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 919
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc5944c079564a10800000000000000
+      internalID: 1893299034220223676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 818
+        width: 155
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477f943651165a70800000000000000
+      internalID: 8815252382572050248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 822
+        width: 76
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d236c10c7f400d0800000000000000
+      internalID: -3457366209431655060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_46
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 825
+        width: 165
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a45a146e0552be0800000000000000
+      internalID: -1502705950784140680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_47
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 816
+        width: 213
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733cd83032c1ada0800000000000000
+      internalID: -5935249321529429131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 884
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d023cbdbb06122f0800000000000000
+      internalID: -999411282337390378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 883
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2bed05fe8e1de10800000000000000
+      internalID: 2220812205821965009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 884
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d693cdb3f54a2b0b0800000000000000
+      internalID: -5714324248246601363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_51
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 900
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75783ca3b053ea30800000000000000
+      internalID: 4243324006531888507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_52
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 817
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b772e62fb839920800000000000000
+      internalID: 2995892050477939467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_53
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 827
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ebbeee0d78f690800000000000000
+      internalID: -7568161670707813568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_54
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 829
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a96802fc6350160800000000000000
+      internalID: 6991054259794385541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_55
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 828
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48bc780a3a633770800000000000000
+      internalID: 8589325711808706634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 808
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2399d94229112a30800000000000000
+      internalID: 4188656763489850157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_57
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 807
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b2b9a2a1c8f0300800000000000000
+      internalID: 220548950776294288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_58
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 809
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15af8d5dd5952bbc0800000000000000
+      internalID: -3768851678601086383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_59
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 805
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a28408674abe370800000000000000
+      internalID: 8352950762754026141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_60
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 558
+        width: 176
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d19881e25cb4c080800000000000000
+      internalID: -9167995877262323247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 581
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c16cbb0a1b8120800000000000000
+      internalID: 2417054262721890735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 714
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c9145b92a73d440800000000000000
+      internalID: 4959441934218271856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_63
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 648
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7249982de32aebab0800000000000000
+      internalID: -4990372946376027097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_64
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 687
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43096b314dff3c290800000000000000
+      internalID: -7871166437384613836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_65
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 676
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd7eb5015a312400800000000000000
+      internalID: 297583170046295509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68881fe0a5354de30800000000000000
+      internalID: 4527335171677063302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_67
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 685
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5116aa2ce0c5bd0800000000000000
+      internalID: -2640219052301019653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 658
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b695ab29b46510800000000000000
+      internalID: 1541560569580402242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_69
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 693
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ace6de703d75a10800000000000000
+      internalID: 1898217798961646093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_70
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 692
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b492fcc251b83e0800000000000000
+      internalID: -2050521923138794695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_71
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 681
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da99c58cd305bb10800000000000000
+      internalID: 1996506255480953559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_72
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 647
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cddc7c571ce2a7b0800000000000000
+      internalID: -5214345833461523007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_73
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 689
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323546842d438cd00800000000000000
+      internalID: 993101795597505315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 629
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38185e2825feba50800000000000000
+      internalID: 6538933261913561146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_75
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 680
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f4e7c55c956120800000000000000
+      internalID: 2406501468139222376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_76
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 679
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937009fd9f304450800000000000000
+      internalID: 6070922245415400351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_77
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 647
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c414df509b42c8f0800000000000000
+      internalID: -521771523366447932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_78
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 629
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f417d8917cdde4110800000000000000
+      internalID: 1247177994025136463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_79
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 680
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7224d8136539530800000000000000
+      internalID: 3860524076409956264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_80
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 629
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9283525596c5cf0800000000000000
+      internalID: -262218863876757062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 651
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29373a3840a84700800000000000000
+      internalID: 524845588663449902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_82
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 663
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b192d94d7f96c7140800000000000000
+      internalID: 4718763022722345243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_83
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 660
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850f9e41fdbc11740800000000000000
+      internalID: 5121098410285985880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_84
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 654
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebe7de4dda4f4bf0800000000000000
+      internalID: -337969132658496544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 623
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe335affe3225590800000000000000
+      internalID: -7687042100364099852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_86
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 629
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bef1a4ed3fbc1380800000000000000
+      internalID: -8999107682843361611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_87
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 632
+        width: 66
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce56c08fe2334ed90800000000000000
+      internalID: -7069469238241761812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_88
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 616
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e25c12c3427ef50800000000000000
+      internalID: 6910531993906523701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_89
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 607
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff091fb05814ae0800000000000000
+      internalID: -1566824909004275936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_90
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 616
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb529441061239c0800000000000000
+      internalID: -3949069728549282820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_91
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 603
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f833cee11c76f440800000000000000
+      internalID: 4969295655311980791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_92
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 615
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d645075e3e8b760800000000000000
+      internalID: 7473974156192935294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_93
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 600
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895e3be5d9f28c870800000000000000
+      internalID: 8703258632838702488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_94
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 583
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669ffad10838095d0800000000000000
+      internalID: -3057799560707442330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_95
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 620
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f5da10f108438e0800000000000000
+      internalID: -1714604687460835519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_96
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 589
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc240d528d7836d0800000000000000
+      internalID: -3010518352037401357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_97
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 578
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba853ee71897580800000000000000
+      internalID: -8828883212503045167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_98
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 566
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be84eb7d4aa0e6b90800000000000000
+      internalID: -7246843047282063125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_99
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 597
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8ece5d63d7c070800000000000000
+      internalID: 8126696519308839667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_100
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 598
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2274e395a4d8e4cf0800000000000000
+      internalID: -266119977503930590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_101
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 589
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbe86387f1d8ddf0800000000000000
+      internalID: -155143326152463372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_102
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 550
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910430e8b9de99f20800000000000000
+      internalID: 3430033843577634841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_103
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 595
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd02a4f979c847ad0800000000000000
+      internalID: -2705382893302439717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_104
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 550
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d0191f3a8ddb670800000000000000
+      internalID: 8556233065717894484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_105
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 584
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4b84912fbcf4150800000000000000
+      internalID: 5859125880899024072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_106
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 550
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6bacbf53bef1e0800000000000000
+      internalID: -2162093547322643618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_107
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 584
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2bd1531e64d000800000000000000
+      internalID: 59793724319411827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_108
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 558
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e30266d22a66b00800000000000000
+      internalID: 821522297912311317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_109
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 586
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb90f13392208e1f0800000000000000
+      internalID: -1015559339997460037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_110
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 551
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0957e74a7460047b0800000000000000
+      internalID: -5242183061487061616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_111
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 557
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c7269a54654c2c0800000000000000
+      internalID: -4412306877721707429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 378
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f8d8e15da906b00800000000000000
+      internalID: 819825372312735590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 420
+        width: 106
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ebe3e69a47f6600800000000000000
+      internalID: 463717557690351166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_114
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 293
+        width: 134
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adaa230e4b26a4a0800000000000000
+      internalID: -6582526191294829147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_115
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 392
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d711795e05699c0800000000000000
+      internalID: -3920857478567199476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 397
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf72a5c7842e3910800000000000000
+      internalID: 1818931465059205040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_117
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 374
+        width: 300
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4f2ea63936cee20800000000000000
+      internalID: 3381186905053000874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_118
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 399
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c05e0b3ee925980800000000000000
+      internalID: -8551598041660584819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_119
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 402
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b28b289ba49880800000000000000
+      internalID: -8605064317944810116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_120
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 436
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618a908f2f134c0a0800000000000000
+      internalID: -6862305012592564202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_121
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 392
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018a92febfb737530800000000000000
+      internalID: 3851558428311398416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_122
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 425
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d0cc40c6fe9020800000000000000
+      internalID: 2350587361315837312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_123
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 434
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1309fafc75a0b2210800000000000000
+      internalID: 1309151488944082993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_124
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 407
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d447010d6b3fa9fc0800000000000000
+      internalID: -3487206994944691123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_125
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 407
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea031ed3c12ea7e00800000000000000
+      internalID: 1043394874614821038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_126
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 386
+        width: 76
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d16607d414598dc0800000000000000
+      internalID: -3636282775641366058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_127
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 386
+        width: 172
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36e61aa52dffb2b0800000000000000
+      internalID: -5566452276197398979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_128
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 414
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae988ef7586d9e0800000000000000
+      internalID: -1596942233447568869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_129
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 426
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bd58f290134a730800000000000000
+      internalID: 4009383483788352258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_130
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 292
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0af21b182ea57f0800000000000000
+      internalID: -622936551786045277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_131
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 357
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf316c77a33f75e0800000000000000
+      internalID: -1909750922542497863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_132
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 350
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ca19c7eacc10740800000000000000
+      internalID: 5116595701455891578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_133
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 318
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b598e68d022ecb0a0800000000000000
+      internalID: -6864363101321524901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_134
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 357
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edb8386bbd8622b0800000000000000
+      internalID: -5609640449796424221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 350
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73c646ad62220b60800000000000000
+      internalID: 7710763366348145535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_136
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 319
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be771f95f5695d3b0800000000000000
+      internalID: -5488315234606024725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_137
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 340
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e25331f1e28158d0800000000000000
+      internalID: -2859360381477629211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_138
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 337
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f505b353fd35e0800000000000000
+      internalID: -1928117524599802079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_139
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 327
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607fe9df4dda73aa0800000000000000
+      internalID: -6181280833242990842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_140
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f48744e8e5ab1300800000000000000
+      internalID: 223955026165859576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_141
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 335
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa3554d8ef742250800000000000000
+      internalID: 5918996448243169959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_142
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 342
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bcbeef6a1e503f0800000000000000
+      internalID: -935093240251823215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_143
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 335
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc2d71998d189b0800000000000000
+      internalID: -5079540752655922307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_144
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 292
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b396d985d1b1d9b0800000000000000
+      internalID: -5057065375861664847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_145
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 325
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8311d2b2ff2ede0800000000000000
+      internalID: -1305200381079242552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_146
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 292
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7122abebe8911c770800000000000000
+      internalID: 8629206461894500887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_147
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 324
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637603e78551f1c0800000000000000
+      internalID: -4471698912884395159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 169
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df30f6aa3beaf660800000000000000
+      internalID: 7420501973187706834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_149
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 203
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5933630da9c38fe0800000000000000
+      internalID: -1187884131772319397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_150
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 181
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87a231dcb4a138a0800000000000000
+      internalID: -6327094870608271478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_151
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 203
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81523264186545870800000000000000
+      internalID: 8670650295822525720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_152
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 182
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea3f0eb3ea198720800000000000000
+      internalID: 2848837804737116898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_153
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 152
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8756a613e342529a0800000000000000
+      internalID: -6258556257625807496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_154
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 141
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c786004f68e41e30800000000000000
+      internalID: 4473455894398928838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_155
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 135
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf79524d5d1ab4ec0800000000000000
+      internalID: -3581591138883758085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_156
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 152
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0abbc88852a8530800000000000000
+      internalID: 3857937299203137718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_157
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 141
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc6c7abb054f1690800000000000000
+      internalID: -7629303327066657598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_158
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 152
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0bf547ff72dc2d0800000000000000
+      internalID: -3256902977396428565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_159
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 129
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda57ecc663b957f0800000000000000
+      internalID: -623269819308352805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_160
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 135
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6043e1ccbcc6790800000000000000
+      internalID: -7535423998957189434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_161
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 152
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dcc232cb70cfce0800000000000000
+      internalID: -1370211682002088663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_162
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 129
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a872b0294c9e59550800000000000000
+      internalID: 6167092295226828682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_163
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 55
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166c53190bdacb260800000000000000
+      internalID: 7114752485200610913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_164
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 39
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9db3f826ac97ee0800000000000000
+      internalID: -1262755695842043456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_165
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 93
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde6cf898cac2740800000000000000
+      internalID: 5128663782490828255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_166
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff898352aeb220fc0800000000000000
+      internalID: -3530210873258239745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_167
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 39
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3126ee8b2ce56d0800000000000000
+      internalID: -2999746202252995635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_168
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec133225ffd430d0800000000000000
+      internalID: -3443881571097830165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_169
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 100
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af1f7a169dd39880800000000000000
+      internalID: -8605290826215514203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_170
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4218fe4a172e830800000000000000
+      internalID: 4098963564067366130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_171
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 80
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20511b1b38b3fecb0800000000000000
+      internalID: -4832578438337325822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_172
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 60
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d106e0b19f4e733a0800000000000000
+      internalID: -6685623363256295395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_173
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 91
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a37ba9801124fa0800000000000000
+      internalID: -5818069039956149719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_boss_die_174
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 39
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf85f0810167cb0800000000000000
+      internalID: -4866684651804492674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_boss_die_0: 6419585158431430719
+      effect_boss_die_1: 667634024954002667
+      effect_boss_die_10: 1565373378853822823
+      effect_boss_die_100: -266119977503930590
+      effect_boss_die_101: -155143326152463372
+      effect_boss_die_102: 3430033843577634841
+      effect_boss_die_103: -2705382893302439717
+      effect_boss_die_104: 8556233065717894484
+      effect_boss_die_105: 5859125880899024072
+      effect_boss_die_106: -2162093547322643618
+      effect_boss_die_107: 59793724319411827
+      effect_boss_die_108: 821522297912311317
+      effect_boss_die_109: -1015559339997460037
+      effect_boss_die_11: 8561838193394168075
+      effect_boss_die_110: -5242183061487061616
+      effect_boss_die_111: -4412306877721707429
+      effect_boss_die_112: 819825372312735590
+      effect_boss_die_113: 463717557690351166
+      effect_boss_die_114: -6582526191294829147
+      effect_boss_die_115: -3920857478567199476
+      effect_boss_die_116: 1818931465059205040
+      effect_boss_die_117: 3381186905053000874
+      effect_boss_die_118: -8551598041660584819
+      effect_boss_die_119: -8605064317944810116
+      effect_boss_die_12: 1380076511181247023
+      effect_boss_die_120: -6862305012592564202
+      effect_boss_die_121: 3851558428311398416
+      effect_boss_die_122: 2350587361315837312
+      effect_boss_die_123: 1309151488944082993
+      effect_boss_die_124: -3487206994944691123
+      effect_boss_die_125: 1043394874614821038
+      effect_boss_die_126: -3636282775641366058
+      effect_boss_die_127: -5566452276197398979
+      effect_boss_die_128: -1596942233447568869
+      effect_boss_die_129: 4009383483788352258
+      effect_boss_die_13: 2018198025697644736
+      effect_boss_die_130: -622936551786045277
+      effect_boss_die_131: -1909750922542497863
+      effect_boss_die_132: 5116595701455891578
+      effect_boss_die_133: -6864363101321524901
+      effect_boss_die_134: -5609640449796424221
+      effect_boss_die_135: 7710763366348145535
+      effect_boss_die_136: -5488315234606024725
+      effect_boss_die_137: -2859360381477629211
+      effect_boss_die_138: -1928117524599802079
+      effect_boss_die_139: -6181280833242990842
+      effect_boss_die_14: 8024802179382686592
+      effect_boss_die_140: 223955026165859576
+      effect_boss_die_141: 5918996448243169959
+      effect_boss_die_142: -935093240251823215
+      effect_boss_die_143: -5079540752655922307
+      effect_boss_die_144: -5057065375861664847
+      effect_boss_die_145: -1305200381079242552
+      effect_boss_die_146: 8629206461894500887
+      effect_boss_die_147: -4471698912884395159
+      effect_boss_die_148: 7420501973187706834
+      effect_boss_die_149: -1187884131772319397
+      effect_boss_die_15: -9214531009231511818
+      effect_boss_die_150: -6327094870608271478
+      effect_boss_die_151: 8670650295822525720
+      effect_boss_die_152: 2848837804737116898
+      effect_boss_die_153: -6258556257625807496
+      effect_boss_die_154: 4473455894398928838
+      effect_boss_die_155: -3581591138883758085
+      effect_boss_die_156: 3857937299203137718
+      effect_boss_die_157: -7629303327066657598
+      effect_boss_die_158: -3256902977396428565
+      effect_boss_die_159: -623269819308352805
+      effect_boss_die_16: 8217693732030286299
+      effect_boss_die_160: -7535423998957189434
+      effect_boss_die_161: -1370211682002088663
+      effect_boss_die_162: 6167092295226828682
+      effect_boss_die_163: 7114752485200610913
+      effect_boss_die_164: -1262755695842043456
+      effect_boss_die_165: 5128663782490828255
+      effect_boss_die_166: -3530210873258239745
+      effect_boss_die_167: -2999746202252995635
+      effect_boss_die_168: -3443881571097830165
+      effect_boss_die_169: -8605290826215514203
+      effect_boss_die_17: 5173197472610916344
+      effect_boss_die_170: 4098963564067366130
+      effect_boss_die_171: -4832578438337325822
+      effect_boss_die_172: -6685623363256295395
+      effect_boss_die_173: -5818069039956149719
+      effect_boss_die_174: -4866684651804492674
+      effect_boss_die_18: 5913402871369813064
+      effect_boss_die_19: -5527755803779441440
+      effect_boss_die_2: -7694353298054655423
+      effect_boss_die_20: -2524719014939677495
+      effect_boss_die_21: 205808807788187981
+      effect_boss_die_22: -6812533518534189414
+      effect_boss_die_23: 8977875873022849080
+      effect_boss_die_24: -6688589420025082708
+      effect_boss_die_25: 1304337697286167438
+      effect_boss_die_26: -2171137385816425669
+      effect_boss_die_27: 2046069040763778511
+      effect_boss_die_28: 5566541323967186847
+      effect_boss_die_29: -5410157026786464069
+      effect_boss_die_3: -1439767631977880315
+      effect_boss_die_30: 1056351261813431640
+      effect_boss_die_31: 852440530155555801
+      effect_boss_die_32: 1043102581567591461
+      effect_boss_die_33: 5540715309917896542
+      effect_boss_die_34: 8683974785137986790
+      effect_boss_die_35: -6132507211990609695
+      effect_boss_die_36: -2927198121810378824
+      effect_boss_die_37: -531011299458437547
+      effect_boss_die_38: 6883986170540897224
+      effect_boss_die_39: -6437508702142002326
+      effect_boss_die_4: 8371887869220114264
+      effect_boss_die_40: 7222525263087394443
+      effect_boss_die_41: -2802890145926968862
+      effect_boss_die_42: 496455579437894163
+      effect_boss_die_43: 1893299034220223676
+      effect_boss_die_44: 8815252382572050248
+      effect_boss_die_45: -3457366209431655060
+      effect_boss_die_46: -1502705950784140680
+      effect_boss_die_47: -5935249321529429131
+      effect_boss_die_48: -999411282337390378
+      effect_boss_die_49: 2220812205821965009
+      effect_boss_die_5: -8874915902437640386
+      effect_boss_die_50: -5714324248246601363
+      effect_boss_die_51: 4243324006531888507
+      effect_boss_die_52: 2995892050477939467
+      effect_boss_die_53: -7568161670707813568
+      effect_boss_die_54: 6991054259794385541
+      effect_boss_die_55: 8589325711808706634
+      effect_boss_die_56: 4188656763489850157
+      effect_boss_die_57: 220548950776294288
+      effect_boss_die_58: -3768851678601086383
+      effect_boss_die_59: 8352950762754026141
+      effect_boss_die_6: 3018015421864314049
+      effect_boss_die_60: -9167995877262323247
+      effect_boss_die_61: 2417054262721890735
+      effect_boss_die_62: 4959441934218271856
+      effect_boss_die_63: -4990372946376027097
+      effect_boss_die_64: -7871166437384613836
+      effect_boss_die_65: 297583170046295509
+      effect_boss_die_66: 4527335171677063302
+      effect_boss_die_67: -2640219052301019653
+      effect_boss_die_68: 1541560569580402242
+      effect_boss_die_69: 1898217798961646093
+      effect_boss_die_7: 3328639153499722974
+      effect_boss_die_70: -2050521923138794695
+      effect_boss_die_71: 1996506255480953559
+      effect_boss_die_72: -5214345833461523007
+      effect_boss_die_73: 993101795597505315
+      effect_boss_die_74: 6538933261913561146
+      effect_boss_die_75: 2406501468139222376
+      effect_boss_die_76: 6070922245415400351
+      effect_boss_die_77: -521771523366447932
+      effect_boss_die_78: 1247177994025136463
+      effect_boss_die_79: 3860524076409956264
+      effect_boss_die_8: 4825578267497707878
+      effect_boss_die_80: -262218863876757062
+      effect_boss_die_81: 524845588663449902
+      effect_boss_die_82: 4718763022722345243
+      effect_boss_die_83: 5121098410285985880
+      effect_boss_die_84: -337969132658496544
+      effect_boss_die_85: -7687042100364099852
+      effect_boss_die_86: -8999107682843361611
+      effect_boss_die_87: -7069469238241761812
+      effect_boss_die_88: 6910531993906523701
+      effect_boss_die_89: -1566824909004275936
+      effect_boss_die_9: 8881083913625960879
+      effect_boss_die_90: -3949069728549282820
+      effect_boss_die_91: 4969295655311980791
+      effect_boss_die_92: 7473974156192935294
+      effect_boss_die_93: 8703258632838702488
+      effect_boss_die_94: -3057799560707442330
+      effect_boss_die_95: -1714604687460835519
+      effect_boss_die_96: -3010518352037401357
+      effect_boss_die_97: -8828883212503045167
+      effect_boss_die_98: -7246843047282063125
+      effect_boss_die_99: 8126696519308839667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

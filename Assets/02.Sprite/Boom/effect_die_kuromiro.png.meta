@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 4c307c0883afd764d8c13ae720ad1d76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 329335957730296567
+    second: effect_die_kuromiro_0
+  - first:
+      213: 6840801139708040535
+    second: effect_die_kuromiro_1
+  - first:
+      213: -6602373851834212491
+    second: effect_die_kuromiro_2
+  - first:
+      213: 5694797294964036640
+    second: effect_die_kuromiro_3
+  - first:
+      213: 6965168738204228684
+    second: effect_die_kuromiro_4
+  - first:
+      213: -604770791326531008
+    second: effect_die_kuromiro_5
+  - first:
+      213: -1577669681700004599
+    second: effect_die_kuromiro_6
+  - first:
+      213: -118749444738460038
+    second: effect_die_kuromiro_7
+  - first:
+      213: -6669020277101066080
+    second: effect_die_kuromiro_8
+  - first:
+      213: -2265109998058931835
+    second: effect_die_kuromiro_9
+  - first:
+      213: 85847261453072791
+    second: effect_die_kuromiro_10
+  - first:
+      213: 7564337222216357583
+    second: effect_die_kuromiro_11
+  - first:
+      213: -1328563263152673043
+    second: effect_die_kuromiro_12
+  - first:
+      213: 4469608813633543489
+    second: effect_die_kuromiro_13
+  - first:
+      213: 1226596092399909866
+    second: effect_die_kuromiro_14
+  - first:
+      213: 1039811096541482400
+    second: effect_die_kuromiro_15
+  - first:
+      213: 1242453124867886078
+    second: effect_die_kuromiro_16
+  - first:
+      213: 4381257613845281077
+    second: effect_die_kuromiro_17
+  - first:
+      213: 22053243327268476
+    second: effect_die_kuromiro_18
+  - first:
+      213: -3262347221104082247
+    second: effect_die_kuromiro_19
+  - first:
+      213: -4934129622412911814
+    second: effect_die_kuromiro_20
+  - first:
+      213: -550121638534471360
+    second: effect_die_kuromiro_21
+  - first:
+      213: 425370376724754067
+    second: effect_die_kuromiro_22
+  - first:
+      213: 7399280153164515041
+    second: effect_die_kuromiro_23
+  - first:
+      213: 1657530023834923986
+    second: effect_die_kuromiro_24
+  - first:
+      213: -8646729086711415882
+    second: effect_die_kuromiro_25
+  - first:
+      213: 1172324516446762156
+    second: effect_die_kuromiro_26
+  - first:
+      213: -2396503286430508163
+    second: effect_die_kuromiro_27
+  - first:
+      213: -3919775922135941170
+    second: effect_die_kuromiro_28
+  - first:
+      213: -316322758412674673
+    second: effect_die_kuromiro_29
+  - first:
+      213: -4572980985461430496
+    second: effect_die_kuromiro_30
+  - first:
+      213: -7285578294288031770
+    second: effect_die_kuromiro_31
+  - first:
+      213: 8672495223655309603
+    second: effect_die_kuromiro_32
+  - first:
+      213: -9123163606827594866
+    second: effect_die_kuromiro_33
+  - first:
+      213: 2266670699565261928
+    second: effect_die_kuromiro_34
+  - first:
+      213: -7061043556218184848
+    second: effect_die_kuromiro_35
+  - first:
+      213: -8064487854330630070
+    second: effect_die_kuromiro_36
+  - first:
+      213: -1028007329512795619
+    second: effect_die_kuromiro_37
+  - first:
+      213: 522068462433111764
+    second: effect_die_kuromiro_38
+  - first:
+      213: 4987660318230837269
+    second: effect_die_kuromiro_39
+  - first:
+      213: 4449944110057819261
+    second: effect_die_kuromiro_40
+  - first:
+      213: -6027891776655357211
+    second: effect_die_kuromiro_41
+  - first:
+      213: 7534795634736403539
+    second: effect_die_kuromiro_42
+  - first:
+      213: -7199210031132311971
+    second: effect_die_kuromiro_43
+  - first:
+      213: -4401118521778551802
+    second: effect_die_kuromiro_44
+  - first:
+      213: -380258019168468882
+    second: effect_die_kuromiro_45
+  - first:
+      213: 8220224760037158157
+    second: effect_die_kuromiro_46
+  - first:
+      213: -3143238275272270814
+    second: effect_die_kuromiro_47
+  - first:
+      213: -1955733497596824595
+    second: effect_die_kuromiro_48
+  - first:
+      213: -3234816809806974787
+    second: effect_die_kuromiro_49
+  - first:
+      213: 8637023881552698270
+    second: effect_die_kuromiro_50
+  - first:
+      213: -7626686500610193955
+    second: effect_die_kuromiro_51
+  - first:
+      213: -539907771739439457
+    second: effect_die_kuromiro_52
+  - first:
+      213: -1041423678619106764
+    second: effect_die_kuromiro_53
+  - first:
+      213: 2825584148954943025
+    second: effect_die_kuromiro_54
+  - first:
+      213: 6175013769057786025
+    second: effect_die_kuromiro_55
+  - first:
+      213: -8812217211953265280
+    second: effect_die_kuromiro_56
+  - first:
+      213: 5096335560480178188
+    second: effect_die_kuromiro_57
+  - first:
+      213: 143899375038743820
+    second: effect_die_kuromiro_58
+  - first:
+      213: 4779776400393803011
+    second: effect_die_kuromiro_59
+  - first:
+      213: -8733047074082053519
+    second: effect_die_kuromiro_60
+  - first:
+      213: 1048128497561139140
+    second: effect_die_kuromiro_61
+  - first:
+      213: -3446979825151318049
+    second: effect_die_kuromiro_62
+  - first:
+      213: -7377051832706045932
+    second: effect_die_kuromiro_63
+  - first:
+      213: 3637035633302639313
+    second: effect_die_kuromiro_64
+  - first:
+      213: -2598258872855015804
+    second: effect_die_kuromiro_65
+  - first:
+      213: 2243838024170488425
+    second: effect_die_kuromiro_66
+  - first:
+      213: 7104228013899407116
+    second: effect_die_kuromiro_67
+  - first:
+      213: 6441717920457643468
+    second: effect_die_kuromiro_68
+  - first:
+      213: 7774464253887950012
+    second: effect_die_kuromiro_69
+  - first:
+      213: -4813405384670150753
+    second: effect_die_kuromiro_70
+  - first:
+      213: -4662613169910172575
+    second: effect_die_kuromiro_71
+  - first:
+      213: 4371041686999441659
+    second: effect_die_kuromiro_72
+  - first:
+      213: 2178981785484154913
+    second: effect_die_kuromiro_73
+  - first:
+      213: 2159207991750409114
+    second: effect_die_kuromiro_74
+  - first:
+      213: -7422938163941370719
+    second: effect_die_kuromiro_75
+  - first:
+      213: -6700148841686516508
+    second: effect_die_kuromiro_76
+  - first:
+      213: 4823535688879120921
+    second: effect_die_kuromiro_77
+  - first:
+      213: 115578100122984885
+    second: effect_die_kuromiro_78
+  - first:
+      213: 985636050257051908
+    second: effect_die_kuromiro_79
+  - first:
+      213: 8455590006372327646
+    second: effect_die_kuromiro_80
+  - first:
+      213: -3241879406036102515
+    second: effect_die_kuromiro_81
+  - first:
+      213: -7988182693827890712
+    second: effect_die_kuromiro_82
+  - first:
+      213: 5157273537888170363
+    second: effect_die_kuromiro_83
+  - first:
+      213: -51694633658952274
+    second: effect_die_kuromiro_84
+  - first:
+      213: -5486194542413212130
+    second: effect_die_kuromiro_85
+  - first:
+      213: 852618256920938364
+    second: effect_die_kuromiro_86
+  - first:
+      213: -5079477105274277646
+    second: effect_die_kuromiro_87
+  - first:
+      213: -2543766415985799805
+    second: effect_die_kuromiro_88
+  - first:
+      213: 686969325996743506
+    second: effect_die_kuromiro_89
+  - first:
+      213: 4246802180088052065
+    second: effect_die_kuromiro_90
+  - first:
+      213: -2420454199657343503
+    second: effect_die_kuromiro_91
+  - first:
+      213: -3986561158799575387
+    second: effect_die_kuromiro_92
+  - first:
+      213: 7983460927998472949
+    second: effect_die_kuromiro_93
+  - first:
+      213: 8278001265364358192
+    second: effect_die_kuromiro_94
+  - first:
+      213: 7820967111680472887
+    second: effect_die_kuromiro_95
+  - first:
+      213: -896080869897469245
+    second: effect_die_kuromiro_96
+  - first:
+      213: -7889669094690654680
+    second: effect_die_kuromiro_97
+  - first:
+      213: -8330773258414316249
+    second: effect_die_kuromiro_98
+  - first:
+      213: 9134811119094035025
+    second: effect_die_kuromiro_99
+  - first:
+      213: 3063322217266689197
+    second: effect_die_kuromiro_100
+  - first:
+      213: -1475176960959834006
+    second: effect_die_kuromiro_101
+  - first:
+      213: 4207945307844328112
+    second: effect_die_kuromiro_102
+  - first:
+      213: -1160291431226372895
+    second: effect_die_kuromiro_103
+  - first:
+      213: 2451084776043881671
+    second: effect_die_kuromiro_104
+  - first:
+      213: -7002262815705713851
+    second: effect_die_kuromiro_105
+  - first:
+      213: -5523493150176154169
+    second: effect_die_kuromiro_106
+  - first:
+      213: 5565745550732820082
+    second: effect_die_kuromiro_107
+  - first:
+      213: -4726886567133756332
+    second: effect_die_kuromiro_108
+  - first:
+      213: -783400892811015440
+    second: effect_die_kuromiro_109
+  - first:
+      213: -6077201723494553333
+    second: effect_die_kuromiro_110
+  - first:
+      213: 7829376803053783978
+    second: effect_die_kuromiro_111
+  - first:
+      213: -4153278492530113673
+    second: effect_die_kuromiro_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_die_kuromiro_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1828
+        width: 184
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f207440f49029400800000000000000
+      internalID: 329335957730296567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1830
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755926774686fee50800000000000000
+      internalID: 6840801139708040535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1833
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f181f66f7af54a0800000000000000
+      internalID: -6602373851834212491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1828
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024df2aa7fbf70f40800000000000000
+      internalID: 5694797294964036640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_4
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1847
+        width: 208
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9159701049a060800000000000000
+      internalID: 6965168738204228684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_5
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1959
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04243746b2c6b97f0800000000000000
+      internalID: -604770791326531008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_6
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1847
+        width: 202
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d1e5988cdfa1ae0800000000000000
+      internalID: -1577669681700004599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_7
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1854
+        width: 210
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76d619520e1a5ef0800000000000000
+      internalID: -118749444738460038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_8
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1831
+        width: 160
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a883875461e273a0800000000000000
+      internalID: -6669020277101066080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_9
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1894
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589f2843576b090e0800000000000000
+      internalID: -2265109998058931835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_10
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1845
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799b9d321adf03100800000000000000
+      internalID: 85847261453072791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_11
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1848
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6987340ace9f860800000000000000
+      internalID: 7564337222216357583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1554
+        width: 183
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea62e40ceff8de0800000000000000
+      internalID: -1328563263152673043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1658
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d1595f88d370e30800000000000000
+      internalID: 4469608813633543489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_14
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1554
+        width: 183
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf062b5aeb50110800000000000000
+      internalID: 1226596092399909866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1658
+        width: 71
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad4dd2eea62e6e00800000000000000
+      internalID: 1039811096541482400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1577
+        width: 174
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb03d5c8841e3110800000000000000
+      internalID: 1242453124867886078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_17
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1556
+        width: 204
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53939be369a5dcc30800000000000000
+      internalID: 4381257613845281077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_18
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1562
+        width: 189
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76caa6de495e4000800000000000000
+      internalID: 22053243327268476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_19
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1575
+        width: 168
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2cb10bc70d9b2d0800000000000000
+      internalID: -3262347221104082247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_20
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1734
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b98542043768bb0800000000000000
+      internalID: -4934129622412911814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_21
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1583
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041a5efc8439d58f0800000000000000
+      internalID: -550121638534471360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_22
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1731
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e27aa9a1837e500800000000000000
+      internalID: 425370376724754067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1537
+        width: 176
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e608f2a8168fa660800000000000000
+      internalID: 7399280153164515041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1629
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3b93356cab00710800000000000000
+      internalID: 1657530023834923986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1585
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb378d35b5a00880800000000000000
+      internalID: -8646729086711415882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1573
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47a4cbfeee44010800000000000000
+      internalID: 1172324516446762156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1472
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bd04d45f8edbed0800000000000000
+      internalID: -2396503286430508163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1338
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf35f111982a99c0800000000000000
+      internalID: -3919775922135941170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_29
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1338
+        width: 154
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d07e80223c9bf0800000000000000
+      internalID: -316322758412674673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1332
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027a4fcb5028980c0800000000000000
+      internalID: -4572980985461430496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_31
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1341
+        width: 148
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef5aa9542d64ea90800000000000000
+      internalID: -7285578294288031770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_32
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1342
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3212f320574ea5870800000000000000
+      internalID: 8672495223655309603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_33
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1342
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b05434903046180800000000000000
+      internalID: -9123163606827594866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_34
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1343
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864af5eedf4d47f10800000000000000
+      internalID: 2266670699565261928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1331
+        width: 168
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bdd00fb42220e90800000000000000
+      internalID: -7061043556218184848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40bb23260f251090800000000000000
+      internalID: -8064487854330630070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_37
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1323
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1254e9c7c8cbb1f0800000000000000
+      internalID: -1028007329512795619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1065
+        width: 183
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de82c32082ce3700800000000000000
+      internalID: 522068462433111764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1049
+        width: 187
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f57832aab73540800000000000000
+      internalID: 4987660318230837269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_40
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1062
+        width: 194
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c865e579061cd30800000000000000
+      internalID: 4449944110057819261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_41
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1064
+        width: 190
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea85f3cd50a85ca0800000000000000
+      internalID: -6027891776655357211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_42
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1012
+        width: 191
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35490af65b8f09860800000000000000
+      internalID: 7534795634736403539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_43
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1012
+        width: 189
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5efde6ae94471c90800000000000000
+      internalID: -7199210031132311971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_44
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 857
+        width: 204
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6044ff6c5061ce2c0800000000000000
+      internalID: -4401118521778551802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_45
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1216
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604874a85d09baf0800000000000000
+      internalID: -380258019168468882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1069
+        width: 126
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da2ebddda141270800000000000000
+      internalID: 8220224760037158157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_47
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1193
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1cf53179f064d0800000000000000
+      internalID: -3143238275272270814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_48
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1199
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b860feb6dbd4e0800000000000000
+      internalID: -1955733497596824595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_49
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1160
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03ef1104f9b13d0800000000000000
+      internalID: -3234816809806974787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_50
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1131
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b9388957fdcd770800000000000000
+      internalID: 8637023881552698270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_51
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1123
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5ccdd1901982690800000000000000
+      internalID: -7626686500610193955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_52
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1114
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e7ffdfdbcd188f0800000000000000
+      internalID: -539907771739439457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_53
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1107
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4324a379eae1c81f0800000000000000
+      internalID: -1041423678619106764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 559
+        width: 209
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0f6910dd763720800000000000000
+      internalID: 2825584148954943025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 972
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8d5db6e4e02b550800000000000000
+      internalID: 6175013769057786025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 565
+        width: 212
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08541f58227b4b580800000000000000
+      internalID: -8812217211953265280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 973
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00cc92d032d9b640800000000000000
+      internalID: 5096335560480178188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 565
+        width: 214
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05c59c18bb3ff100800000000000000
+      internalID: 143899375038743820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_59
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 566
+        width: 454
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3059443df4d255240800000000000000
+      internalID: 4779776400393803011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_60
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 922
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172239ea4fbfdc680800000000000000
+      internalID: -8733047074082053519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_61
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 871
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c77818b053bb8e00800000000000000
+      internalID: 1048128497561139140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_62
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 857
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7eae5ac1ed920d0800000000000000
+      internalID: -3446979825151318049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 949
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41869e581727f9990800000000000000
+      internalID: -7377051832706045932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_64
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 950
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2117e73a8597230800000000000000
+      internalID: 3637035633302639313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 891
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e48f0425121fbd0800000000000000
+      internalID: -2598258872855015804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_66
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 891
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962423c6bc6b32f10800000000000000
+      internalID: 2243838024170488425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_67
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 943
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f5ad32db9479260800000000000000
+      internalID: 7104228013899407116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_68
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 944
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55528a154956950800000000000000
+      internalID: 6441717920457643468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_69
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 866
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca6fb4c0274eb60800000000000000
+      internalID: 7774464253887950012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_70
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 955
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f78ce1e49533db0800000000000000
+      internalID: -4813405384670150753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_71
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 932
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164327a86021b4fb0800000000000000
+      internalID: -4662613169910172575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_72
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 940
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a60c614f09ac30800000000000000
+      internalID: 4371041686999441659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_73
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 940
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12854df936c4d3e10800000000000000
+      internalID: 2178981785484154913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_74
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 942
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bb7708a3c07fd10800000000000000
+      internalID: 2159207991750409114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_75
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 857
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4959c711d6cf890800000000000000
+      internalID: -7422938163941370719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_76
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 864
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecb70d902a4403a0800000000000000
+      internalID: -6700148841686516508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_77
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 932
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9122f012724a0f240800000000000000
+      internalID: 4823535688879120921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_78
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 857
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b125a17bad9a9100800000000000000
+      internalID: 115578100122984885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_79
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 933
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401046df3ceadad00800000000000000
+      internalID: 985636050257051908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_80
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 918
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed06a28af4a485570800000000000000
+      internalID: 8455590006372327646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_81
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 933
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82509e3bd78203d0800000000000000
+      internalID: -3241879406036102515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_82
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 935
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e13775c926442190800000000000000
+      internalID: -7988182693827890712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_83
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 925
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71b85355f0529740800000000000000
+      internalID: 5157273537888170363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_84
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 919
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5d6fb2108584ff0800000000000000
+      internalID: -51694633658952274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_85
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 912
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1616ca712f1dd3b0800000000000000
+      internalID: -5486194542413212130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_86
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 914
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7709cc89cb15db00800000000000000
+      internalID: 852618256920938364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_87
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 899
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0b5672c721289b0800000000000000
+      internalID: -5079477105274277646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_88
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 864
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d099f0ce9b2bcd0800000000000000
+      internalID: -2543766415985799805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_89
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 899
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b10a756fa988900800000000000000
+      internalID: 686969325996743506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_90
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 884
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169b08f051cafea30800000000000000
+      internalID: 4246802180088052065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 874
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f55252cab1d86ed0800000000000000
+      internalID: -2420454199657343503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 850
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b16e6fb3eca8c0800000000000000
+      internalID: -3986561158799575387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_93
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 849
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f23f837a63face60800000000000000
+      internalID: 7983460927998472949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_94
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 849
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d648ca4e51e270800000000000000
+      internalID: 8278001265364358192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_95
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 848
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7373abb9628a98c60800000000000000
+      internalID: 7820967111680472887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_96
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 823
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20dbb423b7093f0800000000000000
+      internalID: -896080869897469245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_97
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 733
+        width: 32
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826f59772c3428290800000000000000
+      internalID: -7889669094690654680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_98
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 847
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72524eb1cd5236c80800000000000000
+      internalID: -8330773258414316249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_99
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 566
+        width: 198
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15273e3805e55ce70800000000000000
+      internalID: 9134811119094035025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_100
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 822
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da43eb0935b138a20800000000000000
+      internalID: 3063322217266689197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_101
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 847
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68162dae5e178be0800000000000000
+      internalID: -1475176960959834006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_102
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 566
+        width: 307
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba355c76ff956a30800000000000000
+      internalID: 4207945307844328112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_103
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 822
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec82dd3711d5efe0800000000000000
+      internalID: -1160291431226372895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_104
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 852
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a67e0e90040220800000000000000
+      internalID: 2451084776043881671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_105
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 847
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433fe59117f2de90800000000000000
+      internalID: -7002262815705713851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_106
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 822
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd6270ae3c9853b0800000000000000
+      internalID: -5523493150176154169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_107
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 604
+        width: 68
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ef3adf6108d3d40800000000000000
+      internalID: 5565745550732820082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_108
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 847
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4544d6816b9b66eb0800000000000000
+      internalID: -4726886567133756332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_109
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 590
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa8643e90dc025f0800000000000000
+      internalID: -783400892811015440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_110
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 590
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0927ba1b3179aba0800000000000000
+      internalID: -6077201723494553333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_111
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 590
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab44b678b887ac60800000000000000
+      internalID: 7829376803053783978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_kuromiro_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 566
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773097f47379c56c0800000000000000
+      internalID: -4153278492530113673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_die_kuromiro_0: 329335957730296567
+      effect_die_kuromiro_1: 6840801139708040535
+      effect_die_kuromiro_10: 85847261453072791
+      effect_die_kuromiro_100: 3063322217266689197
+      effect_die_kuromiro_101: -1475176960959834006
+      effect_die_kuromiro_102: 4207945307844328112
+      effect_die_kuromiro_103: -1160291431226372895
+      effect_die_kuromiro_104: 2451084776043881671
+      effect_die_kuromiro_105: -7002262815705713851
+      effect_die_kuromiro_106: -5523493150176154169
+      effect_die_kuromiro_107: 5565745550732820082
+      effect_die_kuromiro_108: -4726886567133756332
+      effect_die_kuromiro_109: -783400892811015440
+      effect_die_kuromiro_11: 7564337222216357583
+      effect_die_kuromiro_110: -6077201723494553333
+      effect_die_kuromiro_111: 7829376803053783978
+      effect_die_kuromiro_112: -4153278492530113673
+      effect_die_kuromiro_12: -1328563263152673043
+      effect_die_kuromiro_13: 4469608813633543489
+      effect_die_kuromiro_14: 1226596092399909866
+      effect_die_kuromiro_15: 1039811096541482400
+      effect_die_kuromiro_16: 1242453124867886078
+      effect_die_kuromiro_17: 4381257613845281077
+      effect_die_kuromiro_18: 22053243327268476
+      effect_die_kuromiro_19: -3262347221104082247
+      effect_die_kuromiro_2: -6602373851834212491
+      effect_die_kuromiro_20: -4934129622412911814
+      effect_die_kuromiro_21: -550121638534471360
+      effect_die_kuromiro_22: 425370376724754067
+      effect_die_kuromiro_23: 7399280153164515041
+      effect_die_kuromiro_24: 1657530023834923986
+      effect_die_kuromiro_25: -8646729086711415882
+      effect_die_kuromiro_26: 1172324516446762156
+      effect_die_kuromiro_27: -2396503286430508163
+      effect_die_kuromiro_28: -3919775922135941170
+      effect_die_kuromiro_29: -316322758412674673
+      effect_die_kuromiro_3: 5694797294964036640
+      effect_die_kuromiro_30: -4572980985461430496
+      effect_die_kuromiro_31: -7285578294288031770
+      effect_die_kuromiro_32: 8672495223655309603
+      effect_die_kuromiro_33: -9123163606827594866
+      effect_die_kuromiro_34: 2266670699565261928
+      effect_die_kuromiro_35: -7061043556218184848
+      effect_die_kuromiro_36: -8064487854330630070
+      effect_die_kuromiro_37: -1028007329512795619
+      effect_die_kuromiro_38: 522068462433111764
+      effect_die_kuromiro_39: 4987660318230837269
+      effect_die_kuromiro_4: 6965168738204228684
+      effect_die_kuromiro_40: 4449944110057819261
+      effect_die_kuromiro_41: -6027891776655357211
+      effect_die_kuromiro_42: 7534795634736403539
+      effect_die_kuromiro_43: -7199210031132311971
+      effect_die_kuromiro_44: -4401118521778551802
+      effect_die_kuromiro_45: -380258019168468882
+      effect_die_kuromiro_46: 8220224760037158157
+      effect_die_kuromiro_47: -3143238275272270814
+      effect_die_kuromiro_48: -1955733497596824595
+      effect_die_kuromiro_49: -3234816809806974787
+      effect_die_kuromiro_5: -604770791326531008
+      effect_die_kuromiro_50: 8637023881552698270
+      effect_die_kuromiro_51: -7626686500610193955
+      effect_die_kuromiro_52: -539907771739439457
+      effect_die_kuromiro_53: -1041423678619106764
+      effect_die_kuromiro_54: 2825584148954943025
+      effect_die_kuromiro_55: 6175013769057786025
+      effect_die_kuromiro_56: -8812217211953265280
+      effect_die_kuromiro_57: 5096335560480178188
+      effect_die_kuromiro_58: 143899375038743820
+      effect_die_kuromiro_59: 4779776400393803011
+      effect_die_kuromiro_6: -1577669681700004599
+      effect_die_kuromiro_60: -8733047074082053519
+      effect_die_kuromiro_61: 1048128497561139140
+      effect_die_kuromiro_62: -3446979825151318049
+      effect_die_kuromiro_63: -7377051832706045932
+      effect_die_kuromiro_64: 3637035633302639313
+      effect_die_kuromiro_65: -2598258872855015804
+      effect_die_kuromiro_66: 2243838024170488425
+      effect_die_kuromiro_67: 7104228013899407116
+      effect_die_kuromiro_68: 6441717920457643468
+      effect_die_kuromiro_69: 7774464253887950012
+      effect_die_kuromiro_7: -118749444738460038
+      effect_die_kuromiro_70: -4813405384670150753
+      effect_die_kuromiro_71: -4662613169910172575
+      effect_die_kuromiro_72: 4371041686999441659
+      effect_die_kuromiro_73: 2178981785484154913
+      effect_die_kuromiro_74: 2159207991750409114
+      effect_die_kuromiro_75: -7422938163941370719
+      effect_die_kuromiro_76: -6700148841686516508
+      effect_die_kuromiro_77: 4823535688879120921
+      effect_die_kuromiro_78: 115578100122984885
+      effect_die_kuromiro_79: 985636050257051908
+      effect_die_kuromiro_8: -6669020277101066080
+      effect_die_kuromiro_80: 8455590006372327646
+      effect_die_kuromiro_81: -3241879406036102515
+      effect_die_kuromiro_82: -7988182693827890712
+      effect_die_kuromiro_83: 5157273537888170363
+      effect_die_kuromiro_84: -51694633658952274
+      effect_die_kuromiro_85: -5486194542413212130
+      effect_die_kuromiro_86: 852618256920938364
+      effect_die_kuromiro_87: -5079477105274277646
+      effect_die_kuromiro_88: -2543766415985799805
+      effect_die_kuromiro_89: 686969325996743506
+      effect_die_kuromiro_9: -2265109998058931835
+      effect_die_kuromiro_90: 4246802180088052065
+      effect_die_kuromiro_91: -2420454199657343503
+      effect_die_kuromiro_92: -3986561158799575387
+      effect_die_kuromiro_93: 7983460927998472949
+      effect_die_kuromiro_94: 8278001265364358192
+      effect_die_kuromiro_95: 7820967111680472887
+      effect_die_kuromiro_96: -896080869897469245
+      effect_die_kuromiro_97: -7889669094690654680
+      effect_die_kuromiro_98: -8330773258414316249
+      effect_die_kuromiro_99: 9134811119094035025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

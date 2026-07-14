@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87682508d02cf4f468643fc5b5061ead, type: 3}
+  m_Name: Enemy_18
+  m_EditorClassIdentifier: 
+  nname: "\uC0AC\uAC01\uD615"
+  number: 18
+  speed: 2
+  stop: 0.5
+  front: {fileID: 6218394949557553986, guid: 2a9750e5c01985743abfdeee9fe44f63, type: 3}
+  back: {fileID: 6218394949557553986, guid: 2a9750e5c01985743abfdeee9fe44f63, type: 3}
+  balsaSu: 20
+  delay: 0.05
+  whoDelay: 1
+  bullet: {fileID: 5176372803897274558, guid: 8407f8f981b418741b07c1b93374e0b8, type: 3}

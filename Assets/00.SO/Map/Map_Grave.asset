@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b474135d46b0e174c806bd0292d87227, type: 3}
+  m_Name: Map_Grave
+  m_EditorClassIdentifier: 
+  top: {fileID: 21300000, guid: f36b947fa1435de4ca8ea30962e13dfb, type: 3}
+  middle: {fileID: 21300000, guid: 230cd45d93757414bb5c8e341ec703e6, type: 3}
+  bottom: {fileID: 21300000, guid: 1dee4a81b1dbbf741b864337fea3e813, type: 3}
+  minRandom: 0.5
+  maxRandom: 1
+  Sc: 1.3
+  guri: 0.7
+  building:
+  - {fileID: 9026817508897764667, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 6673299850635277409, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: -9206281175778965844, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: -1753033263214759575, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 3842117829211779910, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 7792661526542809870, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 3896682354235731231, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 3476069405142651118, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: -5541929106381576566, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 92672471150437162, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: -3072045386331817921, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 2181255908777571396, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: -2597247389892505287, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 2194826280528395750, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: -2686150452792136716, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  - {fileID: 1087844576515443374, guid: a3bfd3a72c2114149b7716ba1674a6ae, type: 3}
+  skyColor: {r: 0.60084647, g: 0.7020361, b: 0.7798742, a: 1}
+  angeColor: {r: 1, g: 0.87385094, b: 0.53144646, a: 0.5882353}
+  groundColor: {r: 0.11421622, g: 0.11421622, b: 0.13207549, a: 1}

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 764f1da2a39514148a3827c879e962d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6903029323099189369
+    second: effect_splash_big_0
+  - first:
+      213: -3936062695114174531
+    second: effect_splash_big_1
+  - first:
+      213: 1024448675888910915
+    second: effect_splash_big_2
+  - first:
+      213: 651073840908159281
+    second: effect_splash_big_3
+  - first:
+      213: -298797167825355921
+    second: effect_splash_big_4
+  - first:
+      213: 1715863172935758405
+    second: effect_splash_big_5
+  - first:
+      213: 472545600974125210
+    second: effect_splash_big_6
+  - first:
+      213: 8931402159285416002
+    second: effect_splash_big_7
+  - first:
+      213: -957545189898938511
+    second: effect_splash_big_8
+  - first:
+      213: -92569153390830112
+    second: effect_splash_big_9
+  - first:
+      213: 6411136114317291644
+    second: effect_splash_big_10
+  - first:
+      213: 6126781663297085365
+    second: effect_splash_big_11
+  - first:
+      213: 8503514863813418168
+    second: effect_splash_big_12
+  - first:
+      213: -3775035943160528603
+    second: effect_splash_big_13
+  - first:
+      213: -8437014676013929439
+    second: effect_splash_big_14
+  - first:
+      213: -1195575054674311871
+    second: effect_splash_big_15
+  - first:
+      213: -8625669048414041231
+    second: effect_splash_big_16
+  - first:
+      213: -975865123299718203
+    second: effect_splash_big_17
+  - first:
+      213: 7719841635848444658
+    second: effect_splash_big_18
+  - first:
+      213: 8933772987288025158
+    second: effect_splash_big_19
+  - first:
+      213: -2825560185094320576
+    second: effect_splash_big_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_splash_big_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 445
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970be65789c7ccf50800000000000000
+      internalID: 6903029323099189369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 443
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf8d0c35db4069c0800000000000000
+      internalID: -3936062695114174531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 437
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3425af894a2973e00800000000000000
+      internalID: 1024448675888910915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 434
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13941e17534190900800000000000000
+      internalID: 651073840908159281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 305
+        width: 88
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b70e71f857adbf0800000000000000
+      internalID: -298797167825355921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 304
+        width: 95
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b20af678ffc710800000000000000
+      internalID: 1715863172935758405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 304
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a987c3e68b1de8600800000000000000
+      internalID: 472545600974125210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 303
+        width: 101
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2403d5a71f6b2fb70800000000000000
+      internalID: 8931402159285416002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 176
+        width: 103
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17790bb19bd16b2f0800000000000000
+      internalID: -957545189898938511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 176
+        width: 103
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed1bfe68d027bef0800000000000000
+      internalID: -92569153390830112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 176
+        width: 104
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c707f8c045ee8f850800000000000000
+      internalID: 6411136114317291644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 177
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf13313673b60550800000000000000
+      internalID: 6126781663297085365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 184
+        width: 70
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc5adf07bd820670800000000000000
+      internalID: 8503514863813418168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521c5998fc06c9bc0800000000000000
+      internalID: -3775035943160528603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 57
+        width: 67
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cae677ad3b9ea80800000000000000
+      internalID: -8437014676013929439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 51
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145c1db72d6786fe0800000000000000
+      internalID: -1195575054674311871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 57
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b033383b77b4880800000000000000
+      internalID: -8625669048414041231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 53
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb070937d70572f0800000000000000
+      internalID: -975865123299718203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 58
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa540bf013622b60800000000000000
+      internalID: 7719841635848444658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 54
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487843e2332bfb70800000000000000
+      internalID: 8933772987288025158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_splash_big_20
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 58
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e47fb6bf799c8d0800000000000000
+      internalID: -2825560185094320576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_splash_big_0: 6903029323099189369
+      effect_splash_big_1: -3936062695114174531
+      effect_splash_big_10: 6411136114317291644
+      effect_splash_big_11: 6126781663297085365
+      effect_splash_big_12: 8503514863813418168
+      effect_splash_big_13: -3775035943160528603
+      effect_splash_big_14: -8437014676013929439
+      effect_splash_big_15: -1195575054674311871
+      effect_splash_big_16: -8625669048414041231
+      effect_splash_big_17: -975865123299718203
+      effect_splash_big_18: 7719841635848444658
+      effect_splash_big_19: 8933772987288025158
+      effect_splash_big_2: 1024448675888910915
+      effect_splash_big_20: -2825560185094320576
+      effect_splash_big_3: 651073840908159281
+      effect_splash_big_4: -298797167825355921
+      effect_splash_big_5: 1715863172935758405
+      effect_splash_big_6: 472545600974125210
+      effect_splash_big_7: 8931402159285416002
+      effect_splash_big_8: -957545189898938511
+      effect_splash_big_9: -92569153390830112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

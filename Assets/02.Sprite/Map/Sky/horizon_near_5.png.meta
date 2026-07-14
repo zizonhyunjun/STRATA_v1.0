@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 776343087f1db2a4f8f0017ca95ec5b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8702444410492849903
+    second: horizon_near_5_0
+  - first:
+      213: 6992703944579937499
+    second: horizon_near_5_1
+  - first:
+      213: -3909203268927633329
+    second: horizon_near_5_2
+  - first:
+      213: 7827546982350326341
+    second: horizon_near_5_3
+  - first:
+      213: -5132440393615534880
+    second: horizon_near_5_4
+  - first:
+      213: -4027771008619090824
+    second: horizon_near_5_5
+  - first:
+      213: -8548579797551458747
+    second: horizon_near_5_6
+  - first:
+      213: -6972587541018620523
+    second: horizon_near_5_7
+  - first:
+      213: -7632721225614420145
+    second: horizon_near_5_8
+  - first:
+      213: -1513900700803787866
+    second: horizon_near_5_9
+  - first:
+      213: 4571181312336868550
+    second: horizon_near_5_10
+  - first:
+      213: -6787307785213486154
+    second: horizon_near_5_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horizon_near_5_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 58
+        width: 147
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee8205751b45c870800000000000000
+      internalID: 8702444410492849903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 117
+        width: 72
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4f82c40331b0160800000000000000
+      internalID: 6992703944579937499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 79
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48c5c8b658bfb9c0800000000000000
+      internalID: -3909203268927633329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 75
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a0ca1228801ac60800000000000000
+      internalID: 7827546982350326341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 87
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41ea3a7a8e5c8b0800000000000000
+      internalID: -5132440393615534880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 89
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c64a29b9b7a18c0800000000000000
+      internalID: -4027771008619090824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 89
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5465dd867f75d5980800000000000000
+      internalID: -8548579797551458747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 78
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d4544e2946c3f90800000000000000
+      internalID: -6972587541018620523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 90
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f471ba53c70231690800000000000000
+      internalID: -7632721225614420145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 63
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a31067655b8dfae0800000000000000
+      internalID: -1513900700803787866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 57
+        width: 78
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c43eb53f29107f30800000000000000
+      internalID: 4571181312336868550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near_5_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 68
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb5b11b783aec1a0800000000000000
+      internalID: -6787307785213486154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      horizon_near_5_0: 8702444410492849903
+      horizon_near_5_1: 6992703944579937499
+      horizon_near_5_10: 4571181312336868550
+      horizon_near_5_11: -6787307785213486154
+      horizon_near_5_2: -3909203268927633329
+      horizon_near_5_3: 7827546982350326341
+      horizon_near_5_4: -5132440393615534880
+      horizon_near_5_5: -4027771008619090824
+      horizon_near_5_6: -8548579797551458747
+      horizon_near_5_7: -6972587541018620523
+      horizon_near_5_8: -7632721225614420145
+      horizon_near_5_9: -1513900700803787866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

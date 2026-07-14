@@ -1,0 +1,1095 @@
+fileFormatVersion: 2
+guid: 9048b20891d06f44883912dd689ac8d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6329984412171643252
+    second: effect_die_0
+  - first:
+      213: -7975115323418816703
+    second: effect_die_1
+  - first:
+      213: 4217742245020979079
+    second: effect_die_2
+  - first:
+      213: -3459579706709035404
+    second: effect_die_3
+  - first:
+      213: -2784488655210443738
+    second: effect_die_4
+  - first:
+      213: 7386579238745604384
+    second: effect_die_5
+  - first:
+      213: 4592246241755459870
+    second: effect_die_6
+  - first:
+      213: -1677053220148674578
+    second: effect_die_7
+  - first:
+      213: 8020245966288174462
+    second: effect_die_8
+  - first:
+      213: 3716676840342189369
+    second: effect_die_9
+  - first:
+      213: -5540400571655687676
+    second: effect_die_10
+  - first:
+      213: 4210571216384304057
+    second: effect_die_11
+  - first:
+      213: -8410954062396127206
+    second: effect_die_12
+  - first:
+      213: 4206233873369659248
+    second: effect_die_13
+  - first:
+      213: 4708294730654197869
+    second: effect_die_14
+  - first:
+      213: -5479333677870804732
+    second: effect_die_15
+  - first:
+      213: 5673158812880005610
+    second: effect_die_16
+  - first:
+      213: -2594491344484488075
+    second: effect_die_17
+  - first:
+      213: -6713404638361765645
+    second: effect_die_18
+  - first:
+      213: 2935048891789423419
+    second: effect_die_19
+  - first:
+      213: 7348959828083168595
+    second: effect_die_20
+  - first:
+      213: 3262819711529056765
+    second: effect_die_21
+  - first:
+      213: -8443638143969765509
+    second: effect_die_22
+  - first:
+      213: -7073377546216338060
+    second: effect_die_23
+  - first:
+      213: 4927460788365508781
+    second: effect_die_24
+  - first:
+      213: -7585723600937319059
+    second: effect_die_25
+  - first:
+      213: -6072140407926602611
+    second: effect_die_26
+  - first:
+      213: 4915601595358290328
+    second: effect_die_27
+  - first:
+      213: -7364221176261160411
+    second: effect_die_28
+  - first:
+      213: 7919975002172447455
+    second: effect_die_29
+  - first:
+      213: 2844408208093757396
+    second: effect_die_30
+  - first:
+      213: -4882232184933132001
+    second: effect_die_31
+  - first:
+      213: 1612010998729764092
+    second: effect_die_32
+  - first:
+      213: -5414318163267284277
+    second: effect_die_33
+  - first:
+      213: 3987756461378211544
+    second: effect_die_34
+  - first:
+      213: 679566000930768226
+    second: effect_die_35
+  - first:
+      213: 3470018108687950783
+    second: effect_die_36
+  - first:
+      213: 663151261505629488
+    second: effect_die_37
+  - first:
+      213: 2531109918924830250
+    second: effect_die_38
+  - first:
+      213: -6298603585210248274
+    second: effect_die_39
+  - first:
+      213: -2896186164892355479
+    second: effect_die_40
+  - first:
+      213: -7389033012917064903
+    second: effect_die_41
+  - first:
+      213: 3917846268089548109
+    second: effect_die_42
+  - first:
+      213: -470850972628245304
+    second: effect_die_43
+  - first:
+      213: -152529311548210667
+    second: effect_die_44
+  - first:
+      213: -8928289339838745419
+    second: effect_die_45
+  - first:
+      213: -661837242749501936
+    second: effect_die_46
+  - first:
+      213: 5147286665848826344
+    second: effect_die_47
+  - first:
+      213: 6870331213255925813
+    second: effect_die_48
+  - first:
+      213: -2703731005545048065
+    second: effect_die_49
+  - first:
+      213: -4291308070190578813
+    second: effect_die_50
+  - first:
+      213: 4715802032195459305
+    second: effect_die_51
+  - first:
+      213: 8443915164810360051
+    second: effect_die_52
+  - first:
+      213: 6753746304714038756
+    second: effect_die_53
+  - first:
+      213: -5389644381108138752
+    second: effect_die_54
+  - first:
+      213: 7876972600437396495
+    second: effect_die_55
+  - first:
+      213: 7304167684052355016
+    second: effect_die_56
+  - first:
+      213: 1548499115269574639
+    second: effect_die_57
+  - first:
+      213: -301836257427974689
+    second: effect_die_58
+  - first:
+      213: -7696224179999199637
+    second: effect_die_59
+  - first:
+      213: 8167678015564899529
+    second: effect_die_60
+  - first:
+      213: -6109388094966543141
+    second: effect_die_61
+  - first:
+      213: 3085786604194618623
+    second: effect_die_62
+  - first:
+      213: -9151443416232238156
+    second: effect_die_63
+  - first:
+      213: 3184327313007761186
+    second: effect_die_64
+  - first:
+      213: 6159866857979129086
+    second: effect_die_65
+  - first:
+      213: 3737801526711825009
+    second: effect_die_66
+  - first:
+      213: 3298181746043442325
+    second: effect_die_67
+  - first:
+      213: -4574458329253300182
+    second: effect_die_68
+  - first:
+      213: -7958773952072946957
+    second: effect_die_69
+  - first:
+      213: 9123060183670371635
+    second: effect_die_70
+  - first:
+      213: -2874359705928986017
+    second: effect_die_71
+  - first:
+      213: 1144724812582486935
+    second: effect_die_72
+  - first:
+      213: -4163800949178142098
+    second: effect_die_73
+  - first:
+      213: -7535982715752240345
+    second: effect_die_74
+  - first:
+      213: 49792013028755213
+    second: effect_die_75
+  - first:
+      213: 1681042455093255896
+    second: effect_die_76
+  - first:
+      213: -3600112644421275355
+    second: effect_die_77
+  - first:
+      213: -4297582249352253338
+    second: effect_die_78
+  - first:
+      213: 2434160686637397618
+    second: effect_die_79
+  - first:
+      213: -579420586475107764
+    second: effect_die_80
+  - first:
+      213: 5758457761568874741
+    second: effect_die_81
+  - first:
+      213: 1085852403852715822
+    second: effect_die_82
+  - first:
+      213: 8365629785702594976
+    second: effect_die_83
+  - first:
+      213: -1742166847138128655
+    second: effect_die_84
+  - first:
+      213: 5367718864301714848
+    second: effect_die_85
+  - first:
+      213: 6906312022418642020
+    second: effect_die_86
+  - first:
+      213: -4718331823197755934
+    second: effect_die_87
+  - first:
+      213: 5131335785548890497
+    second: effect_die_88
+  - first:
+      213: -6348438458519577593
+    second: effect_die_89
+  - first:
+      213: 3684016679963673593
+    second: effect_die_90
+  - first:
+      213: 4027351958398221881
+    second: effect_die_91
+  - first:
+      213: -1851013927038084243
+    second: effect_die_92
+  - first:
+      213: -4100440134916205803
+    second: effect_die_93
+  - first:
+      213: 2007445448263565
+    second: effect_die_94
+  - first:
+      213: -4533011214281060488
+    second: effect_die_95
+  - first:
+      213: 3855471260361154963
+    second: effect_die_96
+  - first:
+      213: -1262547983491677083
+    second: effect_die_97
+  - first:
+      213: -8670048517444390522
+    second: effect_die_98
+  - first:
+      213: 3932866735807523753
+    second: effect_die_99
+  - first:
+      213: 3463200223811410898
+    second: effect_die_100
+  - first:
+      213: 1218884941284247737
+    second: effect_die_101
+  - first:
+      213: 5535655221830559220
+    second: effect_die_102
+  - first:
+      213: 7038007333806264164
+    second: effect_die_103
+  - first:
+      213: -8933310874667753645
+    second: effect_die_104
+  - first:
+      213: 4109948327852355083
+    second: effect_die_105
+  - first:
+      213: -7509124740710833746
+    second: effect_die_106
+  - first:
+      213: 3775787166773281701
+    second: effect_die_107
+  - first:
+      213: -1389026048624901968
+    second: effect_die_108
+  - first:
+      213: 8670218053489669668
+    second: effect_die_109
+  - first:
+      213: -6827345466778222798
+    second: effect_die_110
+  - first:
+      213: 5439892641053786743
+    second: effect_die_111
+  - first:
+      213: 59737414008158733
+    second: effect_die_112
+  - first:
+      213: 7095772120306132961
+    second: effect_die_113
+  - first:
+      213: -1512128855026364205
+    second: effect_die_114
+  - first:
+      213: -9080527073663867324
+    second: effect_die_115
+  - first:
+      213: 2157124899478725315
+    second: effect_die_116
+  - first:
+      213: 2432050926050266204
+    second: effect_die_117
+  - first:
+      213: 2341852260580689933
+    second: effect_die_118
+  - first:
+      213: 7393123418388535696
+    second: effect_die_119
+  - first:
+      213: -1626751278486022761
+    second: effect_die_120
+  - first:
+      213: -1988830285619957252
+    second: effect_die_121
+  - first:
+      213: -3246318986342987716
+    second: effect_die_122
+  - first:
+      213: -7008365218236145893
+    second: effect_die_123
+  - first:
+      213: 6272858321877766633
+    second: effect_die_124
+  - first:
+      213: -6482366452353742189
+    second: effect_die_125
+  - first:
+      213: -910762094255073189
+    second: effect_die_126
+  - first:
+      213: -3222063297688144918
+    second: effect_die_127
+  - first:
+      213: -5406255970418077393
+    second: effect_die_128
+  - first:
+      213: -7785214943435963926
+    second: effect_die_129
+  - first:
+      213: 3366531216186831805
+    second: effect_die_130
+  - first:
+      213: 6057972946937260133
+    second: effect_die_131
+  - first:
+      213: 2698020752946057431
+    second: effect_die_132
+  - first:
+      213: -8850351966460568366
+    second: effect_die_133
+  - first:
+      213: 4509761892970363950
+    second: effect_die_134
+  - first:
+      213: -365789020827572220
+    second: effect_die_135
+  - first:
+      213: -3856874323563584580
+    second: effect_die_136
+  - first:
+      213: -2838664988956054150
+    second: effect_die_137
+  - first:
+      213: 5919472933837545067
+    second: effect_die_138
+  - first:
+      213: 4716592765244722847
+    second: effect_die_139
+  - first:
+      213: 6306621650777130232
+    second: effect_die_140
+  - first:
+      213: 5389409040017147698
+    second: effect_die_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4792041094f98d750800000000000000
+      internalID: 6329984412171643252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fc8d80ed2b25190800000000000000
+      internalID: -7975115323418816703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f42aca93e688a30800000000000000
+      internalID: 4217742245020979079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476357d169a1dffc0800000000000000
+      internalID: -3459579706709035404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c831922528b59d0800000000000000
+      internalID: -2784488655210443738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02105be8ea6628660800000000000000
+      internalID: 7386579238745604384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11f4f840afeabf30800000000000000
+      internalID: 4592246241755459870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeffc9f4bf8e9b8e0800000000000000
+      internalID: -1677053220148674578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dbdd79633ad4f60800000000000000
+      internalID: 8020245966288174462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935748df4e9449330800000000000000
+      internalID: 3716676840342189369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402771dc80b8c13b0800000000000000
+      internalID: -5540400571655687676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b322167634fe6a30800000000000000
+      internalID: 4210571216384304057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1800c8e7d9464b80800000000000000
+      internalID: -8410954062396127206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f9681c6b8f5a30800000000000000
+      internalID: 4206233873369659248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68ac76ac19375140800000000000000
+      internalID: 4708294730654197869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011dacfc0f75f3b0800000000000000
+      internalID: -5479333677870804732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e614f1eb1bbe40800000000000000
+      internalID: 5673158812880005610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c2d2f4ed38efbd0800000000000000
+      internalID: -2594491344484488075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8bcf0fc0235d2a0800000000000000
+      internalID: -6713404638361765645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333381aa636bb820800000000000000
+      internalID: 2935048891789423419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555385f600ccf560800000000000000
+      internalID: 7348959828083168595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9f4df8d3dd74d20800000000000000
+      internalID: 3262819711529056765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775eb828db22da80800000000000000
+      internalID: -8443638143969765509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_die_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d0d8b199056dd90800000000000000
+      internalID: -7073377546216338060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5597985579439049a491e02f760560a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_die_0: 6329984412171643252
+      effect_die_1: -7975115323418816703
+      effect_die_10: -5540400571655687676
+      effect_die_11: 4210571216384304057
+      effect_die_12: -8410954062396127206
+      effect_die_13: 4206233873369659248
+      effect_die_14: 4708294730654197869
+      effect_die_15: -5479333677870804732
+      effect_die_16: 5673158812880005610
+      effect_die_17: -2594491344484488075
+      effect_die_18: -6713404638361765645
+      effect_die_19: 2935048891789423419
+      effect_die_2: 4217742245020979079
+      effect_die_20: 7348959828083168595
+      effect_die_21: 3262819711529056765
+      effect_die_22: -8443638143969765509
+      effect_die_23: -7073377546216338060
+      effect_die_3: -3459579706709035404
+      effect_die_4: -2784488655210443738
+      effect_die_5: 7386579238745604384
+      effect_die_6: 4592246241755459870
+      effect_die_7: -1677053220148674578
+      effect_die_8: 8020245966288174462
+      effect_die_9: 3716676840342189369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

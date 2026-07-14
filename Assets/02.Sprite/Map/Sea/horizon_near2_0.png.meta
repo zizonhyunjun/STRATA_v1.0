@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 4266a7428ccc91344a0e578c0fb062da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5100234120754073427
+    second: horizon_near2_0_0
+  - first:
+      213: -4901772264188291643
+    second: horizon_near2_0_1
+  - first:
+      213: -3012133825530159123
+    second: horizon_near2_0_2
+  - first:
+      213: 580591558136050761
+    second: horizon_near2_0_3
+  - first:
+      213: -93670978305144759
+    second: horizon_near2_0_4
+  - first:
+      213: -1136388784288110872
+    second: horizon_near2_0_5
+  - first:
+      213: 1549982045449382233
+    second: horizon_near2_0_6
+  - first:
+      213: 1700558912142700810
+    second: horizon_near2_0_7
+  - first:
+      213: -8227249089839448344
+    second: horizon_near2_0_8
+  - first:
+      213: 8667343362570243194
+    second: horizon_near2_0_9
+  - first:
+      213: 7842383803858327101
+    second: horizon_near2_0_10
+  - first:
+      213: -6774357413164345768
+    second: horizon_near2_0_11
+  - first:
+      213: 3955486924671758037
+    second: horizon_near2_0_12
+  - first:
+      213: 5789589979933551200
+    second: horizon_near2_0_13
+  - first:
+      213: 3803874279319296434
+    second: horizon_near2_0_14
+  - first:
+      213: -784886131236874776
+    second: horizon_near2_0_15
+  - first:
+      213: -1772346571556519955
+    second: horizon_near2_0_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horizon_near2_0_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 41
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07021e6145839b0800000000000000
+      internalID: -5100234120754073427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 38
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d13fa81869fbb0800000000000000
+      internalID: -4901772264188291643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 184
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def1651ae30c236d0800000000000000
+      internalID: -3012133825530159123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_3
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 43
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9443a4e22fcae0800800000000000000
+      internalID: 580591558136050761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948cb54ddb633bef0800000000000000
+      internalID: -93670978305144759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 26
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6e4c9eb6cba30f0800000000000000
+      internalID: -1136388784288110872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 179
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9596e3b4574a28510800000000000000
+      internalID: 1549982045449382233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 26
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01f3e51259999710800000000000000
+      internalID: 1700558912142700810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 8
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeb679ea80f2dd80800000000000000
+      internalID: -8227249089839448344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 17
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cc650edd6984870800000000000000
+      internalID: 8667343362570243194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 59
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d369045d48eb5dc60800000000000000
+      internalID: 7842383803858327101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8561ec623d5acf1a0800000000000000
+      internalID: -6774357413164345768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de23c2a666b4e630800000000000000
+      internalID: 3955486924671758037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 7
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa9158961c85050800000000000000
+      internalID: 5789589979933551200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_14
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b95215d0831ac430800000000000000
+      internalID: 3803874279319296434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5de7ed8368b15f0800000000000000
+      internalID: -784886131236874776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_near2_0_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deffd77fe2c5767e0800000000000000
+      internalID: -1772346571556519955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      horizon_near2_0_0: -5100234120754073427
+      horizon_near2_0_1: -4901772264188291643
+      horizon_near2_0_10: 7842383803858327101
+      horizon_near2_0_11: -6774357413164345768
+      horizon_near2_0_12: 3955486924671758037
+      horizon_near2_0_13: 5789589979933551200
+      horizon_near2_0_14: 3803874279319296434
+      horizon_near2_0_15: -784886131236874776
+      horizon_near2_0_16: -1772346571556519955
+      horizon_near2_0_2: -3012133825530159123
+      horizon_near2_0_3: 580591558136050761
+      horizon_near2_0_4: -93670978305144759
+      horizon_near2_0_5: -1136388784288110872
+      horizon_near2_0_6: 1549982045449382233
+      horizon_near2_0_7: 1700558912142700810
+      horizon_near2_0_8: -8227249089839448344
+      horizon_near2_0_9: 8667343362570243194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

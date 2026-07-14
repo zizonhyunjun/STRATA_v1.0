@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b474135d46b0e174c806bd0292d87227, type: 3}
+  m_Name: Map_Road
+  m_EditorClassIdentifier: 
+  top: {fileID: 21300000, guid: bca96ecf67b8d874c8e33cf95d2edcd1, type: 3}
+  middle: {fileID: 21300000, guid: bc2d9d4c50a21cf42960e838fafaeb1a, type: 3}
+  bottom: {fileID: 21300000, guid: 942b74af25c85984fa70afd6e36661b1, type: 3}
+  minRandom: 0.1
+  maxRandom: 0.5
+  Sc: 0.5
+  guri: 1
+  building:
+  - {fileID: -2233571642656224614, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  - {fileID: 3963795128606556, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  - {fileID: 4045542803552206897, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  - {fileID: -2691874807426537297, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  - {fileID: 5418593883894565689, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  - {fileID: -9219589561439112785, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  - {fileID: -627798794401892582, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  - {fileID: -5962548583262306474, guid: d684d6e648317f64788aba34c97c7c93, type: 3}
+  skyColor: {r: 0.41394717, g: 0.81761, b: 0.6788509, a: 1}
+  angeColor: {r: 1, g: 0.95686275, b: 0.5686275, a: 0.5882353}
+  groundColor: {r: 0.8050314, g: 0.56409043, b: 0.255686, a: 1}

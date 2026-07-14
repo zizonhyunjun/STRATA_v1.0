@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 9ff553e2d8a4aa849b0e74c6d64e2566
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -658151445463324461
+    second: effect_enemydie_0
+  - first:
+      213: -5216760463708172924
+    second: effect_enemydie_1
+  - first:
+      213: 6614382525722538230
+    second: effect_enemydie_2
+  - first:
+      213: -1182734242974620157
+    second: effect_enemydie_3
+  - first:
+      213: -178228979925910261
+    second: effect_enemydie_4
+  - first:
+      213: 2340831543414110013
+    second: effect_enemydie_5
+  - first:
+      213: -3544581838955214605
+    second: effect_enemydie_6
+  - first:
+      213: 6890244367286732180
+    second: effect_enemydie_7
+  - first:
+      213: 228991301461246909
+    second: effect_enemydie_8
+  - first:
+      213: -3135148685252904357
+    second: effect_enemydie_9
+  - first:
+      213: 6976995714342398346
+    second: effect_enemydie_10
+  - first:
+      213: 4114405402565665232
+    second: effect_enemydie_11
+  - first:
+      213: 1433781733681575450
+    second: effect_enemydie_12
+  - first:
+      213: -1450101540806885017
+    second: effect_enemydie_13
+  - first:
+      213: 1906832507369457454
+    second: effect_enemydie_14
+  - first:
+      213: -7064461935967635092
+    second: effect_enemydie_15
+  - first:
+      213: -8591939014556319167
+    second: effect_enemydie_16
+  - first:
+      213: -673858317211641601
+    second: effect_enemydie_17
+  - first:
+      213: 4505043246812279954
+    second: effect_enemydie_18
+  - first:
+      213: -2039473886261632411
+    second: effect_enemydie_19
+  - first:
+      213: 5911662206256350086
+    second: effect_enemydie_20
+  - first:
+      213: 1042945636138819918
+    second: effect_enemydie_21
+  - first:
+      213: 1962232109104703696
+    second: effect_enemydie_22
+  - first:
+      213: 6754437047021280763
+    second: effect_enemydie_23
+  - first:
+      213: -6834121435308024746
+    second: effect_enemydie_24
+  - first:
+      213: 5066324303542123481
+    second: effect_enemydie_25
+  - first:
+      213: -3257432078027824290
+    second: effect_enemydie_26
+  - first:
+      213: 1857630374852244785
+    second: effect_enemydie_27
+  - first:
+      213: 6709046832240801294
+    second: effect_enemydie_28
+  - first:
+      213: -567935138315629933
+    second: effect_enemydie_29
+  - first:
+      213: -8720152634154209794
+    second: effect_enemydie_30
+  - first:
+      213: -1729944003613100813
+    second: effect_enemydie_31
+  - first:
+      213: -4537769195963084449
+    second: effect_enemydie_32
+  - first:
+      213: -6533551785709757428
+    second: effect_enemydie_33
+  - first:
+      213: 6053277542693316441
+    second: effect_enemydie_34
+  - first:
+      213: -2678114542591080096
+    second: effect_enemydie_35
+  - first:
+      213: -9208762300579893637
+    second: effect_enemydie_36
+  - first:
+      213: 3920469809030609922
+    second: effect_enemydie_37
+  - first:
+      213: 8717205653912788152
+    second: effect_enemydie_38
+  - first:
+      213: -3199674109992397778
+    second: effect_enemydie_39
+  - first:
+      213: -3405783701733493311
+    second: effect_enemydie_40
+  - first:
+      213: 496633522237168023
+    second: effect_enemydie_41
+  - first:
+      213: -6889363231041249204
+    second: effect_enemydie_42
+  - first:
+      213: -7568961428491554601
+    second: effect_enemydie_43
+  - first:
+      213: 3983197238878040341
+    second: effect_enemydie_44
+  - first:
+      213: 4790771481576202731
+    second: effect_enemydie_45
+  - first:
+      213: -6359457481943071049
+    second: effect_enemydie_46
+  - first:
+      213: -505007886322647996
+    second: effect_enemydie_47
+  - first:
+      213: -7640027725742895261
+    second: effect_enemydie_48
+  - first:
+      213: 3296879662906389789
+    second: effect_enemydie_49
+  - first:
+      213: 7949516569662403615
+    second: effect_enemydie_50
+  - first:
+      213: 7763445895637957571
+    second: effect_enemydie_51
+  - first:
+      213: 1586530194701278543
+    second: effect_enemydie_52
+  - first:
+      213: 323953149087924628
+    second: effect_enemydie_53
+  - first:
+      213: 522618056049874304
+    second: effect_enemydie_54
+  - first:
+      213: 8726949533785258233
+    second: effect_enemydie_55
+  - first:
+      213: -9191965757645262972
+    second: effect_enemydie_56
+  - first:
+      213: 588854492883339610
+    second: effect_enemydie_57
+  - first:
+      213: 7297005807383740647
+    second: effect_enemydie_58
+  - first:
+      213: 5471914865081362232
+    second: effect_enemydie_59
+  - first:
+      213: -6622030233154452443
+    second: effect_enemydie_60
+  - first:
+      213: -5199796787860580161
+    second: effect_enemydie_61
+  - first:
+      213: -7304101196281729892
+    second: effect_enemydie_62
+  - first:
+      213: -7202048805610645106
+    second: effect_enemydie_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_enemydie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8afb45fb6cdd6f0800000000000000
+      internalID: -658151445463324461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d4f527ff75a97b0800000000000000
+      internalID: -5216760463708172924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03e36dcd10bcb50800000000000000
+      internalID: 6614382525722538230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306aecfe875169fe0800000000000000
+      internalID: -1182734242974620157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df5d2efadc68df0800000000000000
+      internalID: -178228979925910261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d373a30f2ed4c7020800000000000000
+      internalID: 2340831543414110013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f806c3f89d1fcec0800000000000000
+      internalID: -3544581838955214605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49503c7feb01f9f50800000000000000
+      internalID: 6890244367286732180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3804c106a8d2300800000000000000
+      internalID: 228991301461246909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ab779a1e6bd74d0800000000000000
+      internalID: -3135148685252904357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892dc0f2a443d060800000000000000
+      internalID: 6976995714342398346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1efd12aed491930800000000000000
+      internalID: 4114405402565665232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16b889e3e0d5e310800000000000000
+      internalID: 1433781733681575450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76185f3e45430ebe0800000000000000
+      internalID: -1450101540806885017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278ce7001e667a10800000000000000
+      internalID: 1906832507369457454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6971616c4df5fd90800000000000000
+      internalID: -7064461935967635092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1420d810dfc43c880800000000000000
+      internalID: -8591939014556319167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff858a54e69f5a6f0800000000000000
+      internalID: -673858317211641601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294b408d6f0258e30800000000000000
+      internalID: 4505043246812279954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562a0b85e4552b3e0800000000000000
+      internalID: -2039473886261632411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683030c84717a0250800000000000000
+      internalID: 5911662206256350086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e412912c789497e00800000000000000
+      internalID: 1042945636138819918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d82d06f4bf3b3b10800000000000000
+      internalID: 1962232109104703696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd117d25b49cbd50800000000000000
+      internalID: 6754437047021280763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c159863c25821a0800000000000000
+      internalID: -6834121435308024746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db7e8d8c133f4640800000000000000
+      internalID: 5066324303542123481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_enemydie_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53603d98c64bc2d0800000000000000
+      internalID: -3257432078027824290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 296406dfc18892f4f9b110141bac400d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_enemydie_0: -658151445463324461
+      effect_enemydie_1: -5216760463708172924
+      effect_enemydie_10: 6976995714342398346
+      effect_enemydie_11: 4114405402565665232
+      effect_enemydie_12: 1433781733681575450
+      effect_enemydie_13: -1450101540806885017
+      effect_enemydie_14: 1906832507369457454
+      effect_enemydie_15: -7064461935967635092
+      effect_enemydie_16: -8591939014556319167
+      effect_enemydie_17: -673858317211641601
+      effect_enemydie_18: 4505043246812279954
+      effect_enemydie_19: -2039473886261632411
+      effect_enemydie_2: 6614382525722538230
+      effect_enemydie_20: 5911662206256350086
+      effect_enemydie_21: 1042945636138819918
+      effect_enemydie_22: 1962232109104703696
+      effect_enemydie_23: 6754437047021280763
+      effect_enemydie_24: -6834121435308024746
+      effect_enemydie_25: 5066324303542123481
+      effect_enemydie_26: -3257432078027824290
+      effect_enemydie_3: -1182734242974620157
+      effect_enemydie_4: -178228979925910261
+      effect_enemydie_5: 2340831543414110013
+      effect_enemydie_6: -3544581838955214605
+      effect_enemydie_7: 6890244367286732180
+      effect_enemydie_8: 228991301461246909
+      effect_enemydie_9: -3135148685252904357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

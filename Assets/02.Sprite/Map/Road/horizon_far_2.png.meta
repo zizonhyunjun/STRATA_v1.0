@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 942b74af25c85984fa70afd6e36661b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4948829613858210803
+    second: horizon_far_2_0
+  - first:
+      213: 6820816567425697597
+    second: horizon_far_2_1
+  - first:
+      213: -6092523606371884527
+    second: horizon_far_2_2
+  - first:
+      213: 824839233157017371
+    second: horizon_far_2_3
+  - first:
+      213: -5807791693574423290
+    second: horizon_far_2_4
+  - first:
+      213: -5989590300639815271
+    second: horizon_far_2_5
+  - first:
+      213: 6930313978433673169
+    second: horizon_far_2_6
+  - first:
+      213: -6701995208554477141
+    second: horizon_far_2_7
+  - first:
+      213: 1179555230172970352
+    second: horizon_far_2_8
+  - first:
+      213: 5198176109224936550
+    second: horizon_far_2_9
+  - first:
+      213: 3111247399167199056
+    second: horizon_far_2_10
+  - first:
+      213: 4823008223963224269
+    second: horizon_far_2_11
+  - first:
+      213: 8251079516858543007
+    second: horizon_far_2_12
+  - first:
+      213: -3123531326689258028
+    second: horizon_far_2_13
+  - first:
+      213: -4763052869948494974
+    second: horizon_far_2_14
+  - first:
+      213: -6386139621896815014
+    second: horizon_far_2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: horizon_far_2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 112
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c3c0cafa9325bb0800000000000000
+      internalID: -4948829613858210803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 110
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d370283a78868ae50800000000000000
+      internalID: 6820816567425697597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 46
+        width: 68
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112a5804f02037ba0800000000000000
+      internalID: -6092523606371884527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 42
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f212199ea627b00800000000000000
+      internalID: 824839233157017371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 44
+        width: 60
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d3807c934966fa0800000000000000
+      internalID: -5807791693574423290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 42
+        width: 78
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9991d341b53b0eca0800000000000000
+      internalID: -5989590300639815271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 12
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7967258db6d2060800000000000000
+      internalID: 6930313978433673169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 22
+        width: 80
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba98db3dddabdf2a0800000000000000
+      internalID: -6701995208554477141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_8
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 27
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df9677b3f9e5010800000000000000
+      internalID: 1179555230172970352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 14
+        width: 159
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664464651a1a32840800000000000000
+      internalID: 5198176109224936550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05708b3860f5d2b20800000000000000
+      internalID: 3111247399167199056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 13
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc89d122d64cee240800000000000000
+      internalID: 4823008223963224269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 13
+        width: 93
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9beadfba19b18270800000000000000
+      internalID: 8251079516858543007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 12
+        width: 74
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5d1ebbeccf6a4d0800000000000000
+      internalID: -3123531326689258028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 14
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ba05886ac36edb0800000000000000
+      internalID: -4763052869948494974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizon_far_2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eface59dfdf57a0800000000000000
+      internalID: -6386139621896815014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      horizon_far_2_0: -4948829613858210803
+      horizon_far_2_1: 6820816567425697597
+      horizon_far_2_10: 3111247399167199056
+      horizon_far_2_11: 4823008223963224269
+      horizon_far_2_12: 8251079516858543007
+      horizon_far_2_13: -3123531326689258028
+      horizon_far_2_14: -4763052869948494974
+      horizon_far_2_15: -6386139621896815014
+      horizon_far_2_2: -6092523606371884527
+      horizon_far_2_3: 824839233157017371
+      horizon_far_2_4: -5807791693574423290
+      horizon_far_2_5: -5989590300639815271
+      horizon_far_2_6: 6930313978433673169
+      horizon_far_2_7: -6701995208554477141
+      horizon_far_2_8: 1179555230172970352
+      horizon_far_2_9: 5198176109224936550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

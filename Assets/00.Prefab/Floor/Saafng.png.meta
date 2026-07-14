@@ -1,0 +1,3653 @@
+fileFormatVersion: 2
+guid: 8c793f345f18c464f8cc90bb12ecef29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5491777657711297892
+    second: Saafng_0
+  - first:
+      213: -9104365324248415915
+    second: Saafng_1
+  - first:
+      213: 28778350741217894
+    second: Saafng_2
+  - first:
+      213: -1609740806801745558
+    second: Saafng_3
+  - first:
+      213: 2332702093594899225
+    second: Saafng_4
+  - first:
+      213: -1232552376770533359
+    second: Saafng_5
+  - first:
+      213: -5857834363866702872
+    second: Saafng_6
+  - first:
+      213: 253879172810513390
+    second: Saafng_7
+  - first:
+      213: 4354147527552011881
+    second: Saafng_8
+  - first:
+      213: 7992719797105593933
+    second: Saafng_9
+  - first:
+      213: 2058171119051884694
+    second: Saafng_10
+  - first:
+      213: 500617795971730054
+    second: Saafng_11
+  - first:
+      213: -5789652767942552773
+    second: Saafng_12
+  - first:
+      213: -6838913428535708215
+    second: Saafng_13
+  - first:
+      213: -3386873549543187437
+    second: Saafng_14
+  - first:
+      213: -3776881107393048529
+    second: Saafng_15
+  - first:
+      213: 3961226557763291082
+    second: Saafng_16
+  - first:
+      213: 844525900809951771
+    second: Saafng_17
+  - first:
+      213: 8887853673578134313
+    second: Saafng_18
+  - first:
+      213: -6392206849931002818
+    second: Saafng_19
+  - first:
+      213: 8084858749621004651
+    second: Saafng_20
+  - first:
+      213: -2652635749185769535
+    second: Saafng_21
+  - first:
+      213: -6244490230082277125
+    second: Saafng_22
+  - first:
+      213: 2489734248993516235
+    second: Saafng_23
+  - first:
+      213: -7027380089778440811
+    second: Saafng_24
+  - first:
+      213: -226729752674374580
+    second: Saafng_25
+  - first:
+      213: -788381504760949014
+    second: Saafng_26
+  - first:
+      213: 7023713456276162629
+    second: Saafng_27
+  - first:
+      213: 860867033047178402
+    second: Saafng_28
+  - first:
+      213: 7289467798313195179
+    second: Saafng_29
+  - first:
+      213: 7408052400162684862
+    second: Saafng_30
+  - first:
+      213: -1227636441369820940
+    second: Saafng_31
+  - first:
+      213: 8291208734885426107
+    second: Saafng_32
+  - first:
+      213: 2889285309997042431
+    second: Saafng_33
+  - first:
+      213: -5617645282647469290
+    second: Saafng_34
+  - first:
+      213: 3930735545219333901
+    second: Saafng_35
+  - first:
+      213: -7443833009469194069
+    second: Saafng_36
+  - first:
+      213: 2528590479989499916
+    second: Saafng_37
+  - first:
+      213: -8527905645621112334
+    second: Saafng_38
+  - first:
+      213: 1006596068527205674
+    second: Saafng_39
+  - first:
+      213: 6055470462047066939
+    second: Saafng_40
+  - first:
+      213: 3992594287384183687
+    second: Saafng_41
+  - first:
+      213: 8116219933924933392
+    second: Saafng_42
+  - first:
+      213: 5292100081080877839
+    second: Saafng_43
+  - first:
+      213: -6077879262454631676
+    second: Saafng_44
+  - first:
+      213: -1173305216294406005
+    second: Saafng_45
+  - first:
+      213: 8401289389768238869
+    second: Saafng_46
+  - first:
+      213: 7399707148454190334
+    second: Saafng_47
+  - first:
+      213: -3606651777728771517
+    second: Saafng_48
+  - first:
+      213: -8310068154353881839
+    second: Saafng_49
+  - first:
+      213: 2617711058709593042
+    second: Saafng_50
+  - first:
+      213: 324077658388775698
+    second: Saafng_51
+  - first:
+      213: 1732986401123415140
+    second: Saafng_52
+  - first:
+      213: 677130471975919814
+    second: Saafng_53
+  - first:
+      213: 5111190662462959732
+    second: Saafng_54
+  - first:
+      213: 2839055335262437551
+    second: Saafng_55
+  - first:
+      213: -5595373635534943248
+    second: Saafng_56
+  - first:
+      213: -3630474127665358121
+    second: Saafng_57
+  - first:
+      213: 2145312821222058211
+    second: Saafng_58
+  - first:
+      213: -3855827123843391453
+    second: Saafng_59
+  - first:
+      213: -5885664411282960951
+    second: Saafng_60
+  - first:
+      213: -5796300212906578594
+    second: Saafng_61
+  - first:
+      213: 4742336859415336915
+    second: Saafng_62
+  - first:
+      213: -7859518656647097485
+    second: Saafng_63
+  - first:
+      213: -5981668045886161759
+    second: Saafng_64
+  - first:
+      213: 5729606813646081034
+    second: Saafng_65
+  - first:
+      213: -6107637305816882069
+    second: Saafng_66
+  - first:
+      213: -6647806226703926494
+    second: Saafng_67
+  - first:
+      213: -1742322240512917468
+    second: Saafng_68
+  - first:
+      213: -5781145739194125833
+    second: Saafng_69
+  - first:
+      213: -921715014924313349
+    second: Saafng_70
+  - first:
+      213: 4846227092932494162
+    second: Saafng_71
+  - first:
+      213: 4073986339553787263
+    second: Saafng_72
+  - first:
+      213: -2585350901652408268
+    second: Saafng_73
+  - first:
+      213: -7387373505742786663
+    second: Saafng_74
+  - first:
+      213: -2256135891375282597
+    second: Saafng_75
+  - first:
+      213: 1615208717548628059
+    second: Saafng_76
+  - first:
+      213: -2027178182040301878
+    second: Saafng_77
+  - first:
+      213: -615893561215775037
+    second: Saafng_78
+  - first:
+      213: 2420350667369909322
+    second: Saafng_79
+  - first:
+      213: -3618518043969590878
+    second: Saafng_80
+  - first:
+      213: 465039314182847341
+    second: Saafng_81
+  - first:
+      213: -5877139898663419905
+    second: Saafng_82
+  - first:
+      213: -5812018398913164063
+    second: Saafng_83
+  - first:
+      213: 9060613860132159690
+    second: Saafng_84
+  - first:
+      213: -6615229390175722176
+    second: Saafng_85
+  - first:
+      213: -6203454796192159334
+    second: Saafng_86
+  - first:
+      213: 275422250013755332
+    second: Saafng_87
+  - first:
+      213: -2746032506093963298
+    second: Saafng_88
+  - first:
+      213: 8964906808094428652
+    second: Saafng_89
+  - first:
+      213: -7588740392801362674
+    second: Saafng_90
+  - first:
+      213: 1185648949951127080
+    second: Saafng_91
+  - first:
+      213: 6278817952793649108
+    second: Saafng_92
+  - first:
+      213: 4328711304589513613
+    second: Saafng_93
+  - first:
+      213: 3345359031329384620
+    second: Saafng_94
+  - first:
+      213: -212067680480861259
+    second: Saafng_95
+  - first:
+      213: 3234557504062519688
+    second: Saafng_96
+  - first:
+      213: 3190414022235356316
+    second: Saafng_97
+  - first:
+      213: 1536077636300425646
+    second: Saafng_98
+  - first:
+      213: -3765601504818149474
+    second: Saafng_99
+  - first:
+      213: 2795986569617743435
+    second: Saafng_100
+  - first:
+      213: -2843527267810541456
+    second: Saafng_101
+  - first:
+      213: 8861718291489246524
+    second: Saafng_102
+  - first:
+      213: 6571160443640887509
+    second: Saafng_103
+  - first:
+      213: 6120621307023424679
+    second: Saafng_104
+  - first:
+      213: -4001178086993828570
+    second: Saafng_105
+  - first:
+      213: -4374394802772527747
+    second: Saafng_106
+  - first:
+      213: 1704653595022700417
+    second: Saafng_107
+  - first:
+      213: 6962145283081961498
+    second: Saafng_108
+  - first:
+      213: -473866687180495254
+    second: Saafng_109
+  - first:
+      213: 7108027416972924554
+    second: Saafng_110
+  - first:
+      213: -1949627010219573087
+    second: Saafng_111
+  - first:
+      213: 2654190988310630239
+    second: Saafng_112
+  - first:
+      213: 3209821853128865037
+    second: Saafng_113
+  - first:
+      213: 7219036977177273348
+    second: Saafng_114
+  - first:
+      213: 469398083846389971
+    second: Saafng_115
+  - first:
+      213: -6293644934694682938
+    second: Saafng_116
+  - first:
+      213: -163195125811427935
+    second: Saafng_117
+  - first:
+      213: 6657914934107158230
+    second: Saafng_118
+  - first:
+      213: -1710525343767829976
+    second: Saafng_119
+  - first:
+      213: 1261669355075045485
+    second: Saafng_120
+  - first:
+      213: 6286560060717926297
+    second: Saafng_121
+  - first:
+      213: 148822972045415618
+    second: Saafng_122
+  - first:
+      213: -3020772110957122870
+    second: Saafng_123
+  - first:
+      213: -4327927434003008468
+    second: Saafng_124
+  - first:
+      213: -3051863140221300515
+    second: Saafng_125
+  - first:
+      213: 7372410942534599429
+    second: Saafng_126
+  - first:
+      213: -3331106230230625571
+    second: Saafng_127
+  - first:
+      213: -2560441429407094486
+    second: Saafng_128
+  - first:
+      213: -3282590789244798851
+    second: Saafng_129
+  - first:
+      213: 827864557332426227
+    second: Saafng_130
+  - first:
+      213: -4363591660318974311
+    second: Saafng_131
+  - first:
+      213: 8589983461174189688
+    second: Saafng_132
+  - first:
+      213: 6669971209210865200
+    second: Saafng_133
+  - first:
+      213: 4336645816151580867
+    second: Saafng_134
+  - first:
+      213: 795469916045224126
+    second: Saafng_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saafng_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650f49dea6b63c40800000000000000
+      internalID: 5491777657711297892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510ace79fbc6a180800000000000000
+      internalID: -9104365324248415915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e62de1cd366000800000000000000
+      internalID: 28778350741217894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a699126d34d09a9e0800000000000000
+      internalID: -1609740806801745558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913b887e13c6f5020800000000000000
+      internalID: 2332702093594899225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1186787c42815eee0800000000000000
+      internalID: -1232552376770533359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb16a4aeaac4bea0800000000000000
+      internalID: -5857834363866702872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb9d3733c5f58300800000000000000
+      internalID: 253879172810513390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e02676b1a0d6c30800000000000000
+      internalID: 4354147527552011881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e06b7ee48dbee60800000000000000
+      internalID: 7992719797105593933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6984e066ab7109c10800000000000000
+      internalID: 2058171119051884694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a4229ab3d82f600800000000000000
+      internalID: 500617795971730054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b335de18b7507afa0800000000000000
+      internalID: -5789652767942552773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5fa7a887c4711a0800000000000000
+      internalID: -6838913428535708215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cdf4c73786ff0d0800000000000000
+      internalID: -3386873549543187437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2014f2c4a2d59bc0800000000000000
+      internalID: -3776881107393048529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7035a119a19f630800000000000000
+      internalID: 3961226557763291082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ad46115db58bb00800000000000000
+      internalID: 844525900809951771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b764583dff75b70800000000000000
+      internalID: 8887853673578134313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c3b03ccb15a47a0800000000000000
+      internalID: -6392206849931002818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b696e568230333070800000000000000
+      internalID: 8084858749621004651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfa74327d1ff2bd0800000000000000
+      internalID: -2652635749185769535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf07c80783d1759a0800000000000000
+      internalID: -6244490230082277125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcae168bb105d8220800000000000000
+      internalID: 2489734248993516235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957a1f7a0bb97e90800000000000000
+      internalID: -7027380089778440811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce4dfbd7e7adcf0800000000000000
+      internalID: -226729752674374580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae65c3dc23b1f05f0800000000000000
+      internalID: -788381504760949014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548c87ddc2e397160800000000000000
+      internalID: 7023713456276162629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac1f97610a62fb00800000000000000
+      internalID: 860867033047178402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba65b106754692560800000000000000
+      internalID: 7289467798313195179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf3d2d8860bec660800000000000000
+      internalID: 7408052400162684862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0c3de292f86fee0800000000000000
+      internalID: -1227636441369820940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb336796a6a401370800000000000000
+      internalID: 8291208734885426107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac02d6eadc81820800000000000000
+      internalID: 2889285309997042431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61316a5016d1a02b0800000000000000
+      internalID: -5617645282647469290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fbcc60727cc8630800000000000000
+      internalID: 3930735545219333901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba00347215132b890800000000000000
+      internalID: -7443833009469194069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08653ef4ab571320800000000000000
+      internalID: 2528590479989499916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f194b28ffac6a980800000000000000
+      internalID: -8527905645621112334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6ed88ac528fd00800000000000000
+      internalID: 1006596068527205674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b9f2e4d4a590450800000000000000
+      internalID: 6055470462047066939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783c9c7c95b886730800000000000000
+      internalID: 3992594287384183687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f3a80470b92a070800000000000000
+      internalID: 8116219933924933392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0344a82cf0517940800000000000000
+      internalID: 5292100081080877839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403bda5430907aba0800000000000000
+      internalID: -6077879262454631676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88b8a94f1597bfe0800000000000000
+      internalID: -1173305216294406005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e4642030679470800000000000000
+      internalID: 8401289389768238869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_47
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcd789327a01b660800000000000000
+      internalID: 7399707148454190334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a02f7215992fdc0800000000000000
+      internalID: -3606651777728771517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d6370da05bcac80800000000000000
+      internalID: -8310068154353881839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_50
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db3ff2b65af35420800000000000000
+      internalID: 2617711058709593042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21347ebc9ea5f7400800000000000000
+      internalID: 324077658388775698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4643b8733fdcc0810800000000000000
+      internalID: 1732986401123415140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a7b0a396a56900800000000000000
+      internalID: 677130471975919814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f567c3d89ee640800000000000000
+      internalID: 5111190662462959732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0cef319c9566720800000000000000
+      internalID: 2839055335262437551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb8a54f25d3952b0800000000000000
+      internalID: -5595373635534943248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da92461407fd9dc0800000000000000
+      internalID: -3630474127665358121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8280105aea5cd10800000000000000
+      internalID: 2145312821222058211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_59
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320afffe8a95d7ac0800000000000000
+      internalID: -3855827123843391453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd025ac66be15ea0800000000000000
+      internalID: -5885664411282960951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_61
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dae2e9aa76f8fa0800000000000000
+      internalID: -5796300212906578594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_62
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d751b66f3a20d140800000000000000
+      internalID: 4742336859415336915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_63
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3739efc5c616de290800000000000000
+      internalID: -7859518656647097485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac76a0ca98dcfca0800000000000000
+      internalID: -5981668045886161759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c480e4a07a38f40800000000000000
+      internalID: 5729606813646081034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b646cd1ea305d3ba0800000000000000
+      internalID: -6107637305816882069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_67
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bbea9557f3eb3a0800000000000000
+      internalID: -6647806226703926494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42007f9472702d7e0800000000000000
+      internalID: -1742322240512917468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_69
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1329c749e35cfa0800000000000000
+      internalID: -5781145739194125833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcda4fc3196533f0800000000000000
+      internalID: -921715014924313349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2538d175dd1414340800000000000000
+      internalID: 4846227092932494162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7db5ecadf4b98830800000000000000
+      internalID: 4073986339553787263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b54f7d0dfe1cd0800000000000000
+      internalID: -2585350901652408268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fa11fbfe6ca7990800000000000000
+      internalID: -7387373505742786663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56219d3c5890b0e0800000000000000
+      internalID: -2256135891375282597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_76
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58a99755cf5a6610800000000000000
+      internalID: 1615208717548628059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_77
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec0131f240ed3e0800000000000000
+      internalID: -2027178182040301878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_78
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8848b118e377f0800000000000000
+      internalID: -615893561215775037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_79
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c8670cb10d69120800000000000000
+      internalID: 2420350667369909322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_80
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9e9dfb20178cdc0800000000000000
+      internalID: -3618518043969590878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb578dac6247600800000000000000
+      internalID: 465039314182847341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_82
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff34ec8664307ea0800000000000000
+      internalID: -5877139898663419905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_83
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec0fb04f00975fa0800000000000000
+      internalID: -5812018398913164063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_84
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac08824fc44cdbd70800000000000000
+      internalID: 9060613860132159690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_85
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452ada2bebf134a0800000000000000
+      internalID: -6615229390175722176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_86
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e5cceab6e8e9a0800000000000000
+      internalID: -6203454796192159334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_87
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70f4fb31f72d300800000000000000
+      internalID: 275422250013755332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f79c1cf124e9d0800000000000000
+      internalID: -2746032506093963298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_89
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced03fc6e3fb96c70800000000000000
+      internalID: 8964906808094428652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_90
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9a62d1d06fa690800000000000000
+      internalID: -7588740392801362674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed62a2075447010800000000000000
+      internalID: 1185648949951127080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df5c9559a7d22750800000000000000
+      internalID: 6278817952793649108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_93
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83964d3ffba21c30800000000000000
+      internalID: 4328711304589513613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_94
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca86884805a1d6e20800000000000000
+      internalID: 3345359031329384620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_95
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3e89471959e0df0800000000000000
+      internalID: -212067680480861259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_96
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889783b99e473ec20800000000000000
+      internalID: 3234557504062519688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c73c156a0a64c20800000000000000
+      internalID: 3190414022235356316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9cb13c87e315510800000000000000
+      internalID: 1536077636300425646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_99
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9743a3e165edbbc0800000000000000
+      internalID: -3765601504818149474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_100
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e14d6a8f65dc620800000000000000
+      internalID: 2795986569617743435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_101
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070040df303c988d0800000000000000
+      internalID: -2843527267810541456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_102
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d4ccfa5d52bfa70800000000000000
+      internalID: 8861718291489246524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d83055ab93713b50800000000000000
+      internalID: 6571160443640887509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_104
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac71d976a0d0f450800000000000000
+      internalID: 6120621307023424679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_105
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e7a1aab5f878c0800000000000000
+      internalID: -4001178086993828570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_106
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75bd697a170b43c0800000000000000
+      internalID: -4374394802772527747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fab6cb96528a710800000000000000
+      internalID: 1704653595022700417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1003c87f328e9060800000000000000
+      internalID: 6962145283081961498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_109
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6627b732cc7c69f0800000000000000
+      internalID: -473866687180495254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86986a9649c4a260800000000000000
+      internalID: 7108027416972924554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_111
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a00b53509881f4e0800000000000000
+      internalID: -1949627010219573087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_112
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f4c4034a495d420800000000000000
+      internalID: 2654190988310630239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05380418f39b8c20800000000000000
+      internalID: 3209821853128865037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_114
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404af05f1eb2f2460800000000000000
+      internalID: 7219036977177273348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_115
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0c9edf113a38600800000000000000
+      internalID: 469398083846389971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_116
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce361de64b78a8a0800000000000000
+      internalID: -6293644934694682938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_117
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54fe0d5e63cbdf0800000000000000
+      internalID: -163195125811427935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_118
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6b9308b5aa56c50800000000000000
+      internalID: 6657914934107158230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_119
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8226a69334ef248e0800000000000000
+      internalID: -1710525343767829976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d688e350899528110800000000000000
+      internalID: 1261669355075045485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_121
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997004e41195e3750800000000000000
+      internalID: 6286560060717926297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_122
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c45f2f54b9b01200800000000000000
+      internalID: 148822972045415618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_123
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca6ef215cf0416d0800000000000000
+      internalID: -3020772110957122870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_124
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24359addec10f3c0800000000000000
+      internalID: -4327927434003008468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_125
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd05008b4aa95a5d0800000000000000
+      internalID: -3051863140221300515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_126
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5034af701b0105660800000000000000
+      internalID: 7372410942534599429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_127
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd25306588885c1d0800000000000000
+      internalID: -3331106230230625571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a292ff3f51c777cd0800000000000000
+      internalID: -2560441429407094486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_129
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d783810b115e172d0800000000000000
+      internalID: -3282590789244798851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_130
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd6fedbd6a2d7b00800000000000000
+      internalID: 827864557332426227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_131
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e94d511886173c0800000000000000
+      internalID: -4363591660318974311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_132
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e94cd3270c53770800000000000000
+      internalID: 8589983461174189688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036a81bc97f709c50800000000000000
+      internalID: 6669971209210865200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_134
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0266ca46cde2c30800000000000000
+      internalID: 4336645816151580867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saafng_135
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8a26f8ca31a0b00800000000000000
+      internalID: 795469916045224126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Saafng_0: 5491777657711297892
+      Saafng_1: -9104365324248415915
+      Saafng_10: 2058171119051884694
+      Saafng_100: 2795986569617743435
+      Saafng_101: -2843527267810541456
+      Saafng_102: 8861718291489246524
+      Saafng_103: 6571160443640887509
+      Saafng_104: 6120621307023424679
+      Saafng_105: -4001178086993828570
+      Saafng_106: -4374394802772527747
+      Saafng_107: 1704653595022700417
+      Saafng_108: 6962145283081961498
+      Saafng_109: -473866687180495254
+      Saafng_11: 500617795971730054
+      Saafng_110: 7108027416972924554
+      Saafng_111: -1949627010219573087
+      Saafng_112: 2654190988310630239
+      Saafng_113: 3209821853128865037
+      Saafng_114: 7219036977177273348
+      Saafng_115: 469398083846389971
+      Saafng_116: -6293644934694682938
+      Saafng_117: -163195125811427935
+      Saafng_118: 6657914934107158230
+      Saafng_119: -1710525343767829976
+      Saafng_12: -5789652767942552773
+      Saafng_120: 1261669355075045485
+      Saafng_121: 6286560060717926297
+      Saafng_122: 148822972045415618
+      Saafng_123: -3020772110957122870
+      Saafng_124: -4327927434003008468
+      Saafng_125: -3051863140221300515
+      Saafng_126: 7372410942534599429
+      Saafng_127: -3331106230230625571
+      Saafng_128: -2560441429407094486
+      Saafng_129: -3282590789244798851
+      Saafng_13: -6838913428535708215
+      Saafng_130: 827864557332426227
+      Saafng_131: -4363591660318974311
+      Saafng_132: 8589983461174189688
+      Saafng_133: 6669971209210865200
+      Saafng_134: 4336645816151580867
+      Saafng_135: 795469916045224126
+      Saafng_14: -3386873549543187437
+      Saafng_15: -3776881107393048529
+      Saafng_16: 3961226557763291082
+      Saafng_17: 844525900809951771
+      Saafng_18: 8887853673578134313
+      Saafng_19: -6392206849931002818
+      Saafng_2: 28778350741217894
+      Saafng_20: 8084858749621004651
+      Saafng_21: -2652635749185769535
+      Saafng_22: -6244490230082277125
+      Saafng_23: 2489734248993516235
+      Saafng_24: -7027380089778440811
+      Saafng_25: -226729752674374580
+      Saafng_26: -788381504760949014
+      Saafng_27: 7023713456276162629
+      Saafng_28: 860867033047178402
+      Saafng_29: 7289467798313195179
+      Saafng_3: -1609740806801745558
+      Saafng_30: 7408052400162684862
+      Saafng_31: -1227636441369820940
+      Saafng_32: 8291208734885426107
+      Saafng_33: 2889285309997042431
+      Saafng_34: -5617645282647469290
+      Saafng_35: 3930735545219333901
+      Saafng_36: -7443833009469194069
+      Saafng_37: 2528590479989499916
+      Saafng_38: -8527905645621112334
+      Saafng_39: 1006596068527205674
+      Saafng_4: 2332702093594899225
+      Saafng_40: 6055470462047066939
+      Saafng_41: 3992594287384183687
+      Saafng_42: 8116219933924933392
+      Saafng_43: 5292100081080877839
+      Saafng_44: -6077879262454631676
+      Saafng_45: -1173305216294406005
+      Saafng_46: 8401289389768238869
+      Saafng_47: 7399707148454190334
+      Saafng_48: -3606651777728771517
+      Saafng_49: -8310068154353881839
+      Saafng_5: -1232552376770533359
+      Saafng_50: 2617711058709593042
+      Saafng_51: 324077658388775698
+      Saafng_52: 1732986401123415140
+      Saafng_53: 677130471975919814
+      Saafng_54: 5111190662462959732
+      Saafng_55: 2839055335262437551
+      Saafng_56: -5595373635534943248
+      Saafng_57: -3630474127665358121
+      Saafng_58: 2145312821222058211
+      Saafng_59: -3855827123843391453
+      Saafng_6: -5857834363866702872
+      Saafng_60: -5885664411282960951
+      Saafng_61: -5796300212906578594
+      Saafng_62: 4742336859415336915
+      Saafng_63: -7859518656647097485
+      Saafng_64: -5981668045886161759
+      Saafng_65: 5729606813646081034
+      Saafng_66: -6107637305816882069
+      Saafng_67: -6647806226703926494
+      Saafng_68: -1742322240512917468
+      Saafng_69: -5781145739194125833
+      Saafng_7: 253879172810513390
+      Saafng_70: -921715014924313349
+      Saafng_71: 4846227092932494162
+      Saafng_72: 4073986339553787263
+      Saafng_73: -2585350901652408268
+      Saafng_74: -7387373505742786663
+      Saafng_75: -2256135891375282597
+      Saafng_76: 1615208717548628059
+      Saafng_77: -2027178182040301878
+      Saafng_78: -615893561215775037
+      Saafng_79: 2420350667369909322
+      Saafng_8: 4354147527552011881
+      Saafng_80: -3618518043969590878
+      Saafng_81: 465039314182847341
+      Saafng_82: -5877139898663419905
+      Saafng_83: -5812018398913164063
+      Saafng_84: 9060613860132159690
+      Saafng_85: -6615229390175722176
+      Saafng_86: -6203454796192159334
+      Saafng_87: 275422250013755332
+      Saafng_88: -2746032506093963298
+      Saafng_89: 8964906808094428652
+      Saafng_9: 7992719797105593933
+      Saafng_90: -7588740392801362674
+      Saafng_91: 1185648949951127080
+      Saafng_92: 6278817952793649108
+      Saafng_93: 4328711304589513613
+      Saafng_94: 3345359031329384620
+      Saafng_95: -212067680480861259
+      Saafng_96: 3234557504062519688
+      Saafng_97: 3190414022235356316
+      Saafng_98: 1536077636300425646
+      Saafng_99: -3765601504818149474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b474135d46b0e174c806bd0292d87227, type: 3}
+  m_Name: Map_Jungle
+  m_EditorClassIdentifier: 
+  top: {fileID: 21300000, guid: 633a73f7d7a735146b045c3398740741, type: 3}
+  middle: {fileID: 21300000, guid: f6733adefa36efe41a331b00d632c34f, type: 3}
+  bottom: {fileID: 21300000, guid: ab7168bfcebd4834db9754785994db60, type: 3}
+  minRandom: 0.9
+  maxRandom: 1
+  Sc: 1
+  guri: 0.2
+  building:
+  - {fileID: -6222172362104418701, guid: 758e799709e656246b60416961af35c2, type: 3}
+  - {fileID: -2832912036319747805, guid: 758e799709e656246b60416961af35c2, type: 3}
+  - {fileID: 3732941009913251205, guid: 758e799709e656246b60416961af35c2, type: 3}
+  - {fileID: 8434761640112159861, guid: 758e799709e656246b60416961af35c2, type: 3}
+  - {fileID: -6173685062447291321, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -7255454130715195978, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: 8500596281870142885, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -8448190611838148961, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -6173685062447291321, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -7255454130715195978, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: 8500596281870142885, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -8448190611838148961, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -6173685062447291321, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -7255454130715195978, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: 8500596281870142885, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -8448190611838148961, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -6173685062447291321, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -7255454130715195978, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: 8500596281870142885, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -8448190611838148961, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -6173685062447291321, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -7255454130715195978, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: 8500596281870142885, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -8448190611838148961, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -6173685062447291321, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -7255454130715195978, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: 8500596281870142885, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  - {fileID: -8448190611838148961, guid: af55e6e270bbbc74eb6259cc89c8773b, type: 3}
+  skyColor: {r: 0.1516949, g: 0.5253739, b: 0.81761, a: 1}
+  angeColor: {r: 0.9309087, g: 0.9433962, b: 0.40643165, a: 0.5882353}
+  groundColor: {r: 0.084437296, g: 0.3333333, b: 0.04088046, a: 1}

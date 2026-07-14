@@ -1,0 +1,4095 @@
+fileFormatVersion: 2
+guid: 5402dacf292a55b41aabb012b20eccab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7230346311945517932
+    second: effect_overdrive_active2_0
+  - first:
+      213: -253964899424836475
+    second: effect_overdrive_active2_1
+  - first:
+      213: -1485930337401797646
+    second: effect_overdrive_active2_2
+  - first:
+      213: 3370513696553291646
+    second: effect_overdrive_active2_3
+  - first:
+      213: 8670177496266934765
+    second: effect_overdrive_active2_4
+  - first:
+      213: -612977252453770774
+    second: effect_overdrive_active2_5
+  - first:
+      213: 5701758080145485300
+    second: effect_overdrive_active2_6
+  - first:
+      213: 5558245555768860659
+    second: effect_overdrive_active2_7
+  - first:
+      213: -8961471041572511043
+    second: effect_overdrive_active2_8
+  - first:
+      213: -7935836371750885250
+    second: effect_overdrive_active2_9
+  - first:
+      213: -5371729966300642335
+    second: effect_overdrive_active2_10
+  - first:
+      213: 6381991838389932237
+    second: effect_overdrive_active2_11
+  - first:
+      213: 8527518757189659435
+    second: effect_overdrive_active2_12
+  - first:
+      213: -2174495768258925339
+    second: effect_overdrive_active2_13
+  - first:
+      213: 1200148221181391895
+    second: effect_overdrive_active2_14
+  - first:
+      213: -940889460740279279
+    second: effect_overdrive_active2_15
+  - first:
+      213: 5392238253563985734
+    second: effect_overdrive_active2_16
+  - first:
+      213: 2011395589797183730
+    second: effect_overdrive_active2_17
+  - first:
+      213: -8465876684872914241
+    second: effect_overdrive_active2_18
+  - first:
+      213: 5077283457341163722
+    second: effect_overdrive_active2_19
+  - first:
+      213: -2651108566931479259
+    second: effect_overdrive_active2_20
+  - first:
+      213: 7611995482752544492
+    second: effect_overdrive_active2_21
+  - first:
+      213: 6231196803805831039
+    second: effect_overdrive_active2_22
+  - first:
+      213: -3012464752191390400
+    second: effect_overdrive_active2_23
+  - first:
+      213: 5807187329554125082
+    second: effect_overdrive_active2_24
+  - first:
+      213: -1792675172011693735
+    second: effect_overdrive_active2_25
+  - first:
+      213: 6606843589163407322
+    second: effect_overdrive_active2_26
+  - first:
+      213: 1780522479490999423
+    second: effect_overdrive_active2_27
+  - first:
+      213: -3869141077431901969
+    second: effect_overdrive_active2_28
+  - first:
+      213: 78074408278832333
+    second: effect_overdrive_active2_29
+  - first:
+      213: -176051850344387530
+    second: effect_overdrive_active2_30
+  - first:
+      213: 7598554734789077412
+    second: effect_overdrive_active2_31
+  - first:
+      213: 7041411620834162241
+    second: effect_overdrive_active2_32
+  - first:
+      213: -8685196894472525708
+    second: effect_overdrive_active2_33
+  - first:
+      213: -2430358863504276697
+    second: effect_overdrive_active2_34
+  - first:
+      213: 5669917050403232240
+    second: effect_overdrive_active2_35
+  - first:
+      213: 7729182363959096633
+    second: effect_overdrive_active2_36
+  - first:
+      213: -1922419910911877732
+    second: effect_overdrive_active2_37
+  - first:
+      213: 2293919437007698200
+    second: effect_overdrive_active2_38
+  - first:
+      213: 8985263822411920686
+    second: effect_overdrive_active2_39
+  - first:
+      213: -8144961770888021959
+    second: effect_overdrive_active2_40
+  - first:
+      213: 2064662690012638645
+    second: effect_overdrive_active2_41
+  - first:
+      213: -8649527839116677405
+    second: effect_overdrive_active2_42
+  - first:
+      213: -1534199390502505310
+    second: effect_overdrive_active2_43
+  - first:
+      213: 4184792975051951836
+    second: effect_overdrive_active2_44
+  - first:
+      213: 6123055529615391718
+    second: effect_overdrive_active2_45
+  - first:
+      213: 5630248280314660083
+    second: effect_overdrive_active2_46
+  - first:
+      213: -1144236046562142913
+    second: effect_overdrive_active2_47
+  - first:
+      213: 3043730455345455902
+    second: effect_overdrive_active2_48
+  - first:
+      213: -1532903579671783249
+    second: effect_overdrive_active2_49
+  - first:
+      213: 5341342858812716436
+    second: effect_overdrive_active2_50
+  - first:
+      213: 4764433189495859434
+    second: effect_overdrive_active2_51
+  - first:
+      213: -853690496015707483
+    second: effect_overdrive_active2_52
+  - first:
+      213: 8028284537939853126
+    second: effect_overdrive_active2_53
+  - first:
+      213: -5718428755552179529
+    second: effect_overdrive_active2_54
+  - first:
+      213: -9057367136228820869
+    second: effect_overdrive_active2_55
+  - first:
+      213: 553255720465595730
+    second: effect_overdrive_active2_56
+  - first:
+      213: -2929907195661936687
+    second: effect_overdrive_active2_57
+  - first:
+      213: 6092015066123679594
+    second: effect_overdrive_active2_58
+  - first:
+      213: 6861816595004341379
+    second: effect_overdrive_active2_59
+  - first:
+      213: -8765102840065897491
+    second: effect_overdrive_active2_60
+  - first:
+      213: -6240787665423504177
+    second: effect_overdrive_active2_61
+  - first:
+      213: -6902470057243056531
+    second: effect_overdrive_active2_62
+  - first:
+      213: 184024244708292786
+    second: effect_overdrive_active2_63
+  - first:
+      213: 5451772713538688347
+    second: effect_overdrive_active2_64
+  - first:
+      213: 3512886625813287822
+    second: effect_overdrive_active2_65
+  - first:
+      213: 1126970388241609549
+    second: effect_overdrive_active2_66
+  - first:
+      213: -5922039141147691975
+    second: effect_overdrive_active2_67
+  - first:
+      213: -7035871792178511096
+    second: effect_overdrive_active2_68
+  - first:
+      213: -6930685733625889377
+    second: effect_overdrive_active2_69
+  - first:
+      213: 8718874205684127595
+    second: effect_overdrive_active2_70
+  - first:
+      213: 163155948564233212
+    second: effect_overdrive_active2_71
+  - first:
+      213: -595447041554675356
+    second: effect_overdrive_active2_72
+  - first:
+      213: 3859591140186302133
+    second: effect_overdrive_active2_73
+  - first:
+      213: 4888844625202627253
+    second: effect_overdrive_active2_74
+  - first:
+      213: 1342040456745768222
+    second: effect_overdrive_active2_75
+  - first:
+      213: 2286931314025876307
+    second: effect_overdrive_active2_76
+  - first:
+      213: 6892569044273474768
+    second: effect_overdrive_active2_77
+  - first:
+      213: -3276439262112430375
+    second: effect_overdrive_active2_78
+  - first:
+      213: 1626386763582458781
+    second: effect_overdrive_active2_79
+  - first:
+      213: -8044963789448375368
+    second: effect_overdrive_active2_80
+  - first:
+      213: -2683384243668091571
+    second: effect_overdrive_active2_81
+  - first:
+      213: 1087300772764571732
+    second: effect_overdrive_active2_82
+  - first:
+      213: 4874154235336576110
+    second: effect_overdrive_active2_83
+  - first:
+      213: -8114553003081679562
+    second: effect_overdrive_active2_84
+  - first:
+      213: -5590366917002412335
+    second: effect_overdrive_active2_85
+  - first:
+      213: -2504108455940397459
+    second: effect_overdrive_active2_86
+  - first:
+      213: -264838748906706425
+    second: effect_overdrive_active2_87
+  - first:
+      213: 1937364188203413739
+    second: effect_overdrive_active2_88
+  - first:
+      213: -4209371681790036014
+    second: effect_overdrive_active2_89
+  - first:
+      213: -4771392245952043243
+    second: effect_overdrive_active2_90
+  - first:
+      213: 7363334368060888819
+    second: effect_overdrive_active2_91
+  - first:
+      213: 4163077619406406435
+    second: effect_overdrive_active2_92
+  - first:
+      213: 3135511376529312353
+    second: effect_overdrive_active2_93
+  - first:
+      213: 5666358097207459149
+    second: effect_overdrive_active2_94
+  - first:
+      213: -4151666298161130750
+    second: effect_overdrive_active2_95
+  - first:
+      213: 6533744784206701690
+    second: effect_overdrive_active2_96
+  - first:
+      213: -8142001733958117443
+    second: effect_overdrive_active2_97
+  - first:
+      213: -743643821311883122
+    second: effect_overdrive_active2_98
+  - first:
+      213: -6146161457171354397
+    second: effect_overdrive_active2_99
+  - first:
+      213: 5904642796457527640
+    second: effect_overdrive_active2_100
+  - first:
+      213: -7066249789689675940
+    second: effect_overdrive_active2_101
+  - first:
+      213: 9123627744400328156
+    second: effect_overdrive_active2_102
+  - first:
+      213: 7919823119067952748
+    second: effect_overdrive_active2_103
+  - first:
+      213: -2953581913418703152
+    second: effect_overdrive_active2_104
+  - first:
+      213: -7156453575735535738
+    second: effect_overdrive_active2_105
+  - first:
+      213: -597719269800411424
+    second: effect_overdrive_active2_106
+  - first:
+      213: 8264589602560054710
+    second: effect_overdrive_active2_107
+  - first:
+      213: -1484988194382246505
+    second: effect_overdrive_active2_108
+  - first:
+      213: -8554596290322004818
+    second: effect_overdrive_active2_109
+  - first:
+      213: 3994248766865228320
+    second: effect_overdrive_active2_110
+  - first:
+      213: 6618046924640595792
+    second: effect_overdrive_active2_111
+  - first:
+      213: -3120230671340421505
+    second: effect_overdrive_active2_112
+  - first:
+      213: -5663847363829286490
+    second: effect_overdrive_active2_113
+  - first:
+      213: -190655614370313623
+    second: effect_overdrive_active2_114
+  - first:
+      213: -2644552979688581153
+    second: effect_overdrive_active2_115
+  - first:
+      213: 4824481133614762881
+    second: effect_overdrive_active2_116
+  - first:
+      213: 5480003813655980178
+    second: effect_overdrive_active2_117
+  - first:
+      213: 8303342191565463386
+    second: effect_overdrive_active2_118
+  - first:
+      213: 3522400426535671102
+    second: effect_overdrive_active2_119
+  - first:
+      213: 4512343174510746268
+    second: effect_overdrive_active2_120
+  - first:
+      213: 1964350652491492295
+    second: effect_overdrive_active2_121
+  - first:
+      213: 4819500390010349833
+    second: effect_overdrive_active2_122
+  - first:
+      213: 8079054839052160379
+    second: effect_overdrive_active2_123
+  - first:
+      213: -5078442968503363265
+    second: effect_overdrive_active2_124
+  - first:
+      213: 8806893418573147458
+    second: effect_overdrive_active2_125
+  - first:
+      213: -6750563013422779372
+    second: effect_overdrive_active2_126
+  - first:
+      213: -7587033053980902662
+    second: effect_overdrive_active2_127
+  - first:
+      213: 2038035773801023120
+    second: effect_overdrive_active2_128
+  - first:
+      213: 2779025980141998021
+    second: effect_overdrive_active2_129
+  - first:
+      213: 7926796769384120167
+    second: effect_overdrive_active2_130
+  - first:
+      213: -1926835611443230180
+    second: effect_overdrive_active2_131
+  - first:
+      213: 1834836230600911351
+    second: effect_overdrive_active2_132
+  - first:
+      213: -5021058455924629851
+    second: effect_overdrive_active2_133
+  - first:
+      213: 2779285459952082632
+    second: effect_overdrive_active2_134
+  - first:
+      213: 542738514661143038
+    second: effect_overdrive_active2_135
+  - first:
+      213: -6239180354258811589
+    second: effect_overdrive_active2_136
+  - first:
+      213: 786627509933300401
+    second: effect_overdrive_active2_137
+  - first:
+      213: 5066639224210778964
+    second: effect_overdrive_active2_138
+  - first:
+      213: -6817678009419718412
+    second: effect_overdrive_active2_139
+  - first:
+      213: 1417090610760281355
+    second: effect_overdrive_active2_140
+  - first:
+      213: -1869258852003860715
+    second: effect_overdrive_active2_141
+  - first:
+      213: -7399369142327563677
+    second: effect_overdrive_active2_142
+  - first:
+      213: -2267420660211940436
+    second: effect_overdrive_active2_143
+  - first:
+      213: -6079829641742700137
+    second: effect_overdrive_active2_144
+  - first:
+      213: -3367511339844197074
+    second: effect_overdrive_active2_145
+  - first:
+      213: -3704257323978230991
+    second: effect_overdrive_active2_146
+  - first:
+      213: 204577633809431548
+    second: effect_overdrive_active2_147
+  - first:
+      213: -3992598722552680150
+    second: effect_overdrive_active2_148
+  - first:
+      213: -6860461825651511603
+    second: effect_overdrive_active2_149
+  - first:
+      213: -4809786029130853835
+    second: effect_overdrive_active2_150
+  - first:
+      213: -9017674909381480603
+    second: effect_overdrive_active2_151
+  - first:
+      213: 4118637871222039216
+    second: effect_overdrive_active2_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effect_overdrive_active2_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 841
+        width: 146
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7196a9a9575460800000000000000
+      internalID: 7230346311945517932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 934
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5846d50054cb97cf0800000000000000
+      internalID: -253964899424836475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 631
+        width: 253
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3803e1b3ae06be0800000000000000
+      internalID: -1485930337401797646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 631
+        width: 247
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fc5a9695876ce20800000000000000
+      internalID: 3370513696553291646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 631
+        width: 270
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9839c0f78a25870800000000000000
+      internalID: 8670177496266934765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 778
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae91914cf644e77f0800000000000000
+      internalID: -612977252453770774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_6
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 778
+        width: 240
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fde842c3c6b02f40800000000000000
+      internalID: 5701758080145485300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_7
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 774
+        width: 253
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff1ff552ead22d40800000000000000
+      internalID: 5558245555768860659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_8
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 772
+        width: 252
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2ee1e419572a380800000000000000
+      internalID: -8961471041572511043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 846
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78e922adde3ed190800000000000000
+      internalID: -7935836371750885250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_10
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 783
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e344596e08c375b0800000000000000
+      internalID: -5371729966300642335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 837
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc09ca683c3619850800000000000000
+      internalID: 6381991838389932237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_12
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 788
+        width: 12
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b25c10125d75670800000000000000
+      internalID: 8527518757189659435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_13
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 789
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec2657ae93a2d1e0800000000000000
+      internalID: -2174495768258925339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 688
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7147551d278c7a010800000000000000
+      internalID: 1200148221181391895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 662
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114baaf350a41f2f0800000000000000
+      internalID: -940889460740279279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 718
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f34ff4f1415da40800000000000000
+      internalID: 5392238253563985734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 681
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f006a0d1a9e9eb10800000000000000
+      internalID: 2011395589797183730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_18
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 688
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba63ed520a238a80800000000000000
+      internalID: -8465876684872914241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_19
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 535
+        width: 148
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac889c26762267640800000000000000
+      internalID: 5077283457341163722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_20
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 535
+        width: 179
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525ed07fdce553bd0800000000000000
+      internalID: -2651108566931479259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_21
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 601
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceee75dbf8d33a960800000000000000
+      internalID: 7611995482752544492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_22
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 281
+        width: 179
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f55609a78a97650800000000000000
+      internalID: 6231196803805831039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 665
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d3f33c4439136d0800000000000000
+      internalID: -3012464752191390400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 693
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a111932cb16479050800000000000000
+      internalID: 5807187329554125082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 690
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959a496dd632f17e0800000000000000
+      internalID: -1792675172011693735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_26
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 664
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7d6a26d3930bb50800000000000000
+      internalID: 6606843589163407322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_27
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 687
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a8a0f2cfa5b810800000000000000
+      internalID: 1780522479490999423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_28
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 694
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0accd80bc0e4ac0800000000000000
+      internalID: -3869141077431901969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_29
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 692
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4328bb240651100800000000000000
+      internalID: 78074408278832333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c2c2e56c98e8df0800000000000000
+      internalID: -176051850344387530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 643
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9277db54d737960800000000000000
+      internalID: 7598554734789077412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 660
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146b029ef8e18b160800000000000000
+      internalID: 7041411620834162241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 673
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a3acc07bf77780800000000000000
+      internalID: -8685196894472525708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_34
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 674
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230b108d71a54ed0800000000000000
+      internalID: -2430358863504276697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_35
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 675
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9173f44879fae40800000000000000
+      internalID: 5669917050403232240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_36
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 676
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935fef7b862934b60800000000000000
+      internalID: 7729182363959096633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_37
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 677
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d95f4c6413255e0800000000000000
+      internalID: -1922419910911877732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_38
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 635
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81935320393a5df10800000000000000
+      internalID: 2293919437007698200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_39
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 684
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f70c27d112bc70800000000000000
+      internalID: 8985263822411920686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_40
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 679
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93835195c6847fe80800000000000000
+      internalID: -8144961770888021959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 651
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bda43b07c727ac10800000000000000
+      internalID: 2064662690012638645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_42
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 636
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee299ae144b6f780800000000000000
+      internalID: -8649527839116677405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 662
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a43a7a68cd65bae0800000000000000
+      internalID: -1534199390502505310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_44
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 657
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde8580f90f531a30800000000000000
+      internalID: 4184792975051951836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_45
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 661
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb77b6109679f450800000000000000
+      internalID: 6123055529615391718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_46
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 619
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c8690bf8a22e40800000000000000
+      internalID: 5630248280314660083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_47
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 651
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f355779c06bde10f0800000000000000
+      internalID: -1144236046562142913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_48
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 651
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1367e609b08d3a20800000000000000
+      internalID: 3043730455345455902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_49
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 633
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa81db2e0580abae0800000000000000
+      internalID: -1532903579671783249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_50
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 666
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f91bc703402a40800000000000000
+      internalID: 5341342858812716436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 631
+        width: 105
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae86bf72ebaae1240800000000000000
+      internalID: 4764433189495859434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 616
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a25bd454051724f0800000000000000
+      internalID: -853690496015707483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 639
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f7aa760423a6f60800000000000000
+      internalID: 8028284537939853126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 654
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baeee7285f04a0b0800000000000000
+      internalID: -5718428755552179529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 650
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b8ccd394cd4280800000000000000
+      internalID: -9057367136228820869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 649
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dfd40852f8da700800000000000000
+      internalID: 553255720465595730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 542
+        width: 58
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d795b9cde0e657d0800000000000000
+      internalID: -2929907195661936687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_58
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 532
+        width: 67
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6731aefc6f2b8450800000000000000
+      internalID: 6092015066123679594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_59
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 649
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3d1376d11a3f50800000000000000
+      internalID: 6861816595004341379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_60
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 542
+        width: 57
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debca1e08691c5680800000000000000
+      internalID: -8765102840065897491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 656
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcceac3fea44469a0800000000000000
+      internalID: -6240787665423504177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_62
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 647
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e145cd008530a0800000000000000
+      internalID: -6902470057243056531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_63
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 656
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b5e75319cd8200800000000000000
+      internalID: 184024244708292786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_64
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 641
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5514a2f56698ab40800000000000000
+      internalID: 5451772713538688347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_65
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 651
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8352db26c740c030800000000000000
+      internalID: 3512886625813287822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_66
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 649
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43768fd89dc3af00800000000000000
+      internalID: 1126970388241609549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_67
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 530
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934bee507c0b0dda0800000000000000
+      internalID: -5922039141147691975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 622
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8034206f1ef8b5e90800000000000000
+      internalID: -7035871792178511096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_69
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 633
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d7c5dab0241df90800000000000000
+      internalID: -6930685733625889377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_70
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 635
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b675e1f35e9aff870800000000000000
+      internalID: 8718874205684127595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 616
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb9258875a34200800000000000000
+      internalID: 163155948564233212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 623
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469839d021c8cb7f0800000000000000
+      internalID: -595447041554675356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 616
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6ac0961b5009530800000000000000
+      internalID: 3859591140186302133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_74
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 616
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c74fc84aa8d340800000000000000
+      internalID: 4888844625202627253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 605
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15d88a5fa2ef9210800000000000000
+      internalID: 1342040456745768222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_76
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 608
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bca36d9efccbf10800000000000000
+      internalID: 2286931314025876307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_77
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 575
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc26c1070357af50800000000000000
+      internalID: 6892569044273474768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 606
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d645a5b9dfb782d0800000000000000
+      internalID: -3276439262112430375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 591
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bcabef426129610800000000000000
+      internalID: 1626386763582458781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 561
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39c0bbe0c8a5090800000000000000
+      internalID: -8044963789448375368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d78406f34b2cad0800000000000000
+      internalID: -2683384243668091571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 610
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458d3a4ca4ed61f00800000000000000
+      internalID: 1087300772764571732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_83
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 607
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc3b1e37974a340800000000000000
+      internalID: 4874154235336576110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 589
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dbc345901536f80800000000000000
+      internalID: -8114553003081679562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_85
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 607
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb9f378e60b62b0800000000000000
+      internalID: -5590366917002412335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ee9c60ae9f3dd0800000000000000
+      internalID: -2504108455940397459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_87
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 606
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a28a0af8a135cf0800000000000000
+      internalID: -264838748906706425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_88
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 615
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07d6ee676e2ea10800000000000000
+      internalID: 1937364188203413739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_89
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 604
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7f053f1ce4595c0800000000000000
+      internalID: -4209371681790036014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_90
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 607
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517a9ff380c98cdb0800000000000000
+      internalID: -4771392245952043243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_91
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 604
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6d1ba5891df2660800000000000000
+      internalID: 7363334368060888819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_92
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 606
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230915b90936c930800000000000000
+      internalID: 4163077619406406435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_93
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 615
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ac93bfbf2938b20800000000000000
+      internalID: 3135511376529312353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_94
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 603
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7532faa2f2ae40800000000000000
+      internalID: 5666358097207459149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_95
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 532
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20315209f715266c0800000000000000
+      internalID: -4151666298161130750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_96
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 606
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74a3b393468caa50800000000000000
+      internalID: 6533744784206701690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_97
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 604
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7dfc6af8cc10f80800000000000000
+      internalID: -8142001733958117443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_98
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 607
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e888a4f62eb0ea5f0800000000000000
+      internalID: -743643821311883122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_99
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 599
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecaa1de7b274baa0800000000000000
+      internalID: -6146161457171354397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_100
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 597
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8598b68d65181f150800000000000000
+      internalID: 5904642796457527640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_101
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 614
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3e5f3143afed90800000000000000
+      internalID: -7066249789689675940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_102
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 605
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd541ef2813ad9e70800000000000000
+      internalID: 9123627744400328156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_103
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 605
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66b8ff6a2dd8ed60800000000000000
+      internalID: 7919823119067952748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_104
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 604
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ded8a306e4c207d0800000000000000
+      internalID: -2953581913418703152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_105
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 281
+        width: 113
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68795bea36b2fac90800000000000000
+      internalID: -7156453575735535738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_106
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 604
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef320bd7974b7f0800000000000000
+      internalID: -597719269800411424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_107
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 525
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b59af2b478b1b270800000000000000
+      internalID: 8264589602560054710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_108
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 541
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d8232ea13446be0800000000000000
+      internalID: -1484988194382246505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 538
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea48b768ff7f74980800000000000000
+      internalID: -8554596290322004818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_110
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 566
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224b8d471c6e6730800000000000000
+      internalID: 3994248766865228320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_111
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 511
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa1123d9608db50800000000000000
+      internalID: 6618046924640595792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_112
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 563
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eb9717cb6b2b4d0800000000000000
+      internalID: -3120230671340421505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_113
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 562
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a93ce8b4d8f561b0800000000000000
+      internalID: -5663847363829286490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_114
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 562
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a06079ab7aa5df0800000000000000
+      internalID: -190655614370313623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_115
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 539
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd716ff8319ac4bd0800000000000000
+      internalID: -2644552979688581153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_116
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 569
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b8ea2a70004f240800000000000000
+      internalID: 4824481133614762881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_117
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 578
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29820c82f62ec0c40800000000000000
+      internalID: 5480003813655980178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_118
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 574
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fd5c0fab56b3370800000000000000
+      internalID: 8303342191565463386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_119
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 418
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35d754868412e030800000000000000
+      internalID: 3522400426535671102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_120
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 383
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a1f55b5301f9e30800000000000000
+      internalID: 4512343174510746268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_121
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 419
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbef08c286c24b10800000000000000
+      internalID: 1964350652491492295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_122
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 281
+        width: 114
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9096c65e11e42e240800000000000000
+      internalID: 4819500390010349833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 434
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dca9a42919e1070800000000000000
+      internalID: 8079054839052160379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_124
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 423
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39d642e60fb589b0800000000000000
+      internalID: -5078442968503363265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_125
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 425
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d27cc37ee583a70800000000000000
+      internalID: 8806893418573147458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_126
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 345
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147b0f84be2152a0800000000000000
+      internalID: -6750563013422779372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_127
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 420
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa325e92a175b690800000000000000
+      internalID: -7587033053980902662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_128
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 396
+        width: 123
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096c2f00dbe884c10800000000000000
+      internalID: 2038035773801023120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_129
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 345
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf02ffa765119620800000000000000
+      internalID: 2779025980141998021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_130
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 435
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fbadde9a3a10e60800000000000000
+      internalID: 7926796769384120167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_131
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 421
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8a5f58318245e0800000000000000
+      internalID: -1926835611443230180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_132
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 281
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9ebf194d5a67910800000000000000
+      internalID: 1834836230600911351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_133
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 409
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae1422efed915ab0800000000000000
+      internalID: -5021058455924629851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_134
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 387
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1ad98661029620800000000000000
+      internalID: 2779285459952082632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 395
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1fc44bdc1388700800000000000000
+      internalID: 542738514661143038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_136
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 358
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35cece368af969a0800000000000000
+      internalID: -6239180354258811589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_137
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 394
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1badf147d89aaea00800000000000000
+      internalID: 786627509933300401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_138
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 376
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be42cb781505640800000000000000
+      internalID: 5066639224210778964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_139
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 278
+        width: 89
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0ab87d8fdb261a0800000000000000
+      internalID: -6817678009419718412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_140
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 383
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d68e407648aa310800000000000000
+      internalID: 1417090610760281355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_141
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 349
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f2e055afe0f06e0800000000000000
+      internalID: -1869258852003860715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_142
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 281
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a2495f7f8205990800000000000000
+      internalID: -7399369142327563677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_143
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 375
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca38faf3ce08880e0800000000000000
+      internalID: -2267420660211940436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 351
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7913905372b10aba0800000000000000
+      internalID: -6079829641742700137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_145
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 348
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ac7b37423441d0800000000000000
+      internalID: -3367511339844197074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_146
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13373aff695d79cc0800000000000000
+      internalID: -3704257323978230991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_147
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 278
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb7338264ec6d200800000000000000
+      internalID: 204577633809431548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_148
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 344
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b1939d907798c0800000000000000
+      internalID: -3992598722552680150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_149
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 345
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcee9ee515ebac0a0800000000000000
+      internalID: -6860461825651511603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_150
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 281
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d4000715304db0800000000000000
+      internalID: -4809786029130853835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_151
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 350
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f2d569278cad280800000000000000
+      internalID: -9017674909381480603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effect_overdrive_active2_152
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 307
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b229a88257582930800000000000000
+      internalID: 4118637871222039216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      effect_overdrive_active2_0: 7230346311945517932
+      effect_overdrive_active2_1: -253964899424836475
+      effect_overdrive_active2_10: -5371729966300642335
+      effect_overdrive_active2_100: 5904642796457527640
+      effect_overdrive_active2_101: -7066249789689675940
+      effect_overdrive_active2_102: 9123627744400328156
+      effect_overdrive_active2_103: 7919823119067952748
+      effect_overdrive_active2_104: -2953581913418703152
+      effect_overdrive_active2_105: -7156453575735535738
+      effect_overdrive_active2_106: -597719269800411424
+      effect_overdrive_active2_107: 8264589602560054710
+      effect_overdrive_active2_108: -1484988194382246505
+      effect_overdrive_active2_109: -8554596290322004818
+      effect_overdrive_active2_11: 6381991838389932237
+      effect_overdrive_active2_110: 3994248766865228320
+      effect_overdrive_active2_111: 6618046924640595792
+      effect_overdrive_active2_112: -3120230671340421505
+      effect_overdrive_active2_113: -5663847363829286490
+      effect_overdrive_active2_114: -190655614370313623
+      effect_overdrive_active2_115: -2644552979688581153
+      effect_overdrive_active2_116: 4824481133614762881
+      effect_overdrive_active2_117: 5480003813655980178
+      effect_overdrive_active2_118: 8303342191565463386
+      effect_overdrive_active2_119: 3522400426535671102
+      effect_overdrive_active2_12: 8527518757189659435
+      effect_overdrive_active2_120: 4512343174510746268
+      effect_overdrive_active2_121: 1964350652491492295
+      effect_overdrive_active2_122: 4819500390010349833
+      effect_overdrive_active2_123: 8079054839052160379
+      effect_overdrive_active2_124: -5078442968503363265
+      effect_overdrive_active2_125: 8806893418573147458
+      effect_overdrive_active2_126: -6750563013422779372
+      effect_overdrive_active2_127: -7587033053980902662
+      effect_overdrive_active2_128: 2038035773801023120
+      effect_overdrive_active2_129: 2779025980141998021
+      effect_overdrive_active2_13: -2174495768258925339
+      effect_overdrive_active2_130: 7926796769384120167
+      effect_overdrive_active2_131: -1926835611443230180
+      effect_overdrive_active2_132: 1834836230600911351
+      effect_overdrive_active2_133: -5021058455924629851
+      effect_overdrive_active2_134: 2779285459952082632
+      effect_overdrive_active2_135: 542738514661143038
+      effect_overdrive_active2_136: -6239180354258811589
+      effect_overdrive_active2_137: 786627509933300401
+      effect_overdrive_active2_138: 5066639224210778964
+      effect_overdrive_active2_139: -6817678009419718412
+      effect_overdrive_active2_14: 1200148221181391895
+      effect_overdrive_active2_140: 1417090610760281355
+      effect_overdrive_active2_141: -1869258852003860715
+      effect_overdrive_active2_142: -7399369142327563677
+      effect_overdrive_active2_143: -2267420660211940436
+      effect_overdrive_active2_144: -6079829641742700137
+      effect_overdrive_active2_145: -3367511339844197074
+      effect_overdrive_active2_146: -3704257323978230991
+      effect_overdrive_active2_147: 204577633809431548
+      effect_overdrive_active2_148: -3992598722552680150
+      effect_overdrive_active2_149: -6860461825651511603
+      effect_overdrive_active2_15: -940889460740279279
+      effect_overdrive_active2_150: -4809786029130853835
+      effect_overdrive_active2_151: -9017674909381480603
+      effect_overdrive_active2_152: 4118637871222039216
+      effect_overdrive_active2_16: 5392238253563985734
+      effect_overdrive_active2_17: 2011395589797183730
+      effect_overdrive_active2_18: -8465876684872914241
+      effect_overdrive_active2_19: 5077283457341163722
+      effect_overdrive_active2_2: -1485930337401797646
+      effect_overdrive_active2_20: -2651108566931479259
+      effect_overdrive_active2_21: 7611995482752544492
+      effect_overdrive_active2_22: 6231196803805831039
+      effect_overdrive_active2_23: -3012464752191390400
+      effect_overdrive_active2_24: 5807187329554125082
+      effect_overdrive_active2_25: -1792675172011693735
+      effect_overdrive_active2_26: 6606843589163407322
+      effect_overdrive_active2_27: 1780522479490999423
+      effect_overdrive_active2_28: -3869141077431901969
+      effect_overdrive_active2_29: 78074408278832333
+      effect_overdrive_active2_3: 3370513696553291646
+      effect_overdrive_active2_30: -176051850344387530
+      effect_overdrive_active2_31: 7598554734789077412
+      effect_overdrive_active2_32: 7041411620834162241
+      effect_overdrive_active2_33: -8685196894472525708
+      effect_overdrive_active2_34: -2430358863504276697
+      effect_overdrive_active2_35: 5669917050403232240
+      effect_overdrive_active2_36: 7729182363959096633
+      effect_overdrive_active2_37: -1922419910911877732
+      effect_overdrive_active2_38: 2293919437007698200
+      effect_overdrive_active2_39: 8985263822411920686
+      effect_overdrive_active2_4: 8670177496266934765
+      effect_overdrive_active2_40: -8144961770888021959
+      effect_overdrive_active2_41: 2064662690012638645
+      effect_overdrive_active2_42: -8649527839116677405
+      effect_overdrive_active2_43: -1534199390502505310
+      effect_overdrive_active2_44: 4184792975051951836
+      effect_overdrive_active2_45: 6123055529615391718
+      effect_overdrive_active2_46: 5630248280314660083
+      effect_overdrive_active2_47: -1144236046562142913
+      effect_overdrive_active2_48: 3043730455345455902
+      effect_overdrive_active2_49: -1532903579671783249
+      effect_overdrive_active2_5: -612977252453770774
+      effect_overdrive_active2_50: 5341342858812716436
+      effect_overdrive_active2_51: 4764433189495859434
+      effect_overdrive_active2_52: -853690496015707483
+      effect_overdrive_active2_53: 8028284537939853126
+      effect_overdrive_active2_54: -5718428755552179529
+      effect_overdrive_active2_55: -9057367136228820869
+      effect_overdrive_active2_56: 553255720465595730
+      effect_overdrive_active2_57: -2929907195661936687
+      effect_overdrive_active2_58: 6092015066123679594
+      effect_overdrive_active2_59: 6861816595004341379
+      effect_overdrive_active2_6: 5701758080145485300
+      effect_overdrive_active2_60: -8765102840065897491
+      effect_overdrive_active2_61: -6240787665423504177
+      effect_overdrive_active2_62: -6902470057243056531
+      effect_overdrive_active2_63: 184024244708292786
+      effect_overdrive_active2_64: 5451772713538688347
+      effect_overdrive_active2_65: 3512886625813287822
+      effect_overdrive_active2_66: 1126970388241609549
+      effect_overdrive_active2_67: -5922039141147691975
+      effect_overdrive_active2_68: -7035871792178511096
+      effect_overdrive_active2_69: -6930685733625889377
+      effect_overdrive_active2_7: 5558245555768860659
+      effect_overdrive_active2_70: 8718874205684127595
+      effect_overdrive_active2_71: 163155948564233212
+      effect_overdrive_active2_72: -595447041554675356
+      effect_overdrive_active2_73: 3859591140186302133
+      effect_overdrive_active2_74: 4888844625202627253
+      effect_overdrive_active2_75: 1342040456745768222
+      effect_overdrive_active2_76: 2286931314025876307
+      effect_overdrive_active2_77: 6892569044273474768
+      effect_overdrive_active2_78: -3276439262112430375
+      effect_overdrive_active2_79: 1626386763582458781
+      effect_overdrive_active2_8: -8961471041572511043
+      effect_overdrive_active2_80: -8044963789448375368
+      effect_overdrive_active2_81: -2683384243668091571
+      effect_overdrive_active2_82: 1087300772764571732
+      effect_overdrive_active2_83: 4874154235336576110
+      effect_overdrive_active2_84: -8114553003081679562
+      effect_overdrive_active2_85: -5590366917002412335
+      effect_overdrive_active2_86: -2504108455940397459
+      effect_overdrive_active2_87: -264838748906706425
+      effect_overdrive_active2_88: 1937364188203413739
+      effect_overdrive_active2_89: -4209371681790036014
+      effect_overdrive_active2_9: -7935836371750885250
+      effect_overdrive_active2_90: -4771392245952043243
+      effect_overdrive_active2_91: 7363334368060888819
+      effect_overdrive_active2_92: 4163077619406406435
+      effect_overdrive_active2_93: 3135511376529312353
+      effect_overdrive_active2_94: 5666358097207459149
+      effect_overdrive_active2_95: -4151666298161130750
+      effect_overdrive_active2_96: 6533744784206701690
+      effect_overdrive_active2_97: -8142001733958117443
+      effect_overdrive_active2_98: -743643821311883122
+      effect_overdrive_active2_99: -6146161457171354397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
